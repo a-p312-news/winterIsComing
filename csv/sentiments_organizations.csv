@@ -1,1 +1,10 @@
 ,phrase,label,sentiment,subjectivity,language,count
+NFL,NFL,ORG,0.14285714285714285,0.0,de,7
+Löschteams,Löschteams,ORG,1.0,0.0,de,3
+Rechtsmedizin,Rechtsmedizin,ORG,-0.35,0.0,de,2
+Millionen für Waldbrand-Opfer,Millionen für Waldbrand-Opfer,ORG,0.0,0.0,de,2
+Breeze Technologies,Breeze Technologies,ORG,0.0,0.0,de,1
+Feuerschutzbehörde Cal Fire,Feuerschutzbehörde Cal Fire,ORG,0.0,0.0,de,1
+US-Medien,US-Medien,ORG,0.0,0.0,de,1
+American-Football-Profiliga,American-Football-Profiliga,ORG,0.0,0.0,de,1
+Los Angel,Los Angel,ORG,0.0,0.0,de,1
