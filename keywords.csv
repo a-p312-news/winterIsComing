@@ -1,19 +1,23 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Erdbeben Tote',de,Opfer,#4287f5,#638ed4,3,0.3415528529196835
-'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.3343298137668479
-'Glatteis',de,Winter,#4287f5,#3b4a63,3,0.24483856543020022
-'Winter',de,Winter,#4287f5,#315fa8,3,0.2385735240104122
-'Dürre',de,Sommer,#a89216,#bfba22,3,0.1888640998902947
-'Hochwasser',de,Winter,#4287f5,#022f78,3,0.1620999325456912
-'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1423048988614873
-'Laub',de,Herbst,#9e3215,#802d16,2,0.1298109168729461
-'Sommer',de,Sommer,#a89216,#a89216,3,0.1293110604031849
-'Blüte',de,Frühling,#679e2c,#61b00c,2,0.1243958276421334
-'Ernte',de,Herbst,#9e3215,#d64118,3,0.1153176213328333
-'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.1067282347255215
-'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1027508585946511
-'Pollen',de,Frühling,#679e2c,#61d01c,1,0.0789901597117965
-'Spätfrost',de,Frühling,#679e2c,#477515,1,0.0368959603618182
-'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0366630063651613
-'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0238559834467042
-'Aussaat',de,Frühling,#679e2c,#7db344,1,0.009186813701412
+'Waldbrand',de,Hazard,#4287f5,#638ed4,1,0.7
+'Waldbrände',de,Hazard,#4287f5,#3b4a63,1,0.7
+'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,1,0.7
+'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,1,0.7
+'Waldbrand Tote',de,Impacts,#a89216,#87830f,1,0.7
+'Waldbrand Todesopfer',de,Impacts,#a89216,#87830f,1,0.7
+'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.7
+'Waldbrand Häuser',de,Impacts,#a89216,#a89216,1,0.7
+'Waldbrand Gebäude',de,Impacts,#a89216,#a89216,1,0.7
+'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.7
+'Waldbrand Rauch',de,Impacts,#a89216,#bfba22,1,0.7
+'Waldbrand Feuerwehr',de,Mitigation,#9e3215,#802d16,1,0.7
+'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.7
+'Waldbrand Evakuierung',de,Mitigation,#9e3215,#9e3215,1,0.7
+'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,1,0.7
+'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.7
+'Waldbrand heiss',de,Causes,#679e2c,#7db344,1,0.7
+'Waldbrand Hitze',de,Causes,#679e2c,#7db344,1,0.7
+'Waldbrand Wind',de,Causes,#679e2c,#679e2c,1,0.7
+'Waldbrand trocken',de,Causes,#679e2c,#61b00c,1,0.7
+'Waldbrand Wetter',de,Causes,#679e2c,#61d01c,1,0.7
+'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,1,0.7
