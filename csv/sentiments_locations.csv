@@ -1,43 +1,44 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Los Angeles,Los Angeles,LOC,-0.17521367521367517,0.010683760683760682,de,78
-Kalifornien,Kalifornien,LOC,-0.28611111111111115,0.09722222222222221,de,24
+Kalifornien,Kalifornien,LOC,-0.3172839506172839,0.08641975308641975,de,27
 Malibu,Malibu,LOC,-0.365625,0.125,de,16
 Pazifikküste,Pazifikküste,LOC,-0.2642857142857143,0.0,de,14
 Berlin,Berlin,LOC,0.0,0.0,de,7
-Pacific Palisades,Pacific Palisades,LOC,-0.49333333333333335,0.26666666666666666,de,5
 Kühleres Wetter,Kühleres Wetter,LOC,0.07999999999999999,0.2,de,5
 Großraum Los Angeles,Großraum Los Angeles,LOC,-0.41999999999999993,0.0,de,5
-Harz,Harz,LOC,0.0,0.0,de,4
-US-Metropole,US-Metropole,LOC,-0.175,0.0,de,4
+Pacific Palisades,Pacific Palisades,LOC,-0.49333333333333335,0.26666666666666666,de,5
 USA,USA,LOC,-0.5625,0.0,de,4
-Berlin/,Berlin/,LOC,0.0,0.0,de,2
-Pasadena,Pasadena,LOC,0.0,0.0,de,2
-Verängstigte,Verängstigte,LOC,-0.95,0.0,de,2
+US-Metropole,US-Metropole,LOC,-0.175,0.0,de,4
+Harz,Harz,LOC,0.0,0.0,de,4
+Waldbrandsensoren,Waldbrandsensoren,LOC,0.0,0.0,de,2
 Washington,Washington,LOC,0.0,0.0,de,2
+Kaliforniens,Kaliforniens,LOC,0.0,0.0,de,2
 Waldbrandsensoren im Harz,Waldbrandsensoren im Harz,LOC,0.35,0.0,de,2
+Pasadena,Pasadena,LOC,0.0,0.0,de,2
+Berlin/,Berlin/,LOC,0.0,0.0,de,2
 niederbrennt,niederbrennt,LOC,0.0,0.0,de,2
+US-Staat,US-Staat,LOC,0.0,0.0,de,2
+Verängstigte,Verängstigte,LOC,-0.95,0.0,de,2
 Waldbrand bei,Waldbrand bei,LOC,-1.0,0.0,de,2
 Waldbrand,Waldbrand,LOC,0.0,0.0,de,2
-Waldbrandsensoren,Waldbrandsensoren,LOC,0.0,0.0,de,2
-Kaliforniens,Kaliforniens,LOC,0.0,0.0,de,2
-Los Angeles Coun,Los Angeles Coun,LOC,0.0,0.0,de,1
-Millionens,Millionens,LOC,0.0,0.0,de,1
-Hollywood Hills,Hollywood Hills,LOC,0.0,0.0,de,1
+Altadena,Altadena,LOC,0.0,0.0,de,1
+Südkalifornien,Südkalifornien,LOC,0.0,0.0,de,1
+Pacific Coast Highway,Pacific Coast Highway,LOC,0.0,0.0,de,1
 Los Angeles s…,Los Angeles s…,LOC,0.0,0.0,de,1
-Flammenhölle,Flammenhölle,LOC,0.0,0.0,de,1
+Millionens,Millionens,LOC,0.0,0.0,de,1
+US-Küstenstadt,US-Küstenstadt,LOC,0.0,0.0,de,1
 Erde,Erde,LOC,0.0,1.0,de,1
+Flammenhölle,Flammenhölle,LOC,0.0,0.0,de,1
 L.A.,L.A.,LOC,0.0,0.0,de,1
-Flammeninferno,Flammeninferno,LOC,-0.5,0.5,de,1
+Hause,Hause,LOC,0.0,0.0,de,1
+M…,M…,LOC,0.7,0.0,de,1
+Hollywood Hills,Hollywood Hills,LOC,0.0,0.0,de,1
+Altdena,Altdena,LOC,0.0,0.0,de,1
+Los Angeles Coun,Los Angeles Coun,LOC,0.0,0.0,de,1
+Bewohner,Bewohner,LOC,0.0,0.0,de,1
+reuters,reuters,LOC,0.0,0.0,de,1
 Santa Monica,Santa Monica,LOC,-1.0,0.0,de,1
 Beverly Hills,Beverly Hills,LOC,-1.0,0.0,de,1
+Flammeninferno,Flammeninferno,LOC,-0.5,0.5,de,1
 Evakuierungsanordnungen,Evakuierungsanordnungen,LOC,0.0,0.0,de,1
-Altdena,Altdena,LOC,0.0,0.0,de,1
-Altadena,Altadena,LOC,0.0,0.0,de,1
-reuters,reuters,LOC,0.0,0.0,de,1
-Bewohner,Bewohner,LOC,0.0,0.0,de,1
-M…,M…,LOC,0.7,0.0,de,1
-Südkalifornien,Südkalifornien,LOC,0.0,0.0,de,1
-Hause,Hause,LOC,0.0,0.0,de,1
-US-Küstenstadt,US-Küstenstadt,LOC,0.0,0.0,de,1
-Pacific Coast Highway,Pacific Coast Highway,LOC,0.0,0.0,de,1
 Kanada,Kanada,LOC,-0.15000000000000002,0.0,de,1
