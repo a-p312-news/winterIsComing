@@ -1,8 +1,15 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Jörg Kachelmann,Jörg Kachelmann,PER,0.5,0.0,de,4
-Luisa Neubauer,Luisa Neubauer,PER,0.0,0.0,de,3
+Jörg Kachelmann,Jörg Kachelmann,PER,0.0,0.0,de,6
+Luisa Neubauer,Luisa Neubauer,PER,0.0,0.0,de,4
+Thea Gottschalk,Thea Gottschalk,PER,-0.35,0.0,de,2
+Joe Biden,Joe Biden,PER,0.5,0.0,de,2
 Johann Goldammer,Johann Goldammer,PER,0.0,0.0,de,2
+Donald Trump Jr,Donald Trump Jr,PER,0.0,0.0,de,1
+Steven Spielberg,Steven Spielberg,PER,-0.9,0.0,de,1
+Harrison Ford,Harrison Ford,PER,-0.9,0.0,de,1
 Anthony Marrone,Anthony Marrone,PER,0.0,0.0,de,1
 Gavin Newsom,Gavin Newsom,PER,0.0,0.0,de,1
+Robert Luna,Robert Luna,PER,-0.35,0.5,de,1
 Zachary Cole Smith,Zachary Cole Smith,PER,0.0,0.0,de,1
 Diiv-Frontmann Zachary Cole Smith,Diiv-Frontmann Zachary Cole Smith,PER,-0.7,0.0,de,1
+Nicolas Neuman,Nicolas Neuman,PER,0.0,0.0,de,1
