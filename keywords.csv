@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,2,0.5370143584935064
 'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.533043729340909
 'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,2,0.5310456351363636
-'Waldbrand Hitze',de,Causes,#679e2c,#7db344,1,0.5287387274285713
 'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,3,0.5193288228420455
 'Waldbrand Todesopfer',de,Impacts,#a89216,#87830f,2,0.5178010800454544
 'Waldbrand heiss',de,Causes,#679e2c,#7db344,1,0.5057499999999999
 'Waldbrand Wetter',de,Causes,#679e2c,#61d01c,1,0.478630995903409
+'Waldbrand Hitze',de,Causes,#679e2c,#7db344,1,0.4693780383142856
 'Waldbrand Evakuierung',de,Mitigation,#9e3215,#9e3215,2,0.447650607711111
 'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,1,0.4472406581615532
