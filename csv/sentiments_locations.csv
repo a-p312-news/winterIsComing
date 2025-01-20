@@ -1,83 +1,107 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Los Angeles,Los Angeles,LOC,-0.14976190476190476,0.027380952380952377,de,140
-Kalifornien,Kalifornien,LOC,-0.19465408805031445,0.04874213836477987,de,53
+Los Angeles,Los Angeles,LOC,-0.11598039215686276,0.040196078431372545,de,170
+Kalifornien,Kalifornien,LOC,-0.15482456140350878,0.03399122807017543,de,76
 Pazifikküste,Pazifikküste,LOC,-0.358695652173913,0.0,de,23
 Malibu,Malibu,LOC,-0.365625,0.125,de,16
-Pacific Palisades,Pacific Palisades,LOC,-0.5222222222222223,0.1111111111111111,de,12
+Pacific Palisades,Pacific Palisades,LOC,-0.46444444444444444,0.08888888888888888,de,15
 Berlin,Berlin,LOC,0.0,0.0,de,10
+Großraum Los Angeles,Großraum Los Angeles,LOC,-0.29999999999999993,0.0,de,7
+Harz,Harz,LOC,-0.12142857142857143,0.0,de,7
 Südkalifornien,Südkalifornien,LOC,0.4666666666666666,0.0,de,6
 Thüringen,Thüringen,LOC,0.0,0.3333333333333333,de,6
-Australiens,Australiens,LOC,1.0,0.0,de,5
-Kühleres Wetter,Kühleres Wetter,LOC,0.07999999999999999,0.2,de,5
-US-Metropole,US-Metropole,LOC,0.06000000000000001,0.0,de,5
-Großraum Los Angeles,Großraum Los Angeles,LOC,-0.41999999999999993,0.0,de,5
 USA,USA,LOC,-0.45,0.0,de,5
-Harz,Harz,LOC,0.0,0.0,de,4
+Waldbrand,Waldbrand,LOC,-0.33999999999999997,0.0,de,5
+L.A.,L.A.,LOC,0.2,0.0,de,5
+US-Metropole,US-Metropole,LOC,0.06000000000000001,0.0,de,5
+Kühleres Wetter,Kühleres Wetter,LOC,0.07999999999999999,0.2,de,5
+Australiens,Australiens,LOC,1.0,0.0,de,5
 Ibiza,Ibiza,LOC,0.0,0.0,de,4
-Waldbrand,Waldbrand,LOC,-0.175,0.0,de,4
-L.A.,L.A.,LOC,0.25,0.0,de,4
-Waldbrand bei,Waldbrand bei,LOC,-1.0,0.0,de,3
+Waldbrandsensoren im Harz,Waldbrandsensoren im Harz,LOC,0.2333333333333333,0.0,de,3
 Washington,Washington,LOC,0.2333333333333333,0.0,de,3
+Waldbrand bei,Waldbrand bei,LOC,-1.0,0.0,de,3
+Australien,Australien,LOC,-0.11666666666666665,0.8333333333333334,de,3
+Hollywood Hills,Hollywood Hills,LOC,0.5666666666666667,0.0,de,3
 Waldbrandfläche,Waldbrandfläche,LOC,0.0,0.0,de,3
 Berlin/,Berlin/,LOC,0.0,0.0,de,3
-Australien,Australien,LOC,-0.11666666666666665,0.8333333333333334,de,3
+Kaliforniens,Kaliforniens,LOC,0.0,0.0,de,3
+LA,LA,LOC,0.0,0.0,de,3
 US-Präsident,US-Präsident,LOC,0.5,0.0,de,2
+Waldbrand-Horror,Waldbrand-Horror,LOC,0.0,0.0,de,2
+Flammeninferno,Flammeninferno,LOC,-0.25,0.25,de,2
 US-Staat,US-Staat,LOC,0.0,0.0,de,2
-niederbrennt,niederbrennt,LOC,0.0,0.0,de,2
-Pasadena,Pasadena,LOC,0.0,0.0,de,2
 Feuerwehrschläuchen,Feuerwehrschläuchen,LOC,-0.15000000000000002,0.0,de,2
-Kaliforniens,Kaliforniens,LOC,0.0,0.0,de,2
-Verängstigte,Verängstigte,LOC,-0.95,0.0,de,2
+Privacy Center,Privacy Center,LOC,0.0,0.0,de,2
+Altadena,Altadena,LOC,0.0,0.0,de,2
+Pasadena,Pasadena,LOC,0.0,0.0,de,2
+Hollywood,Hollywood,LOC,0.0,0.0,de,2
 Großraum Los Angeles Panik,Großraum Los Angeles Panik,LOC,-0.175,0.25,de,2
-Waldbrandsensoren im Harz,Waldbrandsensoren im Harz,LOC,0.35,0.0,de,2
-Waldbrandsensoren,Waldbrandsensoren,LOC,0.0,0.0,de,2
-Feuer-Katastrophe,Feuer-Katastrophe,LOC,0.0,0.0,de,2
-Sant Antoni,Sant Antoni,LOC,0.0,0.0,de,2
-Verbrannte Natur,Verbrannte Natur,LOC,0.0,0.0,de,2
-Sant Rafel,Sant Rafel,LOC,0.0,0.0,de,2
 Erde,Erde,LOC,-0.35,0.5,de,2
-Australiens Nationalpark,Australiens Nationalpark,LOC,0.0,0.0,de,2
+L.,L.,LOC,0.0,0.0,de,2
+Verängstigte,Verängstigte,LOC,-0.95,0.0,de,2
+Feuer-Katastrophe,Feuer-Katastrophe,LOC,0.0,0.0,de,2
+Waldbrandsensoren,Waldbrandsensoren,LOC,0.0,0.0,de,2
+niederbrennt,niederbrennt,LOC,0.0,0.0,de,2
+Mittelmeerraum,Mittelmeerraum,LOC,-1.0,0.0,de,2
+Sant Rafel,Sant Rafel,LOC,0.0,0.0,de,2
+Verbrannte Natur,Verbrannte Natur,LOC,0.0,0.0,de,2
 Nationalpark,Nationalpark,LOC,1.0,0.0,de,2
+Australiens Nationalpark,Australiens Nationalpark,LOC,0.0,0.0,de,2
+Sachsen-Anhalt,Sachsen-Anhalt,LOC,-0.25,0.0,de,2
 Europa,Europa,LOC,0.0,0.0,de,2
-Kanada,Kanada,LOC,-0.15000000000000002,0.0,de,1
+Sant Antoni,Sant Antoni,LOC,0.0,0.0,de,2
+Wachst,Wachst,LOC,0.0,0.0,de,1
+Hollywood Hills ge…,Hollywood Hills ge…,LOC,1.0,0.0,de,1
+th,th,LOC,0.0,1.0,de,1
+Tausenden,Tausenden,LOC,1.0,0.0,de,1
+Erfurt,Erfurt,LOC,0.0,1.0,de,1
+Flammenhölle,Flammenhölle,LOC,0.0,0.0,de,1
+Österreich,Österreich,LOC,0.0,0.0,de,1
+Hause,Hause,LOC,0.0,0.0,de,1
+Großraum Los Angeles Waldbrände,Großraum Los Angeles Waldbrände,LOC,1.0,0.0,de,1
+Pazifik,Pazifik,LOC,0.0,0.0,de,1
+Küste,Küste,LOC,0.0,0.0,de,1
+P,P,LOC,0.0,1.0,de,1
+Lokalheld,Lokalheld,LOC,0.7,0.0,de,1
+Millionens,Millionens,LOC,0.0,0.0,de,1
+Pacific Coast Highway,Pacific Coast Highway,LOC,0.0,0.0,de,1
+Los Angeles s…,Los Angeles s…,LOC,0.0,0.0,de,1
+US-Küstenstadt,US-Küstenstadt,LOC,0.0,0.0,de,1
+Nasa,Nasa,LOC,0.7,0.0,de,1
+L.A.-Inferno - Wir,L.A.-Inferno - Wir,LOC,0.0,0.0,de,1
+Wochenendprognose,Wochenendprognose,LOC,-1.0,0.0,de,1
+Supermarkt,Supermarkt,LOC,0.0,0.0,de,1
+Pizzeria,Pizzeria,LOC,0.0,0.0,de,1
+Spielplatz,Spielplatz,LOC,0.0,0.0,de,1
 Los Angel,Los Angel,LOC,0.0,0.0,de,1
+Los Angeles,Los Angeles,LOC,0.0,0.0,de,1
+Kanada,Kanada,LOC,-0.15000000000000002,0.0,de,1
+Bewohner,Bewohner,LOC,0.0,0.0,de,1
+JPL,JPL,LOC,-1.0,0.0,de,1
+S…,S…,LOC,0.7,0.0,de,1
+Promine,Promine,LOC,-0.7,0.0,de,1
+M…,M…,LOC,0.7,0.0,de,1
+Grönland,Grönland,LOC,0.0,0.0,de,1
+Altdena,Altdena,LOC,0.0,0.0,de,1
+Wozu,Wozu,LOC,0.35,0.0,de,1
+Wernigerode,Wernigerode,LOC,0.35,0.0,de,1
+Evakuierungsanordnungen,Evakuierungsanordnungen,LOC,0.0,0.0,de,1
+San Fernando,San Fernando,LOC,0.0,1.0,de,1
+Sinnlos-Sensoren,Sinnlos-Sensoren,LOC,-1.0,0.0,de,1
+Beverly Hills,Beverly Hills,LOC,-1.0,0.0,de,1
+Santa Monica,Santa Monica,LOC,-1.0,0.0,de,1
+Extremregen,Extremregen,LOC,0.7,0.0,de,1
+Millionen-Anwesen,Millionen-Anwesen,LOC,-0.9,0.0,de,1
+Waldbrände,Waldbrände,LOC,0.0,0.0,de,1
+Hollywood-Metropole,Hollywood-Metropole,LOC,0.0,0.3333333333333333,de,1
+Steiermark,Steiermark,LOC,0.0,0.0,de,1
+Flu…,Flu…,LOC,0.0,1.0,de,1
 Zehntausende,Zehntausende,LOC,0.0,0.0,de,1
 Social-Media-User,Social-Media-User,LOC,0.0,0.0,de,1
 Los Angeles Coun,Los Angeles Coun,LOC,0.0,0.0,de,1
-L.A.-Inferno - Wir,L.A.-Inferno - Wir,LOC,0.0,0.0,de,1
-Millionens,Millionens,LOC,0.0,0.0,de,1
-Los Angeles s…,Los Angeles s…,LOC,0.0,0.0,de,1
-Hollywood Hills,Hollywood Hills,LOC,0.0,0.0,de,1
-Los Angeles,Los Angeles,LOC,0.0,0.0,de,1
-LA,LA,LOC,0.0,0.0,de,1
-Flammenhölle,Flammenhölle,LOC,0.0,0.0,de,1
-Italien,Italien,LOC,1.0,0.0,de,1
-Waldbrände,Waldbrände,LOC,0.0,0.0,de,1
-L.,L.,LOC,0.0,0.0,de,1
-Altdena,Altdena,LOC,0.0,0.0,de,1
-Flu…,Flu…,LOC,0.0,1.0,de,1
-Hollywood-Metropole,Hollywood-Metropole,LOC,0.0,0.3333333333333333,de,1
-Pacific Coast Highway,Pacific Coast Highway,LOC,0.0,0.0,de,1
-US-Küstenstadt,US-Küstenstadt,LOC,0.0,0.0,de,1
-Hause,Hause,LOC,0.0,0.0,de,1
-Erfurt,Erfurt,LOC,0.0,1.0,de,1
-th,th,LOC,0.0,1.0,de,1
-Brüssel,Brüssel,LOC,0.0,0.0,de,1
-Wien,Wien,LOC,0.0,0.0,de,1
+Landes-Forstbetrieb,Landes-Forstbetrieb,LOC,0.0,0.0,de,1
+Brandenburg,Brandenburg,LOC,0.0,0.0,de,1
 Wetterex…,Wetterex…,LOC,0.0,0.0,de,1
-Steiermark,Steiermark,LOC,0.0,0.0,de,1
-S…,S…,LOC,0.7,0.0,de,1
-Extremregen,Extremregen,LOC,0.7,0.0,de,1
-M…,M…,LOC,0.7,0.0,de,1
-Bewohner,Bewohner,LOC,0.0,0.0,de,1
+Wien,Wien,LOC,0.0,0.0,de,1
+Brüssel,Brüssel,LOC,0.0,0.0,de,1
 reuters,reuters,LOC,0.0,0.0,de,1
-Promine,Promine,LOC,-0.7,0.0,de,1
-Grönland,Grönland,LOC,0.0,0.0,de,1
-Altadena,Altadena,LOC,0.0,0.0,de,1
-Evakuierungsanordnungen,Evakuierungsanordnungen,LOC,0.0,0.0,de,1
-Flammeninferno,Flammeninferno,LOC,-0.5,0.5,de,1
-Beverly Hills,Beverly Hills,LOC,-1.0,0.0,de,1
-Santa Monica,Santa Monica,LOC,-1.0,0.0,de,1
-Hollywood,Hollywood,LOC,0.0,0.0,de,1
-Millionen-Anwesen,Millionen-Anwesen,LOC,-0.9,0.0,de,1
-Wachst,Wachst,LOC,0.0,0.0,de,1
+Italien,Italien,LOC,1.0,0.0,de,1
