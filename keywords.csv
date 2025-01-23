@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Waldbrand Gebäude',de,Impacts,#a89216,#a89216,3,0.5562731043636362
 'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,2,0.5310456351363636
 'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,3,0.5193288228420455
 'Waldbrand heiss',de,Causes,#679e2c,#7db344,1,0.5057499999999999
+'Waldbrand Gebäude',de,Impacts,#a89216,#a89216,3,0.4959651868909089
 'Waldbrand',de,Hazard,#4287f5,#638ed4,3,0.4946052648272727
 'Waldbrand Rauch',de,Impacts,#a89216,#bfba22,2,0.4919528304045454
 'Waldbrand Wetter',de,Causes,#679e2c,#61d01c,1,0.478630995903409
