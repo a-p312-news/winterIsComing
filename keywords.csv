@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.6115794274488067
 'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.5643639238393742
 'Waldbrand Tote',de,Impacts,#a89216,#87830f,2,0.5519887009909091
 'Waldbrand Gebäude',de,Impacts,#a89216,#a89216,3,0.5447034870390907
 'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.5349043766375
+'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.5333311698699472
 'Waldbrand Häuser',de,Impacts,#a89216,#a89216,3,0.5315616209528408
 'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,2,0.5310456351363636
 'Waldbrand Rauch',de,Impacts,#a89216,#bfba22,2,0.5208606708438636
