@@ -1,26 +1,33 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Jörg Kachelmann,Jörg Kachelmann,PER,0.0,0.0,de,6
-Dave Grohl,Dave Grohl,PER,0.425,0.0,de,4
+Joe Biden,Joe Biden,PER,0.2,0.0,de,5
 Luisa Neubauer,Luisa Neubauer,PER,0.0,0.0,de,4
+Dave Grohl,Dave Grohl,PER,0.425,0.0,de,4
 Ulrich Cimolino,Ulrich Cimolino,PER,0.0,0.0,de,3
-Joe Biden,Joe Biden,PER,0.5,0.0,de,2
-Edgar McGregor,Edgar McGregor,PER,0.0,0.0,de,2
+Ralf Moeller,Ralf Moeller,PER,-0.35,0.0,de,2
+Jan Südmersen,Jan Südmersen,PER,-0.35,0.0,de,2
 Gina Ross,Gina Ross,PER,0.0,0.0,de,2
-Johann Goldammer,Johann Goldammer,PER,0.0,0.0,de,2
-Angefacht von Santa-Ana-Winden,Angefacht von Santa-Ana-Winden,PER,0.0,0.0,de,2
 Wechselnde Wetterphasen,Wechselnde Wetterphasen,PER,0.35,0.5,de,2
 Thea Gottschalk,Thea Gottschalk,PER,-0.35,0.0,de,2
-Jan Südmersen,Jan Südmersen,PER,-0.35,0.0,de,2
-Zachary Cole Smith,Zachary Cole Smith,PER,0.0,0.0,de,1
+Angefacht von Santa-Ana-Winden,Angefacht von Santa-Ana-Winden,PER,0.0,0.0,de,2
+Edgar McGregor,Edgar McGregor,PER,0.0,0.0,de,2
+Johann Goldammer,Johann Goldammer,PER,0.0,0.0,de,2
+Nicolas Neuman,Nicolas Neuman,PER,0.0,0.0,de,1
+Donald Trump Jr,Donald Trump Jr,PER,0.0,0.0,de,1
+Waldbrandexperte Ulrich Cimolino,Waldbrandexperte Ulrich Cimolino,PER,0.7,0.0,de,1
+Ralf Moelle,Ralf Moelle,PER,0.0,0.0,de,1
+Foo Fighters-Chef,Foo Fighters-Chef,PER,1.0,0.0,de,1
+Erneut Feuerwetter,Erneut Feuerwetter,PER,0.7,0.0,de,1
+SchauspielerRalf Moeller,SchauspielerRalf Moeller,PER,0.0,0.0,de,1
+Sebastian Reining,Sebastian Reining,PER,0.0,0.0,de,1
+Halle Berry,Halle Berry,PER,-0.7,0.0,de,1
+David Muir,David Muir,PER,0.7,0.0,de,1
 Diiv-Frontmann Zachary Cole Smith,Diiv-Frontmann Zachary Cole Smith,PER,-0.7,0.0,de,1
+Zachary Cole Smith,Zachary Cole Smith,PER,0.0,0.0,de,1
 Robert Luna,Robert Luna,PER,-0.35,0.5,de,1
 Gavin Newsom,Gavin Newsom,PER,0.0,0.0,de,1
 Anthony Marrone,Anthony Marrone,PER,0.0,0.0,de,1
 Harrison Ford,Harrison Ford,PER,-0.9,0.0,de,1
-David Muir,David Muir,PER,0.7,0.0,de,1
-Nicolas Neuman,Nicolas Neuman,PER,0.0,0.0,de,1
-Waldbrandexperte Ulrich Cimolino,Waldbrandexperte Ulrich Cimolino,PER,0.7,0.0,de,1
 Steven Spielberg,Steven Spielberg,PER,-0.9,0.0,de,1
-Sebastian Reining,Sebastian Reining,PER,0.0,0.0,de,1
-Foo Fighters-Chef,Foo Fighters-Chef,PER,1.0,0.0,de,1
-Donald Trump Jr,Donald Trump Jr,PER,0.0,0.0,de,1
+Ex-THW-Präsident Alb,Ex-THW-Präsident Alb,PER,0.3333333333333333,0.0,de,1
+Ex-Parkwächter Jiří L,Ex-Parkwächter Jiří L,PER,0.0,0.0,de,1
