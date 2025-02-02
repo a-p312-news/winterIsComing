@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrände',de,Hazard,#4287f5,#3b4a63,3,0.3333489289545455
 'Waldbrand Wetter',de,Causes,#679e2c,#61d01c,2,0.3301576722273627
 'Waldbrand Feuerwehr',de,Mitigation,#9e3215,#802d16,3,0.3231362070431542
-'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.3196512154136067
 'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,1,0.3114488822434637
 'Waldbrand',de,Hazard,#4287f5,#638ed4,3,0.2946052648272727
-'Waldbrand Todesopfer',de,Impacts,#a89216,#87830f,2,0.29262904107468707
+'Waldbrand Todesopfer',de,Impacts,#a89216,#87830f,2,0.292629041074687
+'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.2845180288158514
