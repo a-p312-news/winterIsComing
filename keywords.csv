@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand trocken',de,Causes,#679e2c,#61b00c,1,0.2793793642562196
 'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,1,0.2790317299069441
 'Waldbrand Wind',de,Causes,#679e2c,#679e2c,3,0.274686181318707
-'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,2,0.2712616437506683
 'Waldbrand',de,Hazard,#4287f5,#638ed4,3,0.2553673851031817
 'Waldbrand Wetter',de,Causes,#679e2c,#61d01c,2,0.2539558805453806
 'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.2524662357292818
+'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,1,0.23057268218806803
 'Waldbrand heiss',de,Causes,#679e2c,#7db344,1,0.2244039617968749
 'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.2196079301603617
