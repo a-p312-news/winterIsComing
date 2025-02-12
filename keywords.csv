@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand trocken',de,Causes,#679e2c,#61b00c,1,0.2793793642562196
 'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,1,0.2790317299069441
 'Waldbrand Wind',de,Causes,#679e2c,#679e2c,3,0.274686181318707
-'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.2735565290324817
 'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.2524662357292818
+'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.23297309467760943
 'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,1,0.230572682188068
 'Waldbrand',de,Hazard,#4287f5,#638ed4,3,0.2273564394805615
 'Waldbrand heiss',de,Causes,#679e2c,#7db344,1,0.2244039617968749
