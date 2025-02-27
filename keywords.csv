@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Waldbrand trocken',de,Causes,#679e2c,#61b00c,2,0.2774066461751187
+'Waldbrand trocken',de,Causes,#679e2c,#61b00c,2,0.2360956792488509
 'Waldbrand',de,Hazard,#4287f5,#638ed4,3,0.2300217553766591
 'Waldbrand Evakuierung',de,Mitigation,#9e3215,#9e3215,1,0.2096950363910879
 'Waldbrände',de,Hazard,#4287f5,#3b4a63,3,0.2078394886649341
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,1,0.1223472736008101
 'Waldbrand Wetter',de,Causes,#679e2c,#61d01c,1,0.1150453442351631
 'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.112833280653897
-'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,1,0.10648250731725656
+'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,1,0.1064825073172565
