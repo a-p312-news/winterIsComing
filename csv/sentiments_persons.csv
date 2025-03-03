@@ -5,27 +5,28 @@ Joe Biden,Joe Biden,PER,0.2,0.0,de,5
 Dave Grohl,Dave Grohl,PER,0.425,0.0,de,4
 Luisa Neubauer,Luisa Neubauer,PER,0.0,0.0,de,4
 Ulrich Cimolino,Ulrich Cimolino,PER,0.0,0.0,de,3
-Billie Eilish,Billie Eilish,PER,-0.2333333333333333,0.0,de,3
 Meryl Streep,Meryl Streep,PER,0.4666666666666666,0.0,de,3
+Billie Eilish,Billie Eilish,PER,-0.2333333333333333,0.0,de,3
 Edgar McGregor,Edgar McGregor,PER,0.0,0.0,de,2
 Angefacht von Santa-Ana-Winden,Angefacht von Santa-Ana-Winden,PER,0.0,0.0,de,2
 Gina Ross,Gina Ross,PER,0.0,0.0,de,2
 Johann Goldammer,Johann Goldammer,PER,0.0,0.0,de,2
-Bruce Willis,Bruce Willis,PER,0.0,0.0,de,2
 Wechselnde Wetterphasen,Wechselnde Wetterphasen,PER,0.35,0.5,de,2
+Bruce Willis,Bruce Willis,PER,0.0,0.0,de,2
 Thea Gottschalk,Thea Gottschalk,PER,-0.35,0.0,de,2
 Jan Südmersen,Jan Südmersen,PER,-0.35,0.0,de,2
-Taylor Swift,Taylor Swift,PER,0.7,0.0,de,1
 King Gizzard,King Gizzard,PER,0.0,0.0,de,1
-Cal Fire,Cal Fire,PER,0.0,0.0,de,1
 Mac Demarco,Mac Demarco,PER,0.0,0.0,de,1
+Taylor Swift,Taylor Swift,PER,0.7,0.0,de,1
 Mac DeMarco,Mac DeMarco,PER,0.0,0.0,de,1
 Ty Segall,Ty Segall,PER,0.0,0.0,de,1
-Ex-Parkwächter Jiří L,Ex-Parkwächter Jiří L,PER,0.0,0.0,de,1
+Cal Fire,Cal Fire,PER,0.0,0.0,de,1
 David Swanson,David Swanson,PER,0.7,0.0,de,1
-SchauspielerRalf Moeller,SchauspielerRalf Moeller,PER,0.0,0.0,de,1
-Erneut Feuerwetter,Erneut Feuerwetter,PER,0.7,0.0,de,1
 Basketball-Star Luka Doncic,Basketball-Star Luka Doncic,PER,0.0,1.0,de,1
+Ex-Parkwächter Jiří L,Ex-Parkwächter Jiří L,PER,0.0,0.0,de,1
+SchauspielerRalf Moeller,SchauspielerRalf Moeller,PER,0.0,0.0,de,1
+Gary Apodaca,Gary Apodaca,PER,0.0,0.0,de,1
+Erneut Feuerwetter,Erneut Feuerwetter,PER,0.7,0.0,de,1
 Donald Trump Jr,Donald Trump Jr,PER,0.0,0.0,de,1
 Nicolas Neuman,Nicolas Neuman,PER,0.0,0.0,de,1
 Foo Fighters-Chef,Foo Fighters-Chef,PER,1.0,0.0,de,1
@@ -42,4 +43,4 @@ Anthony Marrone,Anthony Marrone,PER,0.0,0.0,de,1
 Harrison Ford,Harrison Ford,PER,-0.9,0.0,de,1
 Steven Spielberg,Steven Spielberg,PER,-0.9,0.0,de,1
 Ex-THW-Präsident Alb,Ex-THW-Präsident Alb,PER,0.3333333333333333,0.0,de,1
-Gary Apodaca,Gary Apodaca,PER,0.0,0.0,de,1
+nan Große Waldbrände,nan Große Waldbrände,PER,0.7,0.0,de,1
