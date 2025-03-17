@@ -1,75 +1,93 @@
 ,phrase,label,sentiment,subjectivity,language,count
 NFL,NFL,ORG,0.1,0.0,de,10
 VISIONS.de,VISIONS.de,ORG,0.2,0.0,de,5
+Militär,Militär,ORG,-0.35,0.0,de,4
 Santa-Ana-Winde,Santa-Ana-Winde,ORG,-0.07500000000000001,0.0,de,4
 Löschteams,Löschteams,ORG,1.0,0.0,de,3
+Bundeswehr,Bundeswehr,ORG,0.4666666666666666,0.0,de,3
 Kleiderschrank,Kleiderschrank,ORG,0.0,0.0,de,3
-Metallica,Metallica,ORG,0.0,0.0,de,2
-Millionen für Waldbrand-Opfer,Millionen für Waldbrand-Opfer,ORG,0.0,0.0,de,2
 Rechtsmedizin,Rechtsmedizin,ORG,-0.35,0.0,de,2
-Nasa,Nasa,ORG,-1.0,0.0,de,2
-Rams,Rams,ORG,0.0,0.0,de,2
-Minnesota Vikings,Minnesota Vikings,ORG,0.0,0.0,de,2
-EU,EU,ORG,-0.7,0.0,de,2
+Ö3,Ö3,ORG,1.0,0.0,de,2
+LA,LA,ORG,0.0,0.5,de,2
 Militärs,Militärs,ORG,0.0,0.0,de,2
-US-Sachversicherer,US-Sachversicherer,ORG,-1.0,0.0,de,2
-Visit Sweden,Visit Sweden,ORG,-0.7,0.0,de,2
+EU,EU,ORG,-0.7,0.0,de,2
+Metallica,Metallica,ORG,0.0,0.0,de,2
+Waldbrand,Waldbrand,ORG,0.0,0.5,de,2
 The Weeknd,The Weeknd,ORG,0.7,0.0,de,2
-REUTERS,REUTERS,ORG,0.7,0.0,de,1
-A..,A..,ORG,0.7,0.0,de,1
-Downtown LA,Downtown LA,ORG,0.0,0.0,de,1
-Basketball-Star Doncic,Basketball-Star Doncic,ORG,0.0,0.0,de,1
-SCE,SCE,ORG,0.0,0.0,de,1
-Basketball-Star Luka Doncic,Basketball-Star Luka Doncic,ORG,-0.15000000000000002,0.0,de,1
-Southern California Edison,Southern California Edison,ORG,-1.0,0.0,de,1
-Los Angeles Lakers,Los Angeles Lakers,ORG,0.0,0.0,de,1
-… Bildquelle,… Bildquelle,ORG,-1.0,0.0,de,1
-Chubb,Chubb,ORG,0.0,0.0,de,1
-Travelers,Travelers,ORG,0.0,0.0,de,1
-Zurich Insurance Group,Zurich Insurance Group,ORG,0.0,0.0,de,1
-Uni Kiel,Uni Kiel,ORG,0.0,0.0,de,1
-Universität Kiel,Universität Kiel,ORG,0.7,0.0,de,1
-Kalifornien-Brände,Kalifornien-Brände,ORG,0.0,0.0,de,1
-LA-Waldbrände,LA-Waldbrände,ORG,0.0,0.0,de,1
-US-Tochter Farmers,US-Tochter Farmers,ORG,0.0,0.0,de,1
+Millionen für Waldbrand-Opfer,Millionen für Waldbrand-Opfer,ORG,0.0,0.0,de,2
+US-Sachversicherer,US-Sachversicherer,ORG,-1.0,0.0,de,2
+Nasa,Nasa,ORG,-1.0,0.0,de,2
+Visit Sweden,Visit Sweden,ORG,-0.7,0.0,de,2
+Minnesota Vikings,Minnesota Vikings,ORG,0.0,0.0,de,2
+Rams,Rams,ORG,0.0,0.0,de,2
+Klimaschäden +++,Klimaschäden +++,ORG,0.0,0.0,de,1
+ÖBf,ÖBf,ORG,0.0,0.0,de,1
+Österreichischen Bundesforste,Österreichischen Bundesforste,ORG,0.0,0.0,de,1
+F...,F...,ORG,-0.25,0.0,de,1
+NHK,NHK,ORG,0.0,0.0,de,1
+Nichtanwesenden,Nichtanwesenden,ORG,1.0,0.0,de,1
+ntv.de,ntv.de,ORG,0.0,0.0,de,1
 ZurichDie Zurich Insurance Group,ZurichDie Zurich Insurance Group,ORG,0.0,0.0,de,1
 Rettungs- und Feuerwehrleitstelle,Rettungs- und Feuerwehrleitstelle,ORG,0.7,0.0,de,1
-Klimaschäden +++,Klimaschäden +++,ORG,0.0,0.0,de,1
-ntv.de,ntv.de,ORG,0.0,0.0,de,1
-Nichtanwesenden,Nichtanwesenden,ORG,1.0,0.0,de,1
-NHK,NHK,ORG,0.0,0.0,de,1
-Österreichischen Bundesforste,Österreichischen Bundesforste,ORG,0.0,0.0,de,1
-ÖBf,ÖBf,ORG,0.0,0.0,de,1
+lnw,lnw,ORG,0.0,0.0,de,1
+US-Tochter Farmers,US-Tochter Farmers,ORG,0.0,0.0,de,1
+Zurich Insurance Group,Zurich Insurance Group,ORG,0.0,0.0,de,1
+Kalifornien-Brände,Kalifornien-Brände,ORG,0.0,0.0,de,1
+Universität Kiel,Universität Kiel,ORG,0.7,0.0,de,1
+Uni Kiel,Uni Kiel,ORG,0.0,0.0,de,1
 Eu,Eu,ORG,-1.0,0.0,de,1
-WELT,WELT,ORG,0.0,0.0,de,1
-BILDSTRECKE,BILDSTRECKE,ORG,0.0,0.0,de,1
-Passional Relations,Passional Relations,ORG,0.0,0.0,de,1
-King Gizzard & The Lizard Wizard,King Gizzard & The Lizard Wizard,ORG,0.0,0.0,de,1
-US-Wahl,US-Wahl,ORG,0.0,0.0,de,1
 SZ Plus,SZ Plus,ORG,0.0,0.0,de,1
 EXKLUSIV,EXKLUSIV,ORG,0.0,0.0,de,1
-F...,F...,ORG,-0.25,0.0,de,1
-Newsticker +++ -,Newsticker +++ -,ORG,-1.0,0.0,de,1
+BH Land,BH Land,ORG,0.0,0.0,de,1
+sc…,sc…,ORG,1.0,0.0,de,1
+Wecker Podcasts,Wecker Podcasts,ORG,1.0,0.0,de,1
+US-Wahl,US-Wahl,ORG,0.0,0.0,de,1
+OFF Records,OFF Records,ORG,-0.35,0.0,de,1
+Mieleckie Zak…,Mieleckie Zak…,ORG,0.0,0.0,de,1
+Vier-Jahres-Vertrag,Vier-Jahres-Vertrag,ORG,0.0,0.0,de,1
+Coron…,Coron…,ORG,0.0,0.0,de,1
+Travelers,Travelers,ORG,0.0,0.0,de,1
+Deba,Deba,ORG,0.0,0.0,de,1
+BH Landeck,BH Landeck,ORG,0.0,0.0,de,1
+Lloyds of London,Lloyds of London,ORG,-1.0,0.0,de,1
+Lloyd’s of London,Lloyd’s of London,ORG,0.0,0.0,de,1
+GeoSphere Austria,GeoSphere Austria,ORG,0.0,0.0,de,1
+PNN-Newsletter,PNN-Newsletter,ORG,0.0,0.0,de,1
+Downtown LA,Downtown LA,ORG,0.0,0.0,de,1
+Los Angeles Lakers,Los Angeles Lakers,ORG,0.0,0.0,de,1
+Chubb,Chubb,ORG,0.0,0.0,de,1
+he…,he…,ORG,0.0,0.0,de,1
+Universität Stanford,Universität Stanford,ORG,0.0,0.0,de,1
+Universität Freiburg,Universität Freiburg,ORG,0.0,0.0,de,1
+Climate Action Research Lab,Climate Action Research Lab,ORG,0.0,0.0,de,1
+Santa-Ana-Win,Santa-Ana-Win,ORG,0.0,0.0,de,1
 Breeze Technologies,Breeze Technologies,ORG,0.0,0.0,de,1
 Feuerschutzbehörde Cal Fire,Feuerschutzbehörde Cal Fire,ORG,0.0,0.0,de,1
 US-Medien,US-Medien,ORG,0.0,0.0,de,1
-FireSat,FireSat,ORG,0.0,0.0,de,1
-he…,he…,ORG,0.0,0.0,de,1
-American-Football-Profiliga,American-Football-Profiliga,ORG,0.0,0.0,de,1
-Los Angel,Los Angel,ORG,0.0,0.0,de,1
-Kirche,Kirche,ORG,0.0,0.0,de,1
-ABC News,ABC News,ORG,0.0,0.0,de,1
-Polizei,Polizei,ORG,0.0,0.0,de,1
-Veröffentlichungsterm…,Veröffentlichungsterm…,ORG,0.7,0.0,de,1
 SZ,SZ,ORG,0.0,0.0,de,1
-Waldbrand,Waldbrand,ORG,0.0,0.0,de,1
-Santa-Ana-Win,Santa-Ana-Win,ORG,0.0,0.0,de,1
-Climate Action Research Lab,Climate Action Research Lab,ORG,0.0,0.0,de,1
-Universität Freiburg,Universität Freiburg,ORG,0.0,0.0,de,1
-Universität Stanford,Universität Stanford,ORG,0.0,0.0,de,1
+Veröffentlichungsterm…,Veröffentlichungsterm…,ORG,0.7,0.0,de,1
+Polizei,Polizei,ORG,0.0,0.0,de,1
+ABC News,ABC News,ORG,0.0,0.0,de,1
+Kirche,Kirche,ORG,0.0,0.0,de,1
+Los Angel,Los Angel,ORG,0.0,0.0,de,1
+American-Football-Profiliga,American-Football-Profiliga,ORG,0.0,0.0,de,1
+FireSat,FireSat,ORG,0.0,0.0,de,1
 Musk,Musk,ORG,0.0,0.0,de,1
+BILDSTRECKE,BILDSTRECKE,ORG,0.0,0.0,de,1
 WWA,WWA,ORG,0.0,0.0,de,1
+… Bildquelle,… Bildquelle,ORG,-1.0,0.0,de,1
+Basketball-Star Luka Doncic,Basketball-Star Luka Doncic,ORG,-0.15000000000000002,0.0,de,1
+Basketball-Star Doncic,Basketball-Star Doncic,ORG,0.0,0.0,de,1
+REUTERS,REUTERS,ORG,0.7,0.0,de,1
+A..,A..,ORG,0.7,0.0,de,1
+SCE,SCE,ORG,0.0,0.0,de,1
+Southern California Edison,Southern California Edison,ORG,-1.0,0.0,de,1
+Newsticker +++ -,Newsticker +++ -,ORG,-1.0,0.0,de,1
 Santa-Ana-Winden,Santa-Ana-Winden,ORG,0.0,0.0,de,1
-Rheinmetall Expal Mu…,Rheinmetall Expal Mu…,ORG,0.0,0.0,de,1
+WELT,WELT,ORG,0.0,0.0,de,1
+LA-Waldbrände,LA-Waldbrände,ORG,0.0,0.0,de,1
+Passional Relations,Passional Relations,ORG,0.0,0.0,de,1
+King Gizzard & The Lizard Wizard,King Gizzard & The Lizard Wizard,ORG,0.0,0.0,de,1
 Hollywoo,Hollywoo,ORG,0.7,0.0,de,1
-lnw,lnw,ORG,0.0,0.0,de,1
+Rheinmetall Expal Mu…,Rheinmetall Expal Mu…,ORG,0.0,0.0,de,1
+Neue Division für Heimatschutz,Neue Division für Heimatschutz,ORG,0.0,0.0,de,1
