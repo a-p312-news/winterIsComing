@@ -13,11 +13,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,1,0.1178907116796267
 'Waldbrand Häuser',de,Impacts,#a89216,#a89216,1,0.1149670202561004
 'Waldbrand Hitze',de,Causes,#679e2c,#7db344,1,0.1122245890206366
-'Waldbrand Evakuierung',de,Mitigation,#9e3215,#9e3215,1,0.10994016113950028
+'Waldbrand Evakuierung',de,Mitigation,#9e3215,#9e3215,1,0.1099401611395002
 'Waldbrand heiss',de,Causes,#679e2c,#7db344,1,0.0846338454960222
-'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.0752729908726396
 'Waldbrand Todesopfer',de,Impacts,#a89216,#87830f,1,0.0689821339081307
 'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,1,0.0660570111437101
+'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.06398204224174366
 'Waldbrand Wetter',de,Causes,#679e2c,#61d01c,1,0.0603544187241565
 'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.0602316353819164
 'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.0588996777093382
