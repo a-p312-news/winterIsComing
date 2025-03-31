@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand',de,Hazard,#4287f5,#638ed4,3,0.1185763873908192
 'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,1,0.1154665047267944
 'Waldbrand trocken',de,Causes,#679e2c,#61b00c,1,0.1134560577927516
-'Waldbrand Rauch',de,Impacts,#a89216,#bfba22,1,0.10243824608245788
+'Waldbrand Rauch',de,Impacts,#a89216,#bfba22,1,0.1024382460824578
 'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,1,0.1011071949276826
 'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.0987779699288369
 'Waldbrand Gebäude',de,Impacts,#a89216,#a89216,1,0.0975709375369558
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand heiss',de,Causes,#679e2c,#7db344,1,0.0611479533708759
 'Waldbrand Wetter',de,Causes,#679e2c,#61d01c,1,0.0603544187241565
 'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,1,0.0484312610513304
-'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.0435173565634345
 'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.0425550171449967
+'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.03698975307891932
 'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.033399025937954
 'Waldbrand Todesopfer',de,Impacts,#a89216,#87830f,1,0.0317204399165613
