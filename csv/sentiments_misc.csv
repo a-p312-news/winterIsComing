@@ -1,189 +1,220 @@
 ,phrase,label,sentiment,subjectivity,language,count
 kalifornischen,kalifornischen,MISC,,,de,41
+Google,Google,MISC,,,de,8
+FireSat-Satelliten,FireSat-Satelliten,MISC,,,de,7
+Lesen Sie jetzt „,Lesen Sie jetzt „,MISC,,,de,5
 Deutscher,Deutscher,MISC,,,de,5
 Starker Wind,Starker Wind,MISC,,,de,4
-Weihnachten,Weihnachten,MISC,,,de,4
-deutsche,deutsche,MISC,,,de,4
-Großbrands,Großbrands,MISC,,,de,4
 Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,4
-Waldbrand-Flächen,Waldbrand-Flächen,MISC,,,de,3
-Rheinmetall-Tochter Expal,Rheinmetall-Tochter Expal,MISC,,,de,3
-JavaScript,JavaScript,MISC,,,de,3
-Big Thief,Big Thief,MISC,,,de,3
-Browser,Browser,MISC,,,de,3
-Adblocker,Adblocker,MISC,,,de,3
-amerikanischen,amerikanischen,MISC,,,de,3
-russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,3
-Itch.io,Itch.io,MISC,,,de,3
+Weihnachten,Weihnachten,MISC,,,de,4
+Großbrands,Großbrands,MISC,,,de,4
+deutsche,deutsche,MISC,,,de,4
 NZZ.ch,NZZ.ch,MISC,,,de,3
-japanischen,japanischen,MISC,,,de,3
+Waldbrand in,Waldbrand in,MISC,,,de,3
+amerikanischen,amerikanischen,MISC,,,de,3
+Browser,Browser,MISC,,,de,3
+JavaScript,JavaScript,MISC,,,de,3
+Zerstörerisches Flammenmeer: Waldbrand,Zerstörerisches Flammenmeer: Waldbrand,MISC,,,de,3
+Adblocker,Adblocker,MISC,,,de,3
 Ein Waldbrand,Ein Waldbrand,MISC,,,de,3
 Feuerwehr-Chefin,Feuerwehr-Chefin,MISC,,,de,3
+Rheinmetall-Tochter Expal,Rheinmetall-Tochter Expal,MISC,,,de,3
+Lesen Sie jetzt „Waldbrand,Lesen Sie jetzt „Waldbrand,MISC,,,de,3
 schwedische,schwedische,MISC,,,de,3
-Lesen Sie jetzt „,Lesen Sie jetzt „,MISC,,,de,3
-Waldbrand in,Waldbrand in,MISC,,,de,3
-FireSat-Satelliten,FireSat-Satelliten,MISC,,,de,3
-Zerstörerisches Flammenmeer: Waldbrand,Zerstörerisches Flammenmeer: Waldbrand,MISC,,,de,3
+Todesopfer bei den Waldbränden,Todesopfer bei den Waldbränden,MISC,,,de,3
+russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,3
+japanischen,japanischen,MISC,,,de,3
+Waldbrand-Flächen,Waldbrand-Flächen,MISC,,,de,3
+Big Thief,Big Thief,MISC,,,de,3
+Itch.io,Itch.io,MISC,,,de,3
+französische,französische,MISC,,,de,2
+Stern plusZugang,Stern plusZugang,MISC,,,de,2
+Kriegsausbruch,Kriegsausbruch,MISC,,,de,2
+stern+statt,stern+statt,MISC,,,de,2
+Kontrollflügen,Kontrollflügen,MISC,,,de,2
+Di…,Di…,MISC,,,de,2
+Berliner,Berliner,MISC,,,de,2
+Ozean</li><li,Ozean</li><li,MISC,,,de,2
+Deutschen,Deutschen,MISC,,,de,2
+britische,britische,MISC,,,de,2
+argentinischen,argentinischen,MISC,,,de,2
 kanadische,kanadische,MISC,,,de,2
 Me…,Me…,MISC,,,de,2
-Di…,Di…,MISC,,,de,2
-stern+statt,stern+statt,MISC,,,de,2
-Stern plusZugang,Stern plusZugang,MISC,,,de,2
-Deutschen,Deutschen,MISC,,,de,2
-Ozean</li><li,Ozean</li><li,MISC,,,de,2
-Ein Sturmtief,Ein Sturmtief,MISC,,,de,2
-argentinischen,argentinischen,MISC,,,de,2
 L.A.-Feuer,L.A.-Feuer,MISC,,,de,2
-Quere,Quere,MISC,,,de,2
-Berliner,Berliner,MISC,,,de,2
-ValBlu,ValBlu,MISC,,,de,2
-Kriegsausbruch,Kriegsausbruch,MISC,,,de,2
+flickr,flickr,MISC,,,de,2
+CAL Fire_Official,CAL Fire_Official,MISC,,,de,2
 Oscars,Oscars,MISC,,,de,2
-Pine Barrens,Pine Barrens,MISC,,,de,2
 Vier Waldbrände b…,Vier Waldbrände b…,MISC,,,de,2
-britische,britische,MISC,,,de,2
-Münchner,Münchner,MISC,,,de,2
-Kontrollflügen,Kontrollflügen,MISC,,,de,2
-französische,französische,MISC,,,de,2
-Google,Google,MISC,,,de,2
+Pine Barrens,Pine Barrens,MISC,,,de,2
+Waldbranderkennung,Waldbranderkennung,MISC,,,de,2
 australischen,australischen,MISC,,,de,2
+Ein Sturmtief,Ein Sturmtief,MISC,,,de,2
+ValBlu,ValBlu,MISC,,,de,2
+Waldbrandstufe 3,Waldbrandstufe 3,MISC,,,de,2
+Tagen wüten Waldbrände,Tagen wüten Waldbrände,MISC,,,de,2
+Die Zahl der Todesopfer bei den Waldbränden,Die Zahl der Todesopfer bei den Waldbränden,MISC,,,de,2
+Die Zahl der Todesopfer bei den anhaltenden Waldbränden,Die Zahl der Todesopfer bei den anhaltenden Waldbränden,MISC,,,de,2
 Videos,Videos,MISC,,,de,2
-kalifornische,kalifornische,MISC,,,de,2
 At fire,At fire,MISC,,,de,2
-Coolcation,Coolcation,MISC,,,de,2
-Trumps,Trumps,MISC,,,de,2
+buddhistischen,buddhistischen,MISC,,,de,2
 Katastrophenschutz-Organisation,Katastrophenschutz-Organisation,MISC,,,de,2
+Klassik Radio Selectstatt,Klassik Radio Selectstatt,MISC,,,de,2
+Lesen Sie jetzt „Hohe Waldbrandgefahr,Lesen Sie jetzt „Hohe Waldbrandgefahr,MISC,,,de,2
+Todesopfer bei den anhaltenden Waldbränden,Todesopfer bei den anhaltenden Waldbränden,MISC,,,de,2
+Trumps,Trumps,MISC,,,de,2
 S…,S…,MISC,-0.7,0.0,de,2
-Lesen Sie jetzt „Waldbrand,Lesen Sie jetzt „Waldbrand,MISC,,,de,2
+Coolcation,Coolcation,MISC,,,de,2
+Sensoren,Sensoren,MISC,,,de,2
+Quere,Quere,MISC,,,de,2
+kalifornische,kalifornische,MISC,,,de,2
+Tote und Verletzte,Tote und Verletzte,MISC,,,de,1
+Bü…,Bü…,MISC,,,de,1
+Waldbrand-Satelliten,Waldbrand-Satelliten,MISC,,,de,1
+Regen,Regen,MISC,,,de,1
+Na… Kopiere,Na… Kopiere,MISC,,,de,1
+M…,M…,MISC,0.0,0.0,de,1
+Warnung vor steigender Waldbrandgefahr,Warnung vor steigender Waldbrandgefahr,MISC,,,de,1
+N…,N…,MISC,,,de,1
+Extremwetter.tv,Extremwetter.tv,MISC,,,de,1
+D…,D…,MISC,,,de,1
+Octodad und Hoa,Octodad und Hoa,MISC,,,de,1
 Nasa Waldbrände,Nasa Waldbrände,MISC,,,de,1
 japanische,japanische,MISC,,,de,1
 Russen,Russen,MISC,,,de,1
-Bewohner d…,Bewohner d…,MISC,,,de,1
-Octodad und Hoa,Octodad und Hoa,MISC,,,de,1
-Lesen Sie jetzt „Waldbrand bei,Lesen Sie jetzt „Waldbrand bei,MISC,,,de,1
-M…,M…,MISC,0.0,0.0,de,1
-Waldbrand bei,Waldbrand bei,MISC,0.0,0.0,de,1
-Bü…,Bü…,MISC,,,de,1
+Mindestens 20 Tote bei Waldbränden,Mindestens 20 Tote bei Waldbränden,MISC,,,de,1
 400 Spiele,400 Spiele,MISC,,,de,1
-F…,F…,MISC,,,de,1
-Regen,Regen,MISC,,,de,1
 Lesen Sie jetzt „Forscher,Lesen Sie jetzt „Forscher,MISC,,,de,1
-SZ am Morgen,SZ am Morgen,MISC,,,de,1
+südkoreanische,südkoreanische,MISC,,,de,1
+Alarmierende Zahlen - Unter unseren Füßen,Alarmierende Zahlen - Unter unseren Füßen,MISC,,,de,1
+Waldbrandschaden,Waldbrandschaden,MISC,,,de,1
 Hochstandes,Hochstandes,MISC,,,de,1
-Zehntausende Mens,Zehntausende Mens,MISC,,,de,1
-Warnung vor steigender Waldbrandgefahr,Warnung vor steigender Waldbrandgefahr,MISC,,,de,1
-Tages,Tages,MISC,,,de,1
+südkoreanischen,südkoreanischen,MISC,,,de,1
+Drohnen sol…,Drohnen sol…,MISC,,,de,1
 Schweizer,Schweizer,MISC,,,de,1
-Ein verheerender Waldbrand,Ein verheerender Waldbrand,MISC,,,de,1
-Großbrand in Grunewald,Großbrand in Grunewald,MISC,,,de,1
-BILD,BILD,MISC,,,de,1
-KI-gestützter,KI-gestützter,MISC,,,de,1
-Gebäud…,Gebäud…,MISC,,,de,1
-Matt,Matt,MISC,,,de,1
-Januar-Bränden,Januar-Bränden,MISC,,,de,1
-Hypothekenkrise,Hypothekenkrise,MISC,,,de,1
-He…,He…,MISC,,,de,1
-Na… Kopiere,Na… Kopiere,MISC,,,de,1
-Diiv-F,Diiv-F,MISC,,,de,1
-N…,N…,MISC,,,de,1
-Dieses Jahr brannte,Dieses Jahr brannte,MISC,,,de,1
-Vorläufiges Brand,Vorläufiges Brand,MISC,,,de,1
-Zweckfeuer i…,Zweckfeuer i…,MISC,,,de,1
-Lesen Sie jetzt „Vorbereitungen auf neue Waldbrandsaison,Lesen Sie jetzt „Vorbereitungen auf neue Waldbrandsaison,MISC,,,de,1
+Freitagnachmittag,Freitagnachmittag,MISC,,,de,1
+Lesen Sie jetzt „Mittlere Waldbrandgefahr in Thüringen,Lesen Sie jetzt „Mittlere Waldbrandgefahr in Thüringen,MISC,,,de,1
+Die Waldbrandsaison,Die Waldbrandsaison,MISC,,,de,1
+Die ersten Waldbrände,Die ersten Waldbrände,MISC,,,de,1
+Münchner,Münchner,MISC,,,de,1
+Lesen Sie jetzt „Waldbrandsaison,Lesen Sie jetzt „Waldbrandsaison,MISC,,,de,1
 Osterzündler,Osterzündler,MISC,,,de,1
 Ostern,Ostern,MISC,,,de,1
-Rax-Waldbrand,Rax-Waldbrand,MISC,,,de,1
+Lesen Sie jetzt „Jugendlicher,Lesen Sie jetzt „Jugendlicher,MISC,,,de,1
+Ein 15-Jähriger…,Ein 15-Jähriger…,MISC,,,de,1
 Wecker Podcasts,Wecker Podcasts,MISC,,,de,1
-World Weather,World Weather,MISC,,,de,1
+Lesen Sie jetzt „Waldbrandgefahr früh im Jahr,Lesen Sie jetzt „Waldbrandgefahr früh im Jahr,MISC,,,de,1
 Tour…,Tour…,MISC,,,de,1
-Waldbrands,Waldbrands,MISC,,,de,1
+A…,A…,MISC,0.0,0.0,de,1
 Ein schwerer Sturm,Ein schwerer Sturm,MISC,,,de,1
+deutsches,deutsches,MISC,,,de,1
 Google Maps,Google Maps,MISC,,,de,1
-amerikanische,amerikanische,MISC,,,de,1
-Die ersten Waldbrände,Die ersten Waldbrände,MISC,,,de,1
-GeoSphere,GeoSphere,MISC,,,de,1
-Triste Wiesen,Triste Wiesen,MISC,,,de,1
-Das Großfeuer,Das Großfeuer,MISC,,,de,1
-L.A.-Bränden,L.A.-Bränden,MISC,,,de,1
-Kräfteraubender Einsatz,Kräfteraubender Einsatz,MISC,,,de,1
-Der Winter,Der Winter,MISC,,,de,1
-Waldbrandsensoren im Harz,Waldbrandsensoren im Harz,MISC,0.0,0.0,de,1
-Der Wind,Der Wind,MISC,,,de,1
-Waldbrand auf,Waldbrand auf,MISC,,,de,1
-Waldbrand auf Ibiza,Waldbrand auf Ibiza,MISC,,,de,1
-Das sonnige Wetter,Das sonnige Wetter,MISC,,,de,1
-Brennendes Auto,Brennendes Auto,MISC,,,de,1
-Waldbrand-Gefahrenstufe Drei,Waldbrand-Gefahrenstufe Drei,MISC,,,de,1
-Lesen Sie jetzt „Mittlere Waldbrandgefahr in Thüringen,Lesen Sie jetzt „Mittlere Waldbrandgefahr in Thüringen,MISC,,,de,1
+KI-gestützten,KI-gestützten,MISC,,,de,1
+Zweckfeuer i…,Zweckfeuer i…,MISC,,,de,1
+Vorläufiges Brand,Vorläufiges Brand,MISC,,,de,1
 "Lesen Sie jetzt „""Nicht im Wald rauchen","Lesen Sie jetzt „""Nicht im Wald rauchen",MISC,,,de,1
-Die Waldbrandsaison,Die Waldbrandsaison,MISC,,,de,1
-Freitagnachmittag,Freitagnachmittag,MISC,,,de,1
-Extremwetter.tv,Extremwetter.tv,MISC,,,de,1
-flickr,flickr,MISC,,,de,1
-Southern California Edison,Southern California Edison,MISC,,,de,1
-Rings um,Rings um,MISC,,,de,1
-Jedes Jahr zerstören Brände,Jedes Jahr zerstören Brände,MISC,,,de,1
-Mehr</li><li,Mehr</li><li,MISC,,,de,1
-E-Mail</li><li,E-Mail</li><li,MISC,,,de,1
-Verheerender Feuersturm,Verheerender Feuersturm,MISC,,,de,1
-Die Waldbrände,Die Waldbrände,MISC,,,de,1
-Klima-„Peitschenhiebe,Klima-„Peitschenhiebe,MISC,,,de,1
-I,I,MISC,,,de,1
-Via Social Media,Via Social Media,MISC,,,de,1
-G…,G…,MISC,,,de,1
-Riesige Feuer,Riesige Feuer,MISC,,,de,1
-Waldbrand-Experte,Waldbrand-Experte,MISC,,,de,1
+Der Winter,Der Winter,MISC,,,de,1
+Waldbrand-Gefahrenstufe Drei,Waldbrand-Gefahrenstufe Drei,MISC,,,de,1
+Brennendes Auto,Brennendes Auto,MISC,,,de,1
+Das sonnige Wetter,Das sonnige Wetter,MISC,,,de,1
+Der Wind,Der Wind,MISC,,,de,1
+Lesen Sie jetzt „Vier Tote,Lesen Sie jetzt „Vier Tote,MISC,,,de,1
+Brand am Samstagabend,Brand am Samstagabend,MISC,,,de,1
+Kräfteraubender Einsatz,Kräfteraubender Einsatz,MISC,,,de,1
+Vier Tote bei Waldbrand,Vier Tote bei Waldbrand,MISC,,,de,1
+L.A.-Bränden,L.A.-Bränden,MISC,,,de,1
+Das Großfeuer,Das Großfeuer,MISC,,,de,1
+Me… Kopiere,Me… Kopiere,MISC,,,de,1
+Brand am Freitagnachmittag,Brand am Freitagnachmittag,MISC,,,de,1
+Triste Wiesen,Triste Wiesen,MISC,,,de,1
+GeoSphere,GeoSphere,MISC,,,de,1
+Rax-Waldbrand,Rax-Waldbrand,MISC,,,de,1
+Grammys,Grammys,MISC,,,de,1
+Großbrand in Grunewald,Großbrand in Grunewald,MISC,,,de,1
 Samstag vo…,Samstag vo…,MISC,,,de,1
 sozialen,sozialen,MISC,,,de,1
-demokratische,demokratische,MISC,,,de,1
-Grey's Anatomy,Grey's Anatomy,MISC,,,de,1
-Lesen Sie jetzt „Streit um,Lesen Sie jetzt „Streit um,MISC,,,de,1
 Äh,Äh,MISC,,,de,1
-Die Flammen in Los Angeles,Die Flammen in Los Angeles,MISC,,,de,1
 R… Kopiere,R… Kopiere,MISC,,,de,1
 Or…,Or…,MISC,,,de,1
-Inferno von,Inferno von,MISC,,,de,1
-Jim Harbaugh,Jim Harbaugh,MISC,,,de,1
-Todesopfer der Feuer,Todesopfer der Feuer,MISC,,,de,1
-Noch wüten die Brände,Noch wüten die Brände,MISC,,,de,1
-U…,U…,MISC,,,de,1
 Sechster Waldbrand,Sechster Waldbrand,MISC,,,de,1
-V…,V…,MISC,0.0,0.0,de,1
 Diiv-Mitglied,Diiv-Mitglied,MISC,,,de,1
-weiterlesen auf t3n.de,weiterlesen auf t3n.de,MISC,,,de,1
-Google-KI,Google-KI,MISC,,,de,1
-Nature Communications,Nature Communications,MISC,,,de,1
-Brandkatastrophe in Los Angeles,Brandkatastrophe in Los Angeles,MISC,,,de,1
 Haus in Waldbrand,Haus in Waldbrand,MISC,,,de,1
-Zeit,Zeit,MISC,,,de,1
-CAL Fire_Official,CAL Fire_Official,MISC,,,de,1
-Shadow Too,Shadow Too,MISC,,,de,1
-Benefiz-EP,Benefiz-EP,MISC,,,de,1
-Guided By Voices,Guided By Voices,MISC,,,de,1
-Cowboy Carter,Cowboy Carter,MISC,,,de,1
-Grammy,Grammy,MISC,,,de,1
-Erinnerungen an die Opfer der Waldbrände,Erinnerungen an die Opfer der Waldbrände,MISC,,,de,1
-Grammys,Grammys,MISC,,,de,1
-Eato,Eato,MISC,,,de,1
-nan Die verheerenden Flächenbrände,nan Die verheerenden Flächenbrände,MISC,,,de,1
-Stürme und Waldbrände,Stürme und Waldbrände,MISC,,,de,1
-Lesen Sie jetzt „Stürme und Waldbrände,Lesen Sie jetzt „Stürme und Waldbrände,MISC,,,de,1
+Diiv-F,Diiv-F,MISC,,,de,1
+Google-KI,Google-KI,MISC,,,de,1
+weiterlesen auf t3n.de,weiterlesen auf t3n.de,MISC,,,de,1
+V…,V…,MISC,0.0,0.0,de,1
+U…,U…,MISC,,,de,1
+Noch wüten die Brände,Noch wüten die Brände,MISC,,,de,1
+Todesopfer der Feuer,Todesopfer der Feuer,MISC,,,de,1
+Jim Harbaugh,Jim Harbaugh,MISC,,,de,1
+Inferno von,Inferno von,MISC,,,de,1
+Die Flammen in Los Angeles,Die Flammen in Los Angeles,MISC,,,de,1
+Grey's Anatomy,Grey's Anatomy,MISC,,,de,1
+Rings um,Rings um,MISC,,,de,1
+Via Social Media,Via Social Media,MISC,,,de,1
+Die Waldbrände,Die Waldbrände,MISC,,,de,1
+Verheerender Feuersturm,Verheerender Feuersturm,MISC,,,de,1
+F…,F…,MISC,,,de,1
+Waldbrands,Waldbrands,MISC,,,de,1
+Dieses Jahr brannte,Dieses Jahr brannte,MISC,,,de,1
+Lesen Sie jetzt „Vorbereitungen auf neue Waldbrandsaison,Lesen Sie jetzt „Vorbereitungen auf neue Waldbrandsaison,MISC,,,de,1
+Waldbrandsensoren im Harz,Waldbrandsensoren im Harz,MISC,0.0,0.0,de,1
+Waldbrand auf,Waldbrand auf,MISC,,,de,1
+Waldbrand auf Ibiza,Waldbrand auf Ibiza,MISC,,,de,1
+Lesen Sie jetzt „Waldbrand bei,Lesen Sie jetzt „Waldbrand bei,MISC,,,de,1
+Waldbrand bei,Waldbrand bei,MISC,0.0,0.0,de,1
+Bewohner d…,Bewohner d…,MISC,,,de,1
+Lesen Sie jetzt „Streit um,Lesen Sie jetzt „Streit um,MISC,,,de,1
+Zehntausende Mens,Zehntausende Mens,MISC,,,de,1
+SZ am Morgen,SZ am Morgen,MISC,,,de,1
+Tages,Tages,MISC,,,de,1
+Ein verheerender Waldbrand,Ein verheerender Waldbrand,MISC,,,de,1
+Gebäud…,Gebäud…,MISC,,,de,1
 Starke Windböen,Starke Windböen,MISC,,,de,1
+Das Schlimmste,Das Schlimmste,MISC,,,de,1
+Feuersturm bedroht Promi-Villen,Feuersturm bedroht Promi-Villen,MISC,,,de,1
+demokratische,demokratische,MISC,,,de,1
+Waldbrand-Experte,Waldbrand-Experte,MISC,,,de,1
+BILD,BILD,MISC,,,de,1
+Riesige Feuer,Riesige Feuer,MISC,,,de,1
+Zeit,Zeit,MISC,,,de,1
 trockenes Pf…,trockenes Pf…,MISC,,,de,1
+Lesen Sie jetzt „Stürme und Waldbrände,Lesen Sie jetzt „Stürme und Waldbrände,MISC,,,de,1
+Stürme und Waldbrände,Stürme und Waldbrände,MISC,,,de,1
+nan Die verheerenden Flächenbrände,nan Die verheerenden Flächenbrände,MISC,,,de,1
+Eato,Eato,MISC,,,de,1
+Erinnerungen an die Opfer der Waldbrände,Erinnerungen an die Opfer der Waldbrände,MISC,,,de,1
+Grammy,Grammy,MISC,,,de,1
+Cowboy Carter,Cowboy Carter,MISC,,,de,1
+Guided By Voices,Guided By Voices,MISC,,,de,1
+Benefiz-EP,Benefiz-EP,MISC,,,de,1
+Shadow Too,Shadow Too,MISC,,,de,1
+Southern California Edison,Southern California Edison,MISC,,,de,1
+World Weather,World Weather,MISC,,,de,1
+He…,He…,MISC,,,de,1
+Hypothekenkrise,Hypothekenkrise,MISC,,,de,1
+Januar-Bränden,Januar-Bränden,MISC,,,de,1
+Matt,Matt,MISC,,,de,1
+KI-gestützter,KI-gestützter,MISC,,,de,1
 Waldbrand-Risiko,Waldbrand-Risiko,MISC,0.7,0.0,de,1
-Todesopfer auf mindestens 27,Todesopfer auf mindestens 27,MISC,,,de,1
 Feuer von Los Angeles,Feuer von Los Angeles,MISC,,,de,1
 World Weather Attribution-Initiative,World Weather Attribution-Initiative,MISC,,,de,1
-World Weather Attribution,World Weather Attribution,MISC,,,de,1
-Blitze,Blitze,MISC,,,de,1
-Das Schlimmste,Das Schlimmste,MISC,,,de,1
-Die tödlichen Feuer von Los Angeles,Die tödlichen Feuer von Los Angeles,MISC,,,de,1
-Men…,Men…,MISC,,,de,1
-Feuersturm bedroht Promi-Villen,Feuersturm bedroht Promi-Villen,MISC,,,de,1
-tschechischen,tschechischen,MISC,,,de,1
-Lesen Sie jetzt „Freispruch im Prozess um Waldbrand,Lesen Sie jetzt „Freispruch im Prozess um Waldbrand,MISC,,,de,1
-Band-Equipment,Band-Equipment,MISC,,,de,1
-LA-Waldbrand-Betroffenen,LA-Waldbrand-Betroffenen,MISC,,,de,1
-L.A,L.A,MISC,,,de,1
+Todesopfer auf mindestens 27,Todesopfer auf mindestens 27,MISC,,,de,1
+G…,G…,MISC,,,de,1
+I,I,MISC,,,de,1
+Klima-„Peitschenhiebe,Klima-„Peitschenhiebe,MISC,,,de,1
+E-Mail</li><li,E-Mail</li><li,MISC,,,de,1
+Mehr</li><li,Mehr</li><li,MISC,,,de,1
+Jedes Jahr zerstören Brände,Jedes Jahr zerstören Brände,MISC,,,de,1
+Nature Communications,Nature Communications,MISC,,,de,1
+Brandkatastrophe in Los Angeles,Brandkatastrophe in Los Angeles,MISC,,,de,1
 Im Jahr 2024,Im Jahr 2024,MISC,,,de,1
-Ein 15-Jähriger…,Ein 15-Jähriger…,MISC,,,de,1
+World Weather Attribution,World Weather Attribution,MISC,,,de,1
+L.A,L.A,MISC,,,de,1
+LA-Waldbrand-Betroffenen,LA-Waldbrand-Betroffenen,MISC,,,de,1
+Band-Equipment,Band-Equipment,MISC,,,de,1
+Lesen Sie jetzt „Freispruch im Prozess um Waldbrand,Lesen Sie jetzt „Freispruch im Prozess um Waldbrand,MISC,,,de,1
+tschechischen,tschechischen,MISC,,,de,1
+Men…,Men…,MISC,,,de,1
+Die tödlichen Feuer von Los Angeles,Die tödlichen Feuer von Los Angeles,MISC,,,de,1
+Blitze,Blitze,MISC,,,de,1
+buddhistische,buddhistische,MISC,,,de,1
