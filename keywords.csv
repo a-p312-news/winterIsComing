@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Evakuierung',de,Mitigation,#9e3215,#9e3215,1,0.1763680546189515
 'Waldbrände',de,Hazard,#4287f5,#3b4a63,3,0.142438069053461
 'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,3,0.1419403813762121
-'Waldbrand',de,Hazard,#4287f5,#638ed4,3,0.1371607028961595
+'Waldbrand',de,Hazard,#4287f5,#638ed4,3,0.13971987064355376
 'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,2,0.1272136736688799
 'Waldbrand trocken',de,Causes,#679e2c,#61b00c,1,0.1229721446501546
 'Waldbrand Rauch',de,Impacts,#a89216,#bfba22,1,0.1024382460824578
