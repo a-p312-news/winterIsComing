@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Waldbrand Evakuierung',de,Mitigation,#9e3215,#9e3215,1,0.2357566503507378
+'Waldbrand Evakuierung',de,Mitigation,#9e3215,#9e3215,1,0.23909327279812714
 'Waldbrand Tote',de,Impacts,#a89216,#87830f,1,0.2024469005859876
 'Waldbrand',de,Hazard,#4287f5,#638ed4,3,0.1687911626905097
 'Waldbrand trocken',de,Causes,#679e2c,#61b00c,1,0.1256765629526314
@@ -20,4 +20,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand heiss',de,Causes,#679e2c,#7db344,1,0.0196026328459929
 'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.0174345002835239
 'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.0139506674568026
-'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.013642163488101565
+'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.0136421634881015
