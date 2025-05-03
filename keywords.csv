@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,1,0.0358241693595861
 'Waldbrand heiss',de,Causes,#679e2c,#7db344,1,0.0141629022312298
 'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.0118580673382822
-'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.00773578039658227
-'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.0051451353516144
+'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.0077357803965822
+'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.00437336504887224
