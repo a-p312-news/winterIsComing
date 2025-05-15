@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand',de,Hazard,#4287f5,#638ed4,3,0.1357676347990167
+'Waldbrand Rauch',de,Impacts,#a89216,#bfba22,1,0.11516264525024486
 'Waldbrand Feuerwehr',de,Mitigation,#9e3215,#802d16,3,0.1003072721805865
-'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,2,0.09358914010707838
-'Waldbrand Rauch',de,Impacts,#a89216,#bfba22,1,0.0899559120591116
+'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,2,0.0935891401070783
 'Waldbrand Evakuierung',de,Mitigation,#9e3215,#9e3215,2,0.0856050070965384
 'Waldbrand trocken',de,Causes,#679e2c,#61b00c,1,0.0853488945029823
 'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,1,0.0845716982570161
