@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Waldbrände',de,Hazard,#4287f5,#3b4a63,3,0.1337810637797022
+'Waldbrände',de,Hazard,#4287f5,#3b4a63,3,0.15048453103092868
 'Waldbrand Wind',de,Causes,#679e2c,#679e2c,1,0.116593044971245
-'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.10702056308061923
+'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.1070205630806192
 'Waldbrand',de,Hazard,#4287f5,#638ed4,3,0.1000342333980022
 'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,2,0.0890900283836438
 'Waldbrand Evakuierung',de,Mitigation,#9e3215,#9e3215,2,0.0775647360320576
