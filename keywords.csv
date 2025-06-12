@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Gebäude',de,Impacts,#a89216,#a89216,1,0.020134505636856
 'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.012743036670135
 'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.0017917378325736
-'Waldbrand heiss',de,Causes,#679e2c,#7db344,1,0.0012371892646162
-'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.00038203188868867
+'Waldbrand heiss',de,Causes,#679e2c,#7db344,1,0.0010516108749237698
+'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.0003820318886886
