@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrände',de,Hazard,#4287f5,#3b4a63,3,0.1649633918338156
+'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.15310764033347335
 'Waldbrand Häuser',de,Impacts,#a89216,#a89216,1,0.1413252406342215
-'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.1207736415687922
 'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,2,0.0967762886363982
 'Waldbrand',de,Hazard,#4287f5,#638ed4,3,0.0886024042305155
 'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,2,0.0665147835278569
