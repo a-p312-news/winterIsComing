@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Waldbrand',de,Hazard,#4287f5,#638ed4,3,0.1826395783742017
 'Waldbrände',de,Hazard,#4287f5,#3b4a63,3,0.1785067633894874
+'Waldbrand',de,Hazard,#4287f5,#638ed4,3,0.17837734979988962
 'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.1305915392834523
 'Waldbrand Häuser',de,Impacts,#a89216,#a89216,2,0.1042005576581402
 'Waldbrand Feuerwehr',de,Mitigation,#9e3215,#802d16,2,0.0769861805668538
