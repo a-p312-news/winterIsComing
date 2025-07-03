@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand',de,Hazard,#4287f5,#638ed4,3,0.1783773497998896
 'Waldbrände',de,Hazard,#4287f5,#3b4a63,3,0.1748671720628824
-'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.1114528533909344
 'Waldbrand Häuser',de,Impacts,#a89216,#a89216,2,0.1042005576581402
+'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.09518497038229423
 'Waldbrand Tote',de,Impacts,#a89216,#87830f,1,0.0801152948856352
 'Waldbrand Hitze',de,Causes,#679e2c,#7db344,2,0.077781229448011
 'Waldbrand Feuerwehr',de,Mitigation,#9e3215,#802d16,2,0.0769861805668538
