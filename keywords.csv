@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Todesopfer',de,Impacts,#a89216,#87830f,1,0.2580927914443828
 'Waldbrände',de,Hazard,#4287f5,#3b4a63,3,0.2249330110622707
+'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,3,0.19726360142304453
 'Waldbrand Hitze',de,Causes,#679e2c,#7db344,3,0.194828949542169
-'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,3,0.1888158112998385
 'Waldbrand',de,Hazard,#4287f5,#638ed4,3,0.1719083655298536
 'Waldbrand Wind',de,Causes,#679e2c,#679e2c,3,0.1637009784092423
 'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,3,0.1528626253497313
