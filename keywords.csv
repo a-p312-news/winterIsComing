@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.0733911863314709
 'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.0040016082399112
 'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.0026613232768131
-'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.00087380076033907
-'Waldbrand heiss',de,Causes,#679e2c,#7db344,1,1.30667042927535e-05
+'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.000873800760339
+'Waldbrand heiss',de,Causes,#679e2c,#7db344,1,1.1106698648840474e-05
