@@ -15,7 +15,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Tote',de,Impacts,#a89216,#87830f,1,0.0980588487598989
 'Waldbrand Gebäude',de,Impacts,#a89216,#a89216,2,0.0956636039672137
 'Waldbrand Evakuierung',de,Mitigation,#9e3215,#9e3215,2,0.094941131204553
-'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,2,0.0820116545633692
+'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,2,0.08829703501522745
 'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.0733911863314709
 'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.0044514720039245
 'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.0025621547852911
