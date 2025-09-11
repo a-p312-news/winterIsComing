@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrände',de,Hazard,#4287f5,#3b4a63,3,0.1798260344034012
-'Waldbrand',de,Hazard,#4287f5,#638ed4,3,0.14041673900614918
-'Waldbrand Hitze',de,Causes,#679e2c,#7db344,3,0.1388860119821855
+'Waldbrand',de,Hazard,#4287f5,#638ed4,3,0.1404167390061491
+'Waldbrand Hitze',de,Causes,#679e2c,#7db344,3,0.1366405688212213
 'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,3,0.1349902286831623
 'Waldbrand Wetter',de,Causes,#679e2c,#61d01c,2,0.1347557577043998
 'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,3,0.1344473123290817
