@@ -15,9 +15,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Häuser',de,Impacts,#a89216,#a89216,3,0.0999516072697696
 'Waldbrand Gebäude',de,Impacts,#a89216,#a89216,1,0.0898762837475605
 'Waldbrand Evakuierung',de,Mitigation,#9e3215,#9e3215,1,0.0766668521589258
-'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,2,0.0681469982662264
 'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,2,0.0676379114428502
-'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.025933449120898237
+'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,2,0.06197535352629244
+'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.0259334491208982
 'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.0049891548960622
 'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.001308450066943
 'Waldbrand heiss',de,Causes,#679e2c,#7db344,1,1.3428608820240645e-06
