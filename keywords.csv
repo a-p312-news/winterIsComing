@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,1,0.0332133829745564
 'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.0075531577333701
 'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.002213714532268
-'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.00058056624584345
+'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.00049348130896689
 'Waldbrand heiss',de,Causes,#679e2c,#7db344,1,4.304904315260658e-07
