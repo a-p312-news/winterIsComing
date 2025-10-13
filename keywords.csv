@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Feuerwehr',de,Mitigation,#9e3215,#802d16,1,0.0783163777429562
 'Waldbrand Häuser',de,Impacts,#a89216,#a89216,1,0.0722153685024084
 'Waldbrand Hitze',de,Causes,#679e2c,#7db344,2,0.0710296766855601
-'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,1,0.0611336428318387
+'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,2,0.061521159264205746
 'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.0603662662593162
 'Waldbrand trocken',de,Causes,#679e2c,#61b00c,2,0.0573930524591576
 'Waldbrand Gebäude',de,Impacts,#a89216,#a89216,1,0.0564894202919353
