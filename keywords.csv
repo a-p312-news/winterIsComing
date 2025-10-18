@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Waldbrand Wetter',de,Causes,#679e2c,#61d01c,1,0.14971095820408
+'Waldbrand Wetter',de,Causes,#679e2c,#61d01c,1,0.16535437447346799
 'Waldbrand',de,Hazard,#4287f5,#638ed4,2,0.1113285323576101
 'Waldbrände',de,Hazard,#4287f5,#3b4a63,3,0.1096009074440967
-'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,1,0.09908275328851374
+'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,1,0.0990827532885137
 'Waldbrand Rauch',de,Impacts,#a89216,#bfba22,1,0.0820438275110085
 'Waldbrand Wind',de,Causes,#679e2c,#679e2c,1,0.0816356466881708
 'Waldbrand Feuerwehr',de,Mitigation,#9e3215,#802d16,1,0.0783163777429562
