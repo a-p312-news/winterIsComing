@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Waldbrand Wetter',de,Causes,#679e2c,#61d01c,1,0.2379325002489988
+'Waldbrand Wetter',de,Causes,#679e2c,#61d01c,1,0.252692670211649
 'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,1,0.11860156410303
 'Waldbrand',de,Hazard,#4287f5,#638ed4,2,0.0898011760943444
 'Waldbrände',de,Hazard,#4287f5,#3b4a63,3,0.070319937695789
@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Gebäude',de,Impacts,#a89216,#a89216,1,0.0413686616609232
 'Waldbrand Evakuierung',de,Mitigation,#9e3215,#9e3215,1,0.0400205759947851
 'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.0374583468540025
-'Waldbrand Häuser',de,Impacts,#a89216,#a89216,1,0.03276912969510117
+'Waldbrand Häuser',de,Impacts,#a89216,#a89216,1,0.0327691296951011
 'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,1,0.0219660551307062
 'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,1,0.0192497596938619
 'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.0070202440733645
