@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Tote',de,Impacts,#a89216,#87830f,1,0.0336309424171558
 'Waldbrand Häuser',de,Impacts,#a89216,#a89216,1,0.0327691296951011
 'Waldbrand Todesopfer',de,Impacts,#a89216,#87830f,1,0.030589705497732
-'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.027191168352016782
+'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.0271911683520167
 'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,1,0.0166623257397826
 'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,1,0.0158704748319351
 'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.0048982221315716
-'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.0008349013635767
+'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.0007096661590401949
 'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.0001344689809771
 'Waldbrand heiss',de,Causes,#679e2c,#7db344,1,1.62359257731253e-07
