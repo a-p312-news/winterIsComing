@@ -4,11 +4,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,2,0.0479013187956302
 'Waldbrand Hitze',de,Causes,#679e2c,#7db344,1,0.0453234175235841
 'Waldbrand',de,Hazard,#4287f5,#638ed4,1,0.0448270678834334
-'Waldbrand Wind',de,Causes,#679e2c,#679e2c,1,0.04294234434339188
-'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,1,0.0408382128238273
+'Waldbrand Wind',de,Causes,#679e2c,#679e2c,1,0.0429423443433918
 'Waldbrand Evakuierung',de,Mitigation,#9e3215,#9e3215,1,0.0400205759947851
 'Waldbrand Feuerwehr',de,Mitigation,#9e3215,#802d16,1,0.039847529810525
 'Waldbrand Wetter',de,Causes,#679e2c,#61d01c,1,0.0377280350607844
+'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,1,0.0356125709002532
 'Waldbrand Tote',de,Impacts,#a89216,#87830f,1,0.0336309424171558
 'Waldbrand Todesopfer',de,Impacts,#a89216,#87830f,1,0.030589705497732
 'Waldbrand Gebäude',de,Impacts,#a89216,#a89216,1,0.0298888580500169
