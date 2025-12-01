@@ -11,12 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Evakuierung',de,Mitigation,#9e3215,#9e3215,1,0.0245776362327973
 'Waldbrand Wetter',de,Causes,#679e2c,#61d01c,1,0.0231697295317041
 'Waldbrand Rauch',de,Impacts,#a89216,#bfba22,1,0.0202957967838586
-'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,1,0.01858323848506892
+'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,1,0.0185832384850689
 'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,1,0.0183718072912355
 'Waldbrand Häuser',de,Impacts,#a89216,#a89216,1,0.0173478334697783
 'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.0172538317641821
-'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,1,0.0158704748319351
 'Waldbrand trocken',de,Causes,#679e2c,#61b00c,1,0.0156390629981901
+'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,1,0.013489903607144834
 'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.0016870175050936
 'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,0.0002275027109166
 'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,5.071491104208508e-05
