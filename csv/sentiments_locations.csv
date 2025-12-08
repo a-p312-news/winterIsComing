@@ -5,7 +5,7 @@ Los Angeles,Los Angeles,LOC,-0.1830687830687831,0.042328042328042326,de,315
 Waldbrand,Waldbrand,LOC,-0.05827702702702703,0.02195945945945946,de,296
 Gohrischheide,Gohrischheide,LOC,-0.08763736263736265,0.01098901098901099,de,273
 Sachsen,Sachsen,LOC,-0.06264005602240896,0.013655462184873951,de,238
-Kalifornien,Kalifornien,LOC,-0.08286604361370717,0.05568535825545171,de,214
+Kalifornien,Kalifornien,LOC,-0.08248062015503876,0.05542635658914728,de,215
 Griechenland,Griechenland,LOC,0.01810776942355889,0.15852130325814534,de,133
 Thüringen,Thüringen,LOC,-0.012090163934426216,0.07581967213114754,de,122
 Deutschland,Deutschland,LOC,-0.013815789473684205,0.070906432748538,de,114
@@ -24,23 +24,23 @@ Marseille,Marseille,LOC,0.12105263157894737,0.05263157894736842,de,57
 Athen,Athen,LOC,0.074031007751938,0.06976744186046512,de,43
 Madrid,Madrid,LOC,0.041269841269841276,0.0,de,42
 Truppenübungsplatz,Truppenübungsplatz,LOC,-0.08690476190476192,0.0,de,42
-Bayern,Bayern,LOC,0.042479674796747975,0.07520325203252033,de,41
 Europas,Europas,LOC,0.0532520325203252,0.08130081300813008,de,41
-Erlangen,Erlangen,LOC,-0.12375,0.0,de,40
+Bayern,Bayern,LOC,0.042479674796747975,0.07520325203252033,de,41
 Harz,Harz,LOC,-0.11499999999999999,0.01125,de,40
+Erlangen,Erlangen,LOC,-0.12375,0.0,de,40
 Frankreichs,Frankreichs,LOC,0.3102564102564102,0.0641025641025641,de,39
-Waldbränden,Waldbränden,LOC,0.05877192982456139,0.03508771929824561,de,38
 Kreta,Kreta,LOC,0.08728070175438596,0.02631578947368421,de,38
+Waldbränden,Waldbränden,LOC,0.05877192982456139,0.03508771929824561,de,38
 USA,USA,LOC,-0.28281249999999997,0.0625,de,32
 Landes,Landes,LOC,-0.003124999999999996,0.03125,de,32
 Zypern,Zypern,LOC,0.02135416666666666,0.03125,de,32
 Waldbrände,Waldbrände,LOC,0.008064516129032261,0.12903225806451613,de,31
-Hessen,Hessen,LOC,0.04055555555555556,0.0611111111111111,de,30
 Deutschlands,Deutschlands,LOC,-0.12388888888888887,0.027777777777777776,de,30
-Landkreisen,Landkreisen,LOC,-0.21296296296296297,0.0,de,27
+Hessen,Hessen,LOC,0.04055555555555556,0.0611111111111111,de,30
 Japan,Japan,LOC,0.02851851851851852,0.31234567901234567,de,27
-Pazifikküste,Pazifikküste,LOC,-0.37962962962962965,0.0,de,27
 Italien,Italien,LOC,0.009259259259259259,0.09876543209876544,de,27
+Landkreisen,Landkreisen,LOC,-0.21296296296296297,0.0,de,27
+Pazifikküste,Pazifikküste,LOC,-0.37962962962962965,0.0,de,27
 Jerusalem,Jerusalem,LOC,0.036000000000000004,0.1,de,25
 Saalfelder,Saalfelder,LOC,0.0,0.0,de,24
 NRW,NRW,LOC,0.13478260869565215,0.08695652173913043,de,23
@@ -48,1241 +48,1353 @@ Zeithain,Zeithain,LOC,0.03478260869565217,0.010869565217391304,de,23
 Saalfeld,Saalfeld,LOC,-0.23522727272727273,0.011363636363636364,de,22
 Sachsens,Sachsens,LOC,-0.1333333333333333,0.09523809523809523,de,21
 Nordrhein-Westfalen,Nordrhein-Westfalen,LOC,-0.11071428571428572,0.18253968253968253,de,21
-Österreich,Österreich,LOC,-0.065,0.05,de,20
 Heidehäuser,Heidehäuser,LOC,-0.06999999999999999,0.0,de,20
+Österreich,Österreich,LOC,-0.065,0.05,de,20
+Kopiere,Kopiere,LOC,-0.45999999999999996,0.041666666666666664,de,20
 Grand Canyon,Grand Canyon,LOC,-0.1625,0.0,de,20
-Goslar,Goslar,LOC,-0.08499999999999999,0.0,de,20
 New Jersey,New Jersey,LOC,0.0975,0.016666666666666666,de,20
 Lüneburger Heide,Lüneburger Heide,LOC,-0.1575,0.1,de,20
-Kopiere,Kopiere,LOC,-0.45999999999999996,0.041666666666666664,de,20
-Waldbrandes,Waldbrandes,LOC,-0.2526315789473685,0.0,de,19
-Pacific Palisades,Pacific Palisades,LOC,-0.3666666666666667,0.07017543859649122,de,19
+Goslar,Goslar,LOC,-0.08499999999999999,0.0,de,20
 Brand,Brand,LOC,0.2947368421052632,0.0,de,19
-Sachsen-Anhalt,Sachsen-Anhalt,LOC,0.049999999999999996,0.05555555555555555,de,18
+Pacific Palisades,Pacific Palisades,LOC,-0.3666666666666667,0.07017543859649122,de,19
+Waldbrandes,Waldbrandes,LOC,-0.2526315789473685,0.0,de,19
 Bernau,Bernau,LOC,-0.4277777777777778,0.0,de,18
-Aude,Aude,LOC,-0.20277777777777775,0.08333333333333333,de,18
 Großraum Los Angeles,Großraum Los Angeles,LOC,-0.20925925925925926,0.2222222222222222,de,18
+Aude,Aude,LOC,-0.20277777777777775,0.08333333333333333,de,18
 Brandenburger,Brandenburger,LOC,0.07777777777777778,0.05555555555555555,de,18
-Südtirol,Südtirol,LOC,0.16176470588235292,0.08823529411764706,de,17
-bb,bb,LOC,-0.04117647058823529,0.0,de,17
-Kanadas,Kanadas,LOC,0.14705882352941177,0.23529411764705882,de,17
-Narbonne,Narbonne,LOC,-0.041176470588235294,0.11764705882352941,de,17
+Sachsen-Anhalt,Sachsen-Anhalt,LOC,0.049999999999999996,0.05555555555555555,de,18
 Mittelmeerraum,Mittelmeerraum,LOC,-0.19705882352941173,0.029411764705882353,de,17
-Niedersachsen,Niedersachsen,LOC,0.3392156862745098,0.0196078431372549,de,17
+Narbonne,Narbonne,LOC,-0.041176470588235294,0.11764705882352941,de,17
+bb,bb,LOC,-0.04117647058823529,0.0,de,17
+Südtirol,Südtirol,LOC,0.16176470588235292,0.08823529411764706,de,17
 Malibu,Malibu,LOC,-0.34411764705882353,0.11764705882352941,de,17
+Kanadas,Kanadas,LOC,0.14705882352941177,0.23529411764705882,de,17
+Niedersachsen,Niedersachsen,LOC,0.3392156862745098,0.0196078431372549,de,17
 Südkalifornien,Südkalifornien,LOC,0.28750000000000003,0.0,de,16
 Izmir,Izmir,LOC,0.04375000000000001,0.0625,de,16
 Niederösterreich,Niederösterreich,LOC,0.21250000000000002,0.0625,de,16
-Ostdeutschland,Ostdeutschland,LOC,-0.04666666666666666,0.0,de,15
-Atem,Atem,LOC,0.09333333333333332,0.0,de,15
 Kleinbahren,Kleinbahren,LOC,-0.28,0.0,de,15
-L.A.,L.A.,LOC,0.021428571428571432,0.0,de,14
-Frankfurt,Frankfurt,LOC,0.06666666666666667,0.05952380952380952,de,14
+Atem,Atem,LOC,0.09333333333333332,0.0,de,15
+Ostdeutschland,Ostdeutschland,LOC,-0.04666666666666666,0.0,de,15
 Kaliforniens,Kaliforniens,LOC,-0.026190476190476177,0.023809523809523808,de,14
+Frankfurt,Frankfurt,LOC,0.06666666666666667,0.05952380952380952,de,14
 Vinschgau,Vinschgau,LOC,0.3285714285714286,0.07142857142857142,de,14
+L.A.,L.A.,LOC,0.021428571428571432,0.0,de,14
 Israel,Israel,LOC,0.20476190476190473,0.09523809523809523,de,14
-Südkoreas,Südkoreas,LOC,0.09230769230769234,0.0,de,13
-Stadt,Stadt,LOC,0.10769230769230768,0.0,de,13
-Tarifa,Tarifa,LOC,0.10769230769230768,0.07692307692307693,de,13
-Split,Split,LOC,-0.23846153846153845,0.0,de,13
 Möhnesee,Möhnesee,LOC,-0.1846153846153846,0.0,de,13
+Split,Split,LOC,-0.23846153846153845,0.0,de,13
+Stadt,Stadt,LOC,0.10769230769230768,0.0,de,13
+Südkoreas,Südkoreas,LOC,0.09230769230769234,0.0,de,13
+Tarifa,Tarifa,LOC,0.10769230769230768,0.07692307692307693,de,13
+Waldbrands,Waldbrands,LOC,0.06666666666666665,0.0,de,12
 Iserlohn,Iserlohn,LOC,-0.11666666666666665,0.0,de,12
 Schwarzau,Schwarzau,LOC,-0.05625,0.020833333333333332,de,12
-Waldbrands,Waldbrands,LOC,0.06666666666666665,0.0,de,12
-Bezirk Neunkirchen,Bezirk Neunkirchen,LOC,0.09090909090909091,0.09090909090909091,de,11
-Manitoba,Manitoba,LOC,-0.1424242424242424,0.0303030303030303,de,11
-Nationalpark Eifel,Nationalpark Eifel,LOC,-0.049999999999999996,0.0,de,11
 New York,New York,LOC,0.0,0.2727272727272727,de,11
 Provinz Ávila,Provinz Ávila,LOC,0.26363636363636367,0.13636363636363635,de,11
-Atlantik,Atlantik,LOC,-0.09090909090909091,0.0,de,11
-Kroatien,Kroatien,LOC,0.22727272727272727,0.0,de,11
-Sardinien,Sardinien,LOC,-0.11818181818181818,0.0,de,11
-Montenegro,Montenegro,LOC,-0.06363636363636363,0.1212121212121212,de,11
-Jüterbog,Jüterbog,LOC,-0.06363636363636363,0.0,de,11
-Südtiroler,Südtiroler,LOC,0.29090909090909084,0.09090909090909091,de,11
-Département,Département,LOC,-0.24090909090909093,0.045454545454545456,de,11
+Manitoba,Manitoba,LOC,-0.1424242424242424,0.0303030303030303,de,11
 Riesa,Riesa,LOC,0.0,0.0,de,11
+Jüterbog,Jüterbog,LOC,-0.06363636363636363,0.0,de,11
+Sardinien,Sardinien,LOC,-0.11818181818181818,0.0,de,11
 Taunus,Taunus,LOC,0.26666666666666666,0.0,de,11
+Département,Département,LOC,-0.24090909090909093,0.045454545454545456,de,11
 Insel Chios,Insel Chios,LOC,0.09999999999999999,0.0,de,11
-Cottbus,Cottbus,LOC,-0.47000000000000003,0.0,de,10
-Westtürkei,Westtürkei,LOC,0.030000000000000006,0.0,de,10
-Flughafen,Flughafen,LOC,0.20999999999999996,0.0,de,10
-Zerbst,Zerbst,LOC,0.06999999999999999,0.0,de,10
-Großbrand,Großbrand,LOC,-0.06999999999999999,0.0,de,10
-Patras,Patras,LOC,0.06999999999999999,0.0,de,10
+Südtiroler,Südtiroler,LOC,0.29090909090909084,0.09090909090909091,de,11
+Atlantik,Atlantik,LOC,-0.09090909090909091,0.0,de,11
+Montenegro,Montenegro,LOC,-0.06363636363636363,0.1212121212121212,de,11
+Kroatien,Kroatien,LOC,0.22727272727272727,0.0,de,11
+Nationalpark Eifel,Nationalpark Eifel,LOC,-0.049999999999999996,0.0,de,11
+Bezirk Neunkirchen,Bezirk Neunkirchen,LOC,0.09090909090909091,0.09090909090909091,de,11
 Tschechien,Tschechien,LOC,0.16999999999999998,0.0,de,10
-Neudorf,Neudorf,LOC,-0.13999999999999999,0.0,de,10
-León,León,LOC,-0.019999999999999983,0.05,de,10
-Stuttgart,Stuttgart,LOC,0.034999999999999996,0.05,de,10
-Bewohner,Bewohner,LOC,-0.18,0.0,de,10
 München,München,LOC,0.2333333333333333,0.0,de,10
+Patras,Patras,LOC,0.06999999999999999,0.0,de,10
+Flughafen,Flughafen,LOC,0.20999999999999996,0.0,de,10
+Neudorf,Neudorf,LOC,-0.13999999999999999,0.0,de,10
+Großbrand,Großbrand,LOC,-0.06999999999999999,0.0,de,10
+Cottbus,Cottbus,LOC,-0.47000000000000003,0.0,de,10
+Bewohner,Bewohner,LOC,-0.18,0.0,de,10
+Stuttgart,Stuttgart,LOC,0.034999999999999996,0.05,de,10
+Westtürkei,Westtürkei,LOC,0.030000000000000006,0.0,de,10
+León,León,LOC,-0.019999999999999983,0.05,de,10
 Brandgeruch,Brandgeruch,LOC,0.06999999999999998,0.0,de,10
-Ibiza,Ibiza,LOC,0.1111111111111111,0.0,de,9
-Berlins,Berlins,LOC,0.0,0.0,de,9
-Waldbrandgefahr,Waldbrandgefahr,LOC,0.0,0.1111111111111111,de,9
-Sauerland,Sauerland,LOC,-0.3111111111111111,0.0,de,9
+Zerbst,Zerbst,LOC,0.06999999999999999,0.0,de,10
 nan,nan,LOC,0.19444444444444442,0.3888888888888889,de,9
 Kastilien,Kastilien,LOC,-0.022222222222222206,0.05555555555555555,de,9
-Katastrophenfall,Katastrophenfall,LOC,-0.1111111111111111,0.0,de,9
-Landkreis Harz,Landkreis Harz,LOC,-0.07777777777777778,0.0,de,9
-Mittelmeer,Mittelmeer,LOC,0.05555555555555555,0.1111111111111111,de,9
-Chios,Chios,LOC,0.18888888888888888,0.0,de,9
-Tennenloher Forst,Tennenloher Forst,LOC,-0.07777777777777778,0.0,de,9
-Italiens,Italiens,LOC,0.06666666666666668,0.2222222222222222,de,9
-Landkreis Meißen,Landkreis Meißen,LOC,-0.1722222222222222,0.0,de,9
-th,th,LOC,-0.18888888888888888,0.1111111111111111,de,9
 Steiermark,Steiermark,LOC,0.15555555555555556,0.2222222222222222,de,9
+th,th,LOC,-0.18888888888888888,0.1111111111111111,de,9
+Chios,Chios,LOC,0.18888888888888888,0.0,de,9
+Landkreis Meißen,Landkreis Meißen,LOC,-0.1722222222222222,0.0,de,9
 Hollywood,Hollywood,LOC,-0.16111111111111115,0.0,de,9
-Saskatchewan,Saskatchewan,LOC,-0.13124999999999998,0.0625,de,8
-Raguhn-Jeßnitz,Raguhn-Jeßnitz,LOC,-0.0875,0.0,de,8
-Behördenangaben,Behördenangaben,LOC,-0.10624999999999998,0.0,de,8
-Niemegk,Niemegk,LOC,0.0,0.0,de,8
+Mittelmeer,Mittelmeer,LOC,0.05555555555555555,0.1111111111111111,de,9
+Italiens,Italiens,LOC,0.06666666666666668,0.2222222222222222,de,9
+Berlins,Berlins,LOC,0.0,0.0,de,9
+Katastrophenfall,Katastrophenfall,LOC,-0.1111111111111111,0.0,de,9
+Waldbrandgefahr,Waldbrandgefahr,LOC,0.0,0.1111111111111111,de,9
+Tennenloher Forst,Tennenloher Forst,LOC,-0.07777777777777778,0.0,de,9
+Landkreis Harz,Landkreis Harz,LOC,-0.07777777777777778,0.0,de,9
+Ibiza,Ibiza,LOC,0.1111111111111111,0.0,de,9
+Sauerland,Sauerland,LOC,-0.3111111111111111,0.0,de,9
+Long Island,Long Island,LOC,0.125,0.625,de,8
 Waldbrandgebiet,Waldbrandgebiet,LOC,-0.036458333333333336,0.0,de,8
-Waldbrandfläche,Waldbrandfläche,LOC,0.0,0.0,de,8
+Feuer,Feuer,LOC,0.4375,0.125,de,8
 Potsdam,Potsdam,LOC,-0.0875,0.0,de,8
-Santa Barbara,Santa Barbara,LOC,-0.0875,0.0,de,8
-Australiens,Australiens,LOC,0.8375,0.0,de,8
-Meißen,Meißen,LOC,0.16562499999999997,0.0,de,8
-Latsch,Latsch,LOC,0.175,0.125,de,8
-den USA,den USA,LOC,-0.07083333333333333,0.041666666666666664,de,8
+Niemegk,Niemegk,LOC,0.0,0.0,de,8
+Behördenangaben,Behördenangaben,LOC,-0.10624999999999998,0.0,de,8
+Erde,Erde,LOC,-0.0875,0.25,de,8
+Zentrum Kanadas,Zentrum Kanadas,LOC,-0.175,0.25,de,8
 Bonn,Bonn,LOC,0.0875,0.125,de,8
 US-Bundesstaat,US-Bundesstaat,LOC,-0.175,0.0,de,8
-Long Island,Long Island,LOC,0.125,0.625,de,8
-Zentrum Kanadas,Zentrum Kanadas,LOC,-0.175,0.25,de,8
-Feuer,Feuer,LOC,0.4375,0.125,de,8
-Baden-Württemberg,Baden-Württemberg,LOC,-0.0875,0.0,de,8
-Galicien,Galicien,LOC,0.125,0.0,de,8
+Australiens,Australiens,LOC,0.8375,0.0,de,8
+Santa Barbara,Santa Barbara,LOC,-0.0875,0.0,de,8
+den USA,den USA,LOC,-0.07083333333333333,0.041666666666666664,de,8
 Iberischen Halbinsel,Iberischen Halbinsel,LOC,-0.018750000000000003,0.125,de,8
-Erde,Erde,LOC,-0.0875,0.25,de,8
-US-Metropole,US-Metropole,LOC,-0.09999999999999999,0.0,de,7
-Brandes,Brandes,LOC,-0.042857142857142864,0.047619047619047616,de,7
-LA,LA,LOC,0.09999999999999999,0.0,de,7
-Landkreis Spree-Neiße,Landkreis Spree-Neiße,LOC,0.19999999999999998,0.0,de,7
-Extremadura,Extremadura,LOC,0.42857142857142855,0.0,de,7
-Barnim,Barnim,LOC,0.0,0.0,de,7
-Elbe-Elster-Kreis,Elbe-Elster-Kreis,LOC,-0.7000000000000001,0.0,de,7
-Oberharz,Oberharz,LOC,-0.19999999999999998,0.0,de,7
-Freistaat,Freistaat,LOC,-0.09999999999999999,0.14285714285714285,de,7
-Bundesforste,Bundesforste,LOC,-0.09999999999999999,0.0,de,7
+Waldbrandfläche,Waldbrandfläche,LOC,0.0,0.0,de,8
+Baden-Württemberg,Baden-Württemberg,LOC,-0.0875,0.0,de,8
+Saskatchewan,Saskatchewan,LOC,-0.13124999999999998,0.0625,de,8
+Meißen,Meißen,LOC,0.16562499999999997,0.0,de,8
+Galicien,Galicien,LOC,0.125,0.0,de,8
+Latsch,Latsch,LOC,0.175,0.125,de,8
+Raguhn-Jeßnitz,Raguhn-Jeßnitz,LOC,-0.0875,0.0,de,8
+Ribaute,Ribaute,LOC,0.09999999999999999,0.14285714285714285,de,7
+Tirol,Tirol,LOC,0.0,0.42857142857142855,de,7
 Bad Bergzabern,Bad Bergzabern,LOC,0.09999999999999999,0.0,de,7
+Griechenlands,Griechenlands,LOC,0.01666666666666667,0.0,de,7
 Zentrum des Landes,Zentrum des Landes,LOC,-0.03571428571428571,0.0,de,7
-Bulgarien,Bulgarien,LOC,0.014285714285714235,0.0,de,7
-Landkreis Anhalt-Bitterfeld,Landkreis Anhalt-Bitterfeld,LOC,-0.19999999999999998,0.0,de,7
-Dresden,Dresden,LOC,0.0,0.0,de,7
-Vesuv,Vesuv,LOC,0.0,0.0,de,7
-Südspanien,Südspanien,LOC,0.38571428571428573,0.14285714285714285,de,7
 Aachen,Aachen,LOC,-0.19999999999999998,0.0,de,7
+Brandes,Brandes,LOC,-0.042857142857142864,0.047619047619047616,de,7
+Bundesforste,Bundesforste,LOC,-0.09999999999999999,0.0,de,7
+Bulgarien,Bulgarien,LOC,0.014285714285714235,0.0,de,7
+Regen,Regen,LOC,0.5,0.2857142857142857,de,7
+Elbe-Elster-Kreis,Elbe-Elster-Kreis,LOC,-0.7000000000000001,0.0,de,7
 Arnsberg,Arnsberg,LOC,-0.19999999999999998,0.0,de,7
+Südspanien,Südspanien,LOC,0.38571428571428573,0.14285714285714285,de,7
+Landkreis Anhalt-Bitterfeld,Landkreis Anhalt-Bitterfeld,LOC,-0.19999999999999998,0.0,de,7
+Vesuv,Vesuv,LOC,0.0,0.0,de,7
+Rhein-Main,Rhein-Main,LOC,0.0,0.0,de,7
 Brocken,Brocken,LOC,0.4214285714285714,0.0642857142857143,de,7
 Rheinmetall-Tochter,Rheinmetall-Tochter,LOC,-0.24285714285714285,0.0,de,7
+Oberharz,Oberharz,LOC,-0.19999999999999998,0.0,de,7
 Pasadena,Pasadena,LOC,0.19999999999999998,0.0,de,7
-Rhein-Main,Rhein-Main,LOC,0.0,0.0,de,7
-Tirol,Tirol,LOC,0.0,0.42857142857142855,de,7
-Regen,Regen,LOC,0.5,0.2857142857142857,de,7
-Ribaute,Ribaute,LOC,0.09999999999999999,0.14285714285714285,de,7
-Griechenlands,Griechenlands,LOC,0.01666666666666667,0.0,de,7
-Granetalsperre,Granetalsperre,LOC,0.0,0.0,de,6
-Australien,Australien,LOC,-0.05833333333333333,0.4166666666666667,de,6
-Burgenland,Burgenland,LOC,-0.19999999999999998,0.08333333333333333,de,6
-Limassol,Limassol,LOC,0.11666666666666665,0.0,de,6
-Rax-Schneeberg-Gebiet,Rax-Schneeberg-Gebiet,LOC,0.0,0.16666666666666666,de,6
-Thüringens,Thüringens,LOC,0.11666666666666665,0.0,de,6
-Waldbrand-Gebiet,Waldbrand-Gebiet,LOC,-0.08749999999999998,0.0,de,6
+Barnim,Barnim,LOC,0.0,0.0,de,7
+Extremadura,Extremadura,LOC,0.42857142857142855,0.0,de,7
+US-Metropole,US-Metropole,LOC,-0.09999999999999999,0.0,de,7
+LA,LA,LOC,0.09999999999999999,0.0,de,7
+Dresden,Dresden,LOC,0.0,0.0,de,7
+Freistaat,Freistaat,LOC,-0.09999999999999999,0.14285714285714285,de,7
+Landkreis Spree-Neiße,Landkreis Spree-Neiße,LOC,0.19999999999999998,0.0,de,7
+Silopi,Silopi,LOC,0.0,0.0,de,6
 Forstministerium,Forstministerium,LOC,-0.6416666666666667,0.08333333333333333,de,6
+Nideggen,Nideggen,LOC,0.0,0.0,de,6
+Lausitz,Lausitz,LOC,0.0,0.0,de,6
 Rheinland-Pfalz,Rheinland-Pfalz,LOC,0.0,0.0,de,6
-Sabugal,Sabugal,LOC,-0.11666666666666665,0.0,de,6
-Waldbrand im Harz,Waldbrand im Harz,LOC,-0.3499999999999999,0.0,de,6
+Wernigerode,Wernigerode,LOC,-0.15833333333333333,0.19999999999999998,de,6
 sn,sn,LOC,-0.06666666666666665,0.0,de,6
 Seoul,Seoul,LOC,-0.30833333333333335,0.16666666666666666,de,6
-Land,Land,LOC,-0.11666666666666665,0.3333333333333333,de,6
-Lausitz,Lausitz,LOC,0.0,0.0,de,6
 Windschäden,Windschäden,LOC,0.0,0.0,de,6
+Brasilien,Brasilien,LOC,0.0,0.0,de,6
+Quittelsdorf,Quittelsdorf,LOC,-0.2833333333333333,0.0,de,6
+Limassol,Limassol,LOC,0.11666666666666665,0.0,de,6
+Kreis Saalfeld-Rudolstadt,Kreis Saalfeld-Rudolstadt,LOC,-0.21666666666666667,0.0,de,6
+Land,Land,LOC,-0.11666666666666665,0.3333333333333333,de,6
+Thüringens,Thüringens,LOC,0.11666666666666665,0.0,de,6
+Australien,Australien,LOC,-0.05833333333333333,0.4166666666666667,de,6
+Mallorca,Mallorca,LOC,0.5166666666666666,0.0,de,6
+Portugals,Portugals,LOC,0.038888888888888896,0.0,de,6
+Rax-Schneeberg-Gebiet,Rax-Schneeberg-Gebiet,LOC,0.0,0.16666666666666666,de,6
+Sabugal,Sabugal,LOC,-0.11666666666666665,0.0,de,6
+Granetalsperre,Granetalsperre,LOC,0.0,0.0,de,6
+Burgenland,Burgenland,LOC,-0.19999999999999998,0.08333333333333333,de,6
+Nieska,Nieska,LOC,-1.0,0.0,de,6
+Köln,Köln,LOC,0.11666666666666665,0.0,de,6
+Kreis Oberhavel,Kreis Oberhavel,LOC,-0.08055555555555556,0.0,de,6
 Landratsamt Meißen,Landratsamt Meißen,LOC,-0.11666666666666665,0.0,de,6
 Washington,Washington,LOC,0.11666666666666665,0.0,de,6
-Quittelsdorf,Quittelsdorf,LOC,-0.2833333333333333,0.0,de,6
-Kreis Saalfeld-Rudolstadt,Kreis Saalfeld-Rudolstadt,LOC,-0.21666666666666667,0.0,de,6
-Silopi,Silopi,LOC,0.0,0.0,de,6
-Nideggen,Nideggen,LOC,0.0,0.0,de,6
-Wernigerode,Wernigerode,LOC,-0.15833333333333333,0.19999999999999998,de,6
-Nieska,Nieska,LOC,-1.0,0.0,de,6
-Brasilien,Brasilien,LOC,0.0,0.0,de,6
-Portugals,Portugals,LOC,0.038888888888888896,0.0,de,6
-Mallorca,Mallorca,LOC,0.5166666666666666,0.0,de,6
-Ofunato,Ofunato,LOC,0.03888888888888888,0.5,de,6
+Waldbrand im Harz,Waldbrand im Harz,LOC,-0.3499999999999999,0.0,de,6
+Waldbrand-Gebiet,Waldbrand-Gebiet,LOC,-0.08749999999999998,0.0,de,6
 Sundern,Sundern,LOC,-0.2333333333333333,0.0,de,6
+Ofunato,Ofunato,LOC,0.03888888888888888,0.5,de,6
 Präfektur Iwate,Präfektur Iwate,LOC,0.11666666666666665,0.5,de,6
 Japans,Japans,LOC,0.15555555555555553,0.0,de,6
-Kreis Oberhavel,Kreis Oberhavel,LOC,-0.08055555555555556,0.0,de,6
-Köln,Köln,LOC,0.11666666666666665,0.0,de,6
-Oberursel,Oberursel,LOC,0.18,0.1,de,5
-Schönberg,Schönberg,LOC,0.41999999999999993,0.0,de,5
-Gösselsdorf,Gösselsdorf,LOC,-0.27999999999999997,0.0,de,5
-Drebkau,Drebkau,LOC,-0.13999999999999999,0.0,de,5
-Iberische Halbinsel,Iberische Halbinsel,LOC,-0.030000000000000006,0.0,de,5
-Nordsachsen,Nordsachsen,LOC,0.0,0.0,de,5
-Salzburg,Salzburg,LOC,0.27999999999999997,0.0,de,5
-US-Westküste,US-Westküste,LOC,0.0,0.0,de,5
-Landkreis Goslar,Landkreis Goslar,LOC,0.0,0.0,de,5
-Hirschwang,Hirschwang,LOC,0.0,0.0,de,5
-US-Bundesstaat Kalifornien,US-Bundesstaat Kalifornien,LOC,0.0,0.4,de,5
-Gebiet,Gebiet,LOC,0.0,0.0,de,5
-Teupitz,Teupitz,LOC,0.22999999999999998,0.0,de,5
+Sachsenforst,Sachsenforst,LOC,-0.5700000000000001,0.0,de,5
 Südbrandenburg,Südbrandenburg,LOC,-0.13999999999999999,0.0,de,5
-Reinsdorf,Reinsdorf,LOC,0.0,0.0,de,5
+Hirschbach,Hirschbach,LOC,0.0,0.0,de,5
+Löcknitz,Löcknitz,LOC,0.13999999999999999,0.0,de,5
+kroatischen Adria-Küste,kroatischen Adria-Küste,LOC,0.41999999999999993,0.4,de,5
+Alfeld,Alfeld,LOC,0.27999999999999997,0.0,de,5
+Thale,Thale,LOC,-0.13999999999999999,0.0,de,5
+Rheinisch-Bergischen Kreis,Rheinisch-Bergischen Kreis,LOC,-0.27999999999999997,0.0,de,5
+Gebiet,Gebiet,LOC,0.0,0.0,de,5
+Gösselsdorf,Gösselsdorf,LOC,-0.27999999999999997,0.0,de,5
+Katalonien,Katalonien,LOC,0.0,0.0,de,5
+North Rim,North Rim,LOC,-0.33999999999999997,0.0,de,5
+Altadena,Altadena,LOC,-0.13999999999999999,0.2,de,5
+Niedersachsens,Niedersachsens,LOC,-0.20999999999999996,0.3,de,5
+Wuppertal,Wuppertal,LOC,-0.41999999999999993,0.0,de,5
 Colorado,Colorado,LOC,-0.4,0.0,de,5
 Jakobsweg,Jakobsweg,LOC,-0.38,0.1,de,5
-Landkreis Potsdam-Mittelmark,Landkreis Potsdam-Mittelmark,LOC,-0.13999999999999999,0.0,de,5
-North Rim,North Rim,LOC,-0.33999999999999997,0.0,de,5
-Niedersachsens,Niedersachsens,LOC,-0.20999999999999996,0.3,de,5
-Südeuropas,Südeuropas,LOC,0.1,0.5,de,5
-Südthüringen,Südthüringen,LOC,0.13999999999999999,0.2,de,5
-Oberpfalz,Oberpfalz,LOC,0.27999999999999997,0.0,de,5
-Landratsamts Meißen,Landratsamts Meißen,LOC,0.0,0.0,de,5
-Los Padres National Forest,Los Padres National Forest,LOC,0.0,0.0,de,5
-Wuppertal,Wuppertal,LOC,-0.41999999999999993,0.0,de,5
-Sachsenforst,Sachsenforst,LOC,-0.5700000000000001,0.0,de,5
-Prad,Prad,LOC,0.21999999999999997,0.0,de,5
-Thale,Thale,LOC,-0.13999999999999999,0.0,de,5
-Waldbrandsaison,Waldbrandsaison,LOC,-0.13999999999999999,0.0,de,5
-Rheinisch-Bergischen Kreis,Rheinisch-Bergischen Kreis,LOC,-0.27999999999999997,0.0,de,5
-Ukraine,Ukraine,LOC,0.27999999999999997,0.0,de,5
-Bursa,Bursa,LOC,-0.2,0.0,de,5
-Katalonien,Katalonien,LOC,0.0,0.0,de,5
-Altadena,Altadena,LOC,-0.13999999999999999,0.2,de,5
-Bezirken,Bezirken,LOC,-0.13999999999999999,0.0,de,5
-Kythira,Kythira,LOC,-0.13999999999999999,0.0,de,5
-Alfeld,Alfeld,LOC,0.27999999999999997,0.0,de,5
-kroatischen Adria-Küste,kroatischen Adria-Küste,LOC,0.41999999999999993,0.4,de,5
 Hitze,Hitze,LOC,-0.13999999999999999,0.2,de,5
+Prad,Prad,LOC,0.21999999999999997,0.0,de,5
+Kythira,Kythira,LOC,-0.13999999999999999,0.0,de,5
+Oberpfalz,Oberpfalz,LOC,0.27999999999999997,0.0,de,5
+Landkreis Potsdam-Mittelmark,Landkreis Potsdam-Mittelmark,LOC,-0.13999999999999999,0.0,de,5
+Landratsamts Meißen,Landratsamts Meißen,LOC,0.0,0.0,de,5
+Iberische Halbinsel,Iberische Halbinsel,LOC,-0.030000000000000006,0.0,de,5
+Südthüringen,Südthüringen,LOC,0.13999999999999999,0.2,de,5
+Salzburg,Salzburg,LOC,0.27999999999999997,0.0,de,5
+Nordsachsen,Nordsachsen,LOC,0.0,0.0,de,5
 Nürnberg,Nürnberg,LOC,0.54,0.0,de,5
-England,England,LOC,-0.33999999999999997,0.0,de,5
-Kühleres Wetter,Kühleres Wetter,LOC,0.07999999999999999,0.2,de,5
-Hirschbach,Hirschbach,LOC,0.0,0.0,de,5
+Waldbrandsaison,Waldbrandsaison,LOC,-0.13999999999999999,0.0,de,5
+Schönberg,Schönberg,LOC,0.41999999999999993,0.0,de,5
+Oberursel,Oberursel,LOC,0.18,0.1,de,5
+US-Westküste,US-Westküste,LOC,0.0,0.0,de,5
+Drebkau,Drebkau,LOC,-0.13999999999999999,0.0,de,5
+Los Padres National Forest,Los Padres National Forest,LOC,0.0,0.0,de,5
+Südeuropas,Südeuropas,LOC,0.1,0.5,de,5
 A…,A…,LOC,0.13999999999999999,0.0,de,5
-Löcknitz,Löcknitz,LOC,0.13999999999999999,0.0,de,5
-Bayerns,Bayerns,LOC,0.5249999999999999,0.0,de,4
-Egelsbach,Egelsbach,LOC,-0.2916666666666667,0.0,de,4
-Herleshausen,Herleshausen,LOC,-0.2916666666666667,0.0,de,4
-Arnsberger Wald,Arnsberger Wald,LOC,0.0,0.0,de,4
-Martigues,Martigues,LOC,0.35,0.25,de,4
-Waldbrand am Möhnesee,Waldbrand am Möhnesee,LOC,0.0,0.0,de,4
-Zentralkalifornien,Zentralkalifornien,LOC,0.0,0.0,de,4
-Eskisehir,Eskisehir,LOC,0.0,0.0,de,4
-Spree-Neiße,Spree-Neiße,LOC,0.0,0.0,de,4
-Silobad,Silobad,LOC,0.0,0.0,de,4
-Waldbrandschutz,Waldbrandschutz,LOC,-0.35,0.0,de,4
-Mittelmeerküste,Mittelmeerküste,LOC,-0.35,0.0,de,4
-Sprockhövel,Sprockhövel,LOC,-0.175,0.0,de,4
-Kroatiens,Kroatiens,LOC,-0.20416666666666666,0.20833333333333331,de,4
+Hirschwang,Hirschwang,LOC,0.0,0.0,de,5
+Ukraine,Ukraine,LOC,0.27999999999999997,0.0,de,5
+Bezirken,Bezirken,LOC,-0.13999999999999999,0.0,de,5
+Landkreis Goslar,Landkreis Goslar,LOC,0.0,0.0,de,5
+England,England,LOC,-0.33999999999999997,0.0,de,5
+Bursa,Bursa,LOC,-0.2,0.0,de,5
+US-Bundesstaat Kalifornien,US-Bundesstaat Kalifornien,LOC,0.0,0.4,de,5
+Reinsdorf,Reinsdorf,LOC,0.0,0.0,de,5
+Teupitz,Teupitz,LOC,0.22999999999999998,0.0,de,5
+Kühleres Wetter,Kühleres Wetter,LOC,0.07999999999999999,0.2,de,5
+Thale im Harz,Thale im Harz,LOC,0.0,0.0,de,4
 Hanau-Großauheim,Hanau-Großauheim,LOC,0.037500000000000006,0.0,de,4
-Wendelstein,Wendelstein,LOC,0.5375,0.0,de,4
-Schaden,Schaden,LOC,-1.0,0.0,de,4
-Feuer im Harz,Feuer im Harz,LOC,-0.0875,0.0,de,4
+Gröditz,Gröditz,LOC,0.0,0.08333333333333333,de,4
+Spree-Neiße,Spree-Neiße,LOC,0.0,0.0,de,4
 Hanau,Hanau,LOC,0.175,0.0,de,4
-Nemea,Nemea,LOC,0.0,0.0,de,4
-Waldbrand bei,Waldbrand bei,LOC,-0.75,0.0,de,4
-Hauptstadt,Hauptstadt,LOC,-0.175,0.0,de,4
-S…,S…,LOC,0.0,0.0,de,4
-Provinz León,Provinz León,LOC,0.0,0.0,de,4
-St. Ingbert,St. Ingbert,LOC,0.5249999999999999,0.0,de,4
+Waldbrandschutz,Waldbrandschutz,LOC,-0.35,0.0,de,4
+Ierapetra,Ierapetra,LOC,0.5249999999999999,0.0,de,4
+Gera,Gera,LOC,-0.175,0.0,de,4
+Kassel,Kassel,LOC,-0.07500000000000001,0.0,de,4
+Silobad,Silobad,LOC,0.0,0.0,de,4
+Brandgeschehen,Brandgeschehen,LOC,-0.3499999999999999,0.0,de,4
+Ostsee,Ostsee,LOC,0.175,0.0,de,4
+San Francisco,San Francisco,LOC,-0.35,0.0,de,4
+Rotenburg,Rotenburg,LOC,0.175,0.0,de,4
+Brandenburg e…,Brandenburg e…,LOC,0.0,1.0,de,4
 Provinzen,Provinzen,LOC,0.25,0.0,de,4
 Hamburgs,Hamburgs,LOC,-0.175,0.0,de,4
-kroatischen Adriaküste,kroatischen Adriaküste,LOC,-0.5249999999999999,0.0,de,4
-Albanien,Albanien,LOC,0.175,0.0,de,4
-Hochsauerlandkreis,Hochsauerlandkreis,LOC,0.0,0.0,de,4
-Waldbrandbeauftragter,Waldbrandbeauftragter,LOC,0.0,0.0,de,4
-Bergen,Bergen,LOC,-0.1,0.0625,de,4
-Balkan,Balkan,LOC,0.25,0.0,de,4
-Brandgeschehen,Brandgeschehen,LOC,-0.3499999999999999,0.0,de,4
-tschechisch-sächsischen Grenze,tschechisch-sächsischen Grenze,LOC,-0.7125,0.0,de,4
-Ierapetra,Ierapetra,LOC,0.5249999999999999,0.0,de,4
-Hollywood Hills,Hollywood Hills,LOC,0.425,0.25,de,4
-Paris,Paris,LOC,0.0,0.0,de,4
+S…,S…,LOC,0.0,0.0,de,4
 Rauchschwaden,Rauchschwaden,LOC,-0.5249999999999999,0.0,de,4
-Ostsee,Ostsee,LOC,0.175,0.0,de,4
-Privatwaldbesitzer,Privatwaldbesitzer,LOC,-0.175,0.0,de,4
+Österreichs,Österreichs,LOC,0.175,0.0,de,4
+Waldbrand bei,Waldbrand bei,LOC,-0.75,0.0,de,4
+McKinley Grove,McKinley Grove,LOC,-0.175,0.0,de,4
+Hochsauerlandkreis,Hochsauerlandkreis,LOC,0.0,0.0,de,4
+Zentralkalifornien,Zentralkalifornien,LOC,0.0,0.0,de,4
+Bergen,Bergen,LOC,-0.1,0.0625,de,4
+Martigues,Martigues,LOC,0.35,0.25,de,4
+L.,L.,LOC,0.0,0.0,de,4
+Paris,Paris,LOC,0.0,0.0,de,4
+Eskisehir,Eskisehir,LOC,0.0,0.0,de,4
 Überwachungszentralen,Überwachungszentralen,LOC,0.0,0.0,de,4
 Provinz,Provinz,LOC,-0.07500000000000001,0.0,de,4
-Brandenburg e…,Brandenburg e…,LOC,0.0,1.0,de,4
-San Francisco,San Francisco,LOC,-0.35,0.0,de,4
-L.,L.,LOC,0.0,0.0,de,4
-Feuer im Grunewald,Feuer im Grunewald,LOC,0.0,0.0,de,4
-Kreis Elbe-Elster,Kreis Elbe-Elster,LOC,0.0,0.0,de,4
-Kassel,Kassel,LOC,-0.07500000000000001,0.0,de,4
-Sonnewalde,Sonnewalde,LOC,-0.17499999999999996,0.0,de,4
-Bezirk Landeck,Bezirk Landeck,LOC,0.175,0.0,de,4
-Treuenbrietzen,Treuenbrietzen,LOC,0.0,0.0,de,4
-iberischen Halbinsel,iberischen Halbinsel,LOC,0.375,0.125,de,4
-Thale im Harz,Thale im Harz,LOC,0.0,0.0,de,4
-Österreichs,Österreichs,LOC,0.175,0.0,de,4
-Gera,Gera,LOC,-0.175,0.0,de,4
+Provinz León,Provinz León,LOC,0.0,0.0,de,4
+Herleshausen,Herleshausen,LOC,-0.2916666666666667,0.0,de,4
+St. Ingbert,St. Ingbert,LOC,0.5249999999999999,0.0,de,4
+Egelsbach,Egelsbach,LOC,-0.2916666666666667,0.0,de,4
+Schaden,Schaden,LOC,-1.0,0.0,de,4
+Albanien,Albanien,LOC,0.175,0.0,de,4
+kroatischen Adriaküste,kroatischen Adriaküste,LOC,-0.5249999999999999,0.0,de,4
+Hauptstadt,Hauptstadt,LOC,-0.175,0.0,de,4
+Balkan,Balkan,LOC,0.25,0.0,de,4
+Nemea,Nemea,LOC,0.0,0.0,de,4
 Palaia Fokaia,Palaia Fokaia,LOC,-0.037500000000000006,0.0,de,4
-McKinley Grove,McKinley Grove,LOC,-0.175,0.0,de,4
+tschechisch-sächsischen Grenze,tschechisch-sächsischen Grenze,LOC,-0.7125,0.0,de,4
+Wendelstein,Wendelstein,LOC,0.5375,0.0,de,4
+Bezirk Landeck,Bezirk Landeck,LOC,0.175,0.0,de,4
+Feuer im Grunewald,Feuer im Grunewald,LOC,0.0,0.0,de,4
+Feuer im Harz,Feuer im Harz,LOC,-0.0875,0.0,de,4
+Waldbrandbeauftragter,Waldbrandbeauftragter,LOC,0.0,0.0,de,4
+Kroatiens,Kroatiens,LOC,-0.20416666666666666,0.20833333333333331,de,4
 Schönower Heide,Schönower Heide,LOC,0.0,0.0,de,4
-Gröditz,Gröditz,LOC,0.0,0.08333333333333333,de,4
-Rotenburg,Rotenburg,LOC,0.175,0.0,de,4
-Glashütten,Glashütten,LOC,-0.3333333333333333,0.0,de,3
-British Columbia,British Columbia,LOC,0.0,0.0,de,3
-lby,lby,LOC,0.3333333333333333,0.0,de,3
-Marseille Flughafen,Marseille Flughafen,LOC,0.0,0.0,de,3
-Goldgräber-Stadt,Goldgräber-Stadt,LOC,0.0,0.0,de,3
-…,…,LOC,0.0,0.0,de,3
-Präfektur,Präfektur,LOC,0.0,0.0,de,3
+Sprockhövel,Sprockhövel,LOC,-0.175,0.0,de,4
+Privatwaldbesitzer,Privatwaldbesitzer,LOC,-0.175,0.0,de,4
+Bayerns,Bayerns,LOC,0.5249999999999999,0.0,de,4
+Mittelmeerküste,Mittelmeerküste,LOC,-0.35,0.0,de,4
+Arnsberger Wald,Arnsberger Wald,LOC,0.0,0.0,de,4
+Kreis Elbe-Elster,Kreis Elbe-Elster,LOC,0.0,0.0,de,4
+iberischen Halbinsel,iberischen Halbinsel,LOC,0.375,0.125,de,4
+Waldbrand am Möhnesee,Waldbrand am Möhnesee,LOC,0.0,0.0,de,4
+Hollywood Hills,Hollywood Hills,LOC,0.425,0.25,de,4
+Treuenbrietzen,Treuenbrietzen,LOC,0.0,0.0,de,4
+Sonnewalde,Sonnewalde,LOC,-0.17499999999999996,0.0,de,4
+Schwelbrände,Schwelbrände,LOC,0.2333333333333333,0.0,de,3
+Erlenbach,Erlenbach,LOC,0.2333333333333333,0.0,de,3
+Oberhavel,Oberhavel,LOC,0.0,0.0,de,3
+Landesbetrieb Forst,Landesbetrieb Forst,LOC,-0.2333333333333333,0.0,de,3
+Brandenburger Landkreisen,Brandenburger Landkreisen,LOC,-0.2333333333333333,0.0,de,3
+Pressath,Pressath,LOC,0.2333333333333333,0.0,de,3
+Remschütz,Remschütz,LOC,0.0,0.0,de,3
+Rauchgas-Warnungen,Rauchgas-Warnungen,LOC,-0.2333333333333333,0.0,de,3
+Quedlinburg,Quedlinburg,LOC,0.0,0.0,de,3
+Umweltministerium,Umweltministerium,LOC,-0.2833333333333333,0.0,de,3
+Umw,Umw,LOC,0.0,0.0,de,3
+Wolframs-Eschenbach,Wolframs-Eschenbach,LOC,0.3333333333333333,0.0,de,3
+Gutenstein,Gutenstein,LOC,0.0,0.0,de,3
 Stilfser Joch,Stilfser Joch,LOC,0.6999999999999998,0.0,de,3
-Waldbrand am Burgberg,Waldbrand am Burgberg,LOC,-0.6999999999999998,0.0,de,3
-Bad Harzburg,Bad Harzburg,LOC,0.0,0.0,de,3
-Bereitschaft,Bereitschaft,LOC,0.0,0.0,de,3
-Feuer im Forst,Feuer im Forst,LOC,0.0,0.3333333333333333,de,3
-Rom,Rom,LOC,0.1111111111111111,0.0,de,3
-Wachenheim,Wachenheim,LOC,0.0,0.0,de,3
-Flammeninferno,Flammeninferno,LOC,-0.16666666666666666,0.16666666666666666,de,3
-La…,La…,LOC,0.2833333333333333,0.0,de,3
-Hause,Hause,LOC,-0.4666666666666666,0.0,de,3
-Ankara,Ankara,LOC,0.0,0.0,de,3
+lby,lby,LOC,0.3333333333333333,0.0,de,3
+Tausende,Tausende,LOC,0.0,0.0,de,3
 Großauheim,Großauheim,LOC,0.0,0.0,de,3
+Aschaffenburg,Aschaffenburg,LOC,0.0,0.0,de,3
+Schramberg,Schramberg,LOC,-1.0,0.0,de,3
+Tennenloher,Tennenloher,LOC,0.0,0.0,de,3
+Makarska,Makarska,LOC,-0.4666666666666666,0.0,de,3
+Parchim,Parchim,LOC,0.0,0.0,de,3
+Waldbrand am Burgberg,Waldbrand am Burgberg,LOC,-0.6999999999999998,0.0,de,3
+Wahlbrandrisiko,Wahlbrandrisiko,LOC,0.0,0.0,de,3
+Rauch kanadischer Waldbrände,Rauch kanadischer Waldbrände,LOC,0.0,0.0,de,3
+Landkreis Saalfeld-Rudolstadt,Landkreis Saalfeld-Rudolstadt,LOC,-0.2333333333333333,0.0,de,3
+Spremberg,Spremberg,LOC,-0.2333333333333333,0.3333333333333333,de,3
+Affalterbach,Affalterbach,LOC,0.0,0.0,de,3
+Idaho,Idaho,LOC,-0.10000000000000002,0.0,de,3
+Mittelfranken,Mittelfranken,LOC,0.2833333333333333,0.0,de,3
+Dreckige Luft,Dreckige Luft,LOC,0.0,0.0,de,3
+Großeinsätze,Großeinsätze,LOC,0.0,0.0,de,3
+Pongau,Pongau,LOC,0.0,0.0,de,3
+Waldbrand am Großen Feldberg +++ Darmstadt,Waldbrand am Großen Feldberg +++ Darmstadt,LOC,0.4666666666666666,0.0,de,3
+Schierke,Schierke,LOC,0.0,0.0,de,3
+Provinz Saskatchewan,Provinz Saskatchewan,LOC,-0.2333333333333333,0.0,de,3
+Viersen,Viersen,LOC,-0.03333333333333334,0.1111111111111111,de,3
+Hannover,Hannover,LOC,-0.3333333333333333,0.3333333333333333,de,3
+Oppershausen,Oppershausen,LOC,0.2333333333333333,0.0,de,3
+Schwandorf,Schwandorf,LOC,0.0,0.0,de,3
+Gemeinde,Gemeinde,LOC,0.2333333333333333,0.0,de,3
+British Columbia,British Columbia,LOC,0.0,0.0,de,3
+Adria,Adria,LOC,0.0,0.0,de,3
+Dresdner Heide,Dresdner Heide,LOC,0.0,0.0,de,3
+Kommunen,Kommunen,LOC,-0.2333333333333333,0.0,de,3
+Bad Harzburg,Bad Harzburg,LOC,0.0,0.0,de,3
+Wachenheim,Wachenheim,LOC,0.0,0.0,de,3
+Magdeburger,Magdeburger,LOC,0.4666666666666666,0.0,de,3
+Cala d’Hort,Cala d’Hort,LOC,0.0,0.0,de,3
+Ankara,Ankara,LOC,0.0,0.0,de,3
 Athener,Athener,LOC,0.0,0.0,de,3
-Wülknitz,Wülknitz,LOC,0.0,0.0,de,3
+Napa County,Napa County,LOC,1.0,0.0,de,3
+Ostdeutschlands,Ostdeutschlands,LOC,0.0,0.0,de,3
 Antalya,Antalya,LOC,-0.3333333333333333,0.0,de,3
 Urlaubsregion,Urlaubsregion,LOC,0.10000000000000002,0.0,de,3
 Luxe,Luxe,LOC,-0.6999999999999998,0.0,de,3
-Nordportu,Nordportu,LOC,0.0,0.0,de,3
-Landesbetrieb Forst,Landesbetrieb Forst,LOC,-0.2333333333333333,0.0,de,3
-Affalterbach,Affalterbach,LOC,0.0,0.0,de,3
-Tausende,Tausende,LOC,0.0,0.0,de,3
-Erfurt,Erfurt,LOC,-0.5666666666666667,0.3333333333333333,de,3
-EU-Staaten,EU-Staaten,LOC,0.0,0.0,de,3
-Tarragona,Tarragona,LOC,0.0,0.0,de,3
-Schramberg,Schramberg,LOC,-1.0,0.0,de,3
-Böhmischer Schweiz,Böhmischer Schweiz,LOC,0.0,0.0,de,3
-Umweltministerium,Umweltministerium,LOC,-0.2833333333333333,0.0,de,3
-Provinz Saskatchewan,Provinz Saskatchewan,LOC,-0.2333333333333333,0.0,de,3
-Parchim,Parchim,LOC,0.0,0.0,de,3
-Elbtal,Elbtal,LOC,0.0,0.0,de,3
-Ávila,Ávila,LOC,-0.2333333333333333,0.0,de,3
-Pongau,Pongau,LOC,0.0,0.0,de,3
-Quedlinburg,Quedlinburg,LOC,0.0,0.0,de,3
-Rauchgas-Warnungen,Rauchgas-Warnungen,LOC,-0.2333333333333333,0.0,de,3
-Canakkale,Canakkale,LOC,0.6999999999999998,0.0,de,3
+Sonneberg,Sonneberg,LOC,0.0,0.6666666666666666,de,3
+Eu,Eu,LOC,-0.4666666666666666,0.0,de,3
+Bezirk Freistadt,Bezirk Freistadt,LOC,0.0,0.0,de,3
+Flammen-Hölle,Flammen-Hölle,LOC,0.0,0.3333333333333333,de,3
+Sonnenberg,Sonnenberg,LOC,-0.13333333333333333,0.08333333333333333,de,3
 Waldbrand-Horror,Waldbrand-Horror,LOC,0.0,0.0,de,3
-Provinz Ávila jed…,Provinz Ávila jed…,LOC,0.0,0.0,de,3
-Erlenbach,Erlenbach,LOC,0.2333333333333333,0.0,de,3
+Grand-Canyon-Nationalparks,Grand-Canyon-Nationalparks,LOC,-0.38333333333333336,0.0,de,3
+Nordspanien,Nordspanien,LOC,0.3333333333333333,0.0,de,3
+Syrien,Syrien,LOC,0.0,0.3333333333333333,de,3
+Arizona,Arizona,LOC,0.0,0.0,de,3
+Königsforst,Königsforst,LOC,0.4666666666666666,0.0,de,3
+Lösch-Helis,Lösch-Helis,LOC,0.0,0.0,de,3
+Flammeninferno,Flammeninferno,LOC,-0.16666666666666666,0.16666666666666666,de,3
+US-Staat,US-Staat,LOC,0.0,0.0,de,3
+Oberösterreich,Oberösterreich,LOC,0.0,0.0,de,3
+Rom,Rom,LOC,0.1111111111111111,0.0,de,3
+EU-Staaten,EU-Staaten,LOC,0.0,0.0,de,3
+Südfrankreichs,Südfrankreichs,LOC,0.6666666666666666,0.3333333333333333,de,3
+Ventura County,Ventura County,LOC,0.0,0.0,de,3
+Marburg,Marburg,LOC,-0.6222222222222222,0.0,de,3
+Haus,Haus,LOC,-0.24444444444444446,0.0,de,3
+Chefchaouen,Chefchaouen,LOC,0.375,0.0,de,3
+Tres Cantos,Tres Cantos,LOC,0.0,0.0,de,3
+Canakkale,Canakkale,LOC,0.6999999999999998,0.0,de,3
+Böhmischer Schweiz,Böhmischer Schweiz,LOC,0.0,0.0,de,3
 Medebach,Medebach,LOC,0.0,0.0,de,3
+Waldbrand-Spezialisten,Waldbrand-Spezialisten,LOC,0.6999999999999998,0.0,de,3
+Westküstenmetropole,Westküstenmetropole,LOC,-0.2333333333333333,0.0,de,3
+Benefizalbum,Benefizalbum,LOC,0.0,0.0,de,3
+Waldbrandkatastrophe,Waldbrandkatastrophe,LOC,0.0,0.6666666666666666,de,3
+Provinz Ávila jed…,Provinz Ávila jed…,LOC,0.0,0.0,de,3
+La…,La…,LOC,0.2833333333333333,0.0,de,3
+US-Westküstenstaat,US-Westküstenstaat,LOC,0.0,0.0,de,3
+Berlin/,Berlin/,LOC,0.0,0.0,de,3
+Privacy Center,Privacy Center,LOC,0.0,0.0,de,3
+Hunderte,Hunderte,LOC,0.0,0.0,de,3
+Iraker,Iraker,LOC,-0.5666666666666667,0.0,de,3
+Völklingen,Völklingen,LOC,0.0,0.0,de,3
+Sächsischen Schweiz,Sächsischen Schweiz,LOC,-0.3833333333333333,0.0,de,3
+Nordportu,Nordportu,LOC,0.0,0.0,de,3
+Ávila,Ávila,LOC,-0.2333333333333333,0.0,de,3
+Goldgräber-Stadt,Goldgräber-Stadt,LOC,0.0,0.0,de,3
+Glashütten,Glashütten,LOC,-0.3333333333333333,0.0,de,3
+Wäldern,Wäldern,LOC,0.2333333333333333,0.0,de,3
+Jacob…,Jacob…,LOC,0.0,0.0,de,3
+Erfurt,Erfurt,LOC,-0.5666666666666667,0.3333333333333333,de,3
+Hause,Hause,LOC,-0.4666666666666666,0.0,de,3
+Ungewissen,Ungewissen,LOC,0.0,0.0,de,3
+Waldbrandsensoren im Harz,Waldbrandsensoren im Harz,LOC,0.2333333333333333,0.0,de,3
+Ibizas,Ibizas,LOC,0.0,0.0,de,3
+Lindlar,Lindlar,LOC,-0.4666666666666666,0.0,de,3
 Waldbrand Gohrischheide,Waldbrand Gohrischheide,LOC,0.6999999999999998,0.0,de,3
 Landratsamt Saalfeld-Rudolstadt,Landratsamt Saalfeld-Rudolstadt,LOC,-0.2916666666666667,0.08333333333333333,de,3
-Iraker,Iraker,LOC,-0.5666666666666667,0.0,de,3
-Schwandorf,Schwandorf,LOC,0.0,0.0,de,3
-Großeinsätze,Großeinsätze,LOC,0.0,0.0,de,3
-Remschütz,Remschütz,LOC,0.0,0.0,de,3
-Pressath,Pressath,LOC,0.2333333333333333,0.0,de,3
-Dreckige Luft,Dreckige Luft,LOC,0.0,0.0,de,3
-Rauch kanadischer Waldbrände,Rauch kanadischer Waldbrände,LOC,0.0,0.0,de,3
-Gemeinde,Gemeinde,LOC,0.2333333333333333,0.0,de,3
-Großbrand in der Gohrischheide,Großbrand in der Gohrischheide,LOC,-0.1333333333333333,0.0,de,3
-Tres Cantos,Tres Cantos,LOC,0.0,0.0,de,3
-Kommunen,Kommunen,LOC,-0.2333333333333333,0.0,de,3
-Landkreis Saalfeld-Rudolstadt,Landkreis Saalfeld-Rudolstadt,LOC,-0.2333333333333333,0.0,de,3
-Benefizalbum,Benefizalbum,LOC,0.0,0.0,de,3
-Hunderte,Hunderte,LOC,0.0,0.0,de,3
-Syrien,Syrien,LOC,0.0,0.3333333333333333,de,3
-Sächsischen Schweiz,Sächsischen Schweiz,LOC,-0.3833333333333333,0.0,de,3
-Waldbrand am Großen Feldberg +++ Darmstadt,Waldbrand am Großen Feldberg +++ Darmstadt,LOC,0.4666666666666666,0.0,de,3
-Makarska,Makarska,LOC,-0.4666666666666666,0.0,de,3
-Oberhavel,Oberhavel,LOC,0.0,0.0,de,3
-Dresdner Heide,Dresdner Heide,LOC,0.0,0.0,de,3
-Wolframs-Eschenbach,Wolframs-Eschenbach,LOC,0.3333333333333333,0.0,de,3
-Jacobsthal Bahnhof,Jacobsthal Bahnhof,LOC,0.0,0.0,de,3
-Viersen,Viersen,LOC,-0.03333333333333334,0.1111111111111111,de,3
-Cala d’Hort,Cala d’Hort,LOC,0.0,0.0,de,3
-Ostdeutschlands,Ostdeutschlands,LOC,0.0,0.0,de,3
-Spremberg,Spremberg,LOC,-0.2333333333333333,0.3333333333333333,de,3
-Ventura County,Ventura County,LOC,0.0,0.0,de,3
-Adria,Adria,LOC,0.0,0.0,de,3
-Waldbrandkatastrophe,Waldbrandkatastrophe,LOC,0.0,0.6666666666666666,de,3
-Tennenloher,Tennenloher,LOC,0.0,0.0,de,3
-Königsforst,Königsforst,LOC,0.4666666666666666,0.0,de,3
-Lindlar,Lindlar,LOC,-0.4666666666666666,0.0,de,3
-Südfrankreichs,Südfrankreichs,LOC,0.6666666666666666,0.3333333333333333,de,3
-Berlin/,Berlin/,LOC,0.0,0.0,de,3
-Bezirk Freistadt,Bezirk Freistadt,LOC,0.0,0.0,de,3
-Waldbrand-Spezialisten,Waldbrand-Spezialisten,LOC,0.6999999999999998,0.0,de,3
-Privacy Center,Privacy Center,LOC,0.0,0.0,de,3
-Lösch-Helis,Lösch-Helis,LOC,0.0,0.0,de,3
-Völklingen,Völklingen,LOC,0.0,0.0,de,3
-Arizona,Arizona,LOC,0.0,0.0,de,3
-US-Westküstenstaat,US-Westküstenstaat,LOC,0.0,0.0,de,3
-Schierke,Schierke,LOC,0.0,0.0,de,3
-Umw,Umw,LOC,0.0,0.0,de,3
-Südhessen,Südhessen,LOC,-0.19999999999999998,0.1111111111111111,de,3
-Wäldern,Wäldern,LOC,0.2333333333333333,0.0,de,3
-Idaho,Idaho,LOC,-0.10000000000000002,0.0,de,3
-Flammen-Hölle,Flammen-Hölle,LOC,0.0,0.3333333333333333,de,3
 Staaten,Staaten,LOC,0.2333333333333333,0.0,de,3
-Westküstenmetropole,Westküstenmetropole,LOC,-0.2333333333333333,0.0,de,3
-Ungewissen,Ungewissen,LOC,0.0,0.0,de,3
+Großbrand in der Gohrischheide,Großbrand in der Gohrischheide,LOC,-0.1333333333333333,0.0,de,3
+Feuer im Forst,Feuer im Forst,LOC,0.0,0.3333333333333333,de,3
+Tarragona,Tarragona,LOC,0.0,0.0,de,3
+Elbtal,Elbtal,LOC,0.0,0.0,de,3
+Präfektur,Präfektur,LOC,0.0,0.0,de,3
+Bereitschaft,Bereitschaft,LOC,0.0,0.0,de,3
 Thomas-Mann-Haus,Thomas-Mann-Haus,LOC,-0.6666666666666666,0.0,de,3
-Marburg,Marburg,LOC,-0.6222222222222222,0.0,de,3
-US-Staat,US-Staat,LOC,0.0,0.0,de,3
-Grand-Canyon-Nationalparks,Grand-Canyon-Nationalparks,LOC,-0.38333333333333336,0.0,de,3
-Jacob…,Jacob…,LOC,0.0,0.0,de,3
-Aschaffenburg,Aschaffenburg,LOC,0.0,0.0,de,3
-Schwelbrände,Schwelbrände,LOC,0.2333333333333333,0.0,de,3
-Wahlbrandrisiko,Wahlbrandrisiko,LOC,0.0,0.0,de,3
-Oberösterreich,Oberösterreich,LOC,0.0,0.0,de,3
-Ibizas,Ibizas,LOC,0.0,0.0,de,3
-Oppershausen,Oppershausen,LOC,0.2333333333333333,0.0,de,3
-Haus,Haus,LOC,-0.24444444444444446,0.0,de,3
-Gutenstein,Gutenstein,LOC,0.0,0.0,de,3
-Magdeburger,Magdeburger,LOC,0.4666666666666666,0.0,de,3
-Brandenburger Landkreisen,Brandenburger Landkreisen,LOC,-0.2333333333333333,0.0,de,3
-Eu,Eu,LOC,-0.4666666666666666,0.0,de,3
-Sonnenberg,Sonnenberg,LOC,-0.13333333333333333,0.08333333333333333,de,3
-Nordspanien,Nordspanien,LOC,0.3333333333333333,0.0,de,3
-Sonneberg,Sonneberg,LOC,0.0,0.6666666666666666,de,3
-Chefchaouen,Chefchaouen,LOC,0.375,0.0,de,3
-Mittelfranken,Mittelfranken,LOC,0.2833333333333333,0.0,de,3
-Napa County,Napa County,LOC,1.0,0.0,de,3
-Waldbrandsensoren im Harz,Waldbrandsensoren im Harz,LOC,0.2333333333333333,0.0,de,3
-Nieder-Eschbach,Nieder-Eschbach,LOC,0.0,0.0,de,2
+Marseille Flughafen,Marseille Flughafen,LOC,0.0,0.0,de,3
+Südhessen,Südhessen,LOC,-0.19999999999999998,0.1111111111111111,de,3
+…,…,LOC,0.0,0.0,de,3
+Jacobsthal Bahnhof,Jacobsthal Bahnhof,LOC,0.0,0.0,de,3
+Wülknitz,Wülknitz,LOC,0.0,0.0,de,3
+Main-Kinzig,Main-Kinzig,LOC,0.0,0.0,de,2
+A45,A45,LOC,0.35,0.0,de,2
+Landkreis Barnim,Landkreis Barnim,LOC,0.7,0.0,de,2
+Schönower,Schönower,LOC,-1.0,0.0,de,2
 Kreis Rottweil,Kreis Rottweil,LOC,-1.0,0.0,de,2
-Altmark,Altmark,LOC,0.0,0.5,de,2
-Kreis Bad Dürkheim,Kreis Bad Dürkheim,LOC,0.0,0.0,de,2
-Saalfeld-Rudolstadt,Saalfeld-Rudolstadt,LOC,0.35,0.0,de,2
+Asien,Asien,LOC,0.0,1.0,de,2
+Möhneseeturm,Möhneseeturm,LOC,-0.35,0.0,de,2
+Afrika,Afrika,LOC,0.0,1.0,de,2
+San Franciscos,San Franciscos,LOC,0.0,0.0,de,2
+Bodensee,Bodensee,LOC,0.3333333333333333,0.0,de,2
 Lindenberg,Lindenberg,LOC,0.0,0.0,de,2
+Sant Joan,Sant Joan,LOC,0.0,0.0,de,2
+Marokko,Marokko,LOC,0.5625,0.0,de,2
+Thüringer,Thüringer,LOC,-0.35,0.0,de,2
 Wachenheim an der Weinstraße,Wachenheim an der Weinstraße,LOC,0.0,0.0,de,2
-Bergen-Enkheim,Bergen-Enkheim,LOC,0.0,0.0,de,2
-Jacobsthal,Jacobsthal,LOC,-0.5,0.0,de,2
-Gifford Fire,Gifford Fire,LOC,0.0,0.0,de,2
-österreischischen Grenze,österreischischen Grenze,LOC,0.0,0.0,de,2
-Straße,Straße,LOC,0.0,0.0,de,2
-Main-Kinzig-Kreis,Main-Kinzig-Kreis,LOC,0.0,0.0,de,2
-Leichtsinnigen,Leichtsinnigen,LOC,-1.0,0.0,de,2
-S,S,LOC,0.0,0.16666666666666666,de,2
-Armee-Areal,Armee-Areal,LOC,-0.7,0.0,de,2
-Landkreis Dahme-Spreewald,Landkreis Dahme-Spreewald,LOC,0.0,0.0,de,2
-Nordbayerns,Nordbayerns,LOC,0.7,0.0,de,2
-Thüringer Waldbrand,Thüringer Waldbrand,LOC,0.7,0.0,de,2
-Thüringe,Thüringe,LOC,0.0,0.0,de,2
-Mark,Mark,LOC,0.0,0.0,de,2
-Kretas,Kretas,LOC,0.575,0.0,de,2
-Baruth,Baruth,LOC,0.0,0.0,de,2
-Autobahn 13,Autobahn 13,LOC,0.0,0.0,de,2
-Burg Berwartstein,Burg Berwartstein,LOC,0.35,0.0,de,2
-Landratsamtes Meißen,Landratsamtes Meißen,LOC,0.0,0.0,de,2
-Bezirk Santa Barbara,Bezirk Santa Barbara,LOC,0.0,0.0,de,2
-Jütrichau,Jütrichau,LOC,0.0,0.0,de,2
-Zerbster,Zerbster,LOC,0.0,0.0,de,2
-Warnapp Nina,Warnapp Nina,LOC,0.0,0.0,de,2
-Krimml,Krimml,LOC,-0.7,0.0,de,2
-Waldbrand im,Waldbrand im,LOC,-1.0,0.0,de,2
-Nettetal,Nettetal,LOC,-0.05000000000000001,0.16666666666666666,de,2
-Gemeinde Zeithain,Gemeinde Zeithain,LOC,0.0,0.0,de,2
-Waldbrandschutzbeauftragte,Waldbrandschutzbeauftragte,LOC,0.0,0.0,de,2
-Extremwetter,Extremwetter,LOC,-0.7,0.0,de,2
-Verbrannte Natur,Verbrannte Natur,LOC,0.0,0.0,de,2
-Bad Liebenwerda,Bad Liebenwerda,LOC,0.0,0.0,de,2
-Wasserpolizei,Wasserpolizei,LOC,0.0,0.0,de,2
-Auswärtiges Amt,Auswärtiges Amt,LOC,-0.5416666666666666,0.0,de,2
-Bremsfunken,Bremsfunken,LOC,-0.425,0.5,de,2
-Marusici,Marusici,LOC,0.0,0.5,de,2
-Adria-Küste,Adria-Küste,LOC,0.0,0.0,de,2
-Wassernotstand,Wassernotstand,LOC,-0.425,0.5,de,2
-Flughafen Olbia,Flughafen Olbia,LOC,0.35,0.0,de,2
-Großbritannien,Großbritannien,LOC,-0.35,0.5,de,2
-Istanbul,Istanbul,LOC,0.16666666666666666,0.5,de,2
 Kroatiens Küste,Kroatiens Küste,LOC,0.0,0.0,de,2
-Böhmischen Schweiz,Böhmischen Schweiz,LOC,-0.3333333333333333,0.3333333333333333,de,2
+Kataloniens,Kataloniens,LOC,-0.35,0.0,de,2
+Kreis Bad Dürkheim,Kreis Bad Dürkheim,LOC,0.0,0.0,de,2
+Vegetationsbränden,Vegetationsbränden,LOC,-0.5,0.0,de,2
+"Feuer-""Tsunami","Feuer-""Tsunami",LOC,0.0,0.0,de,2
 Pirna,Pirna,LOC,0.0,0.0,de,2
-Landkreis Erlangen-Höchstadt,Landkreis Erlangen-Höchstadt,LOC,0.0,0.0,de,2
+Walldorf,Walldorf,LOC,0.7,0.0,de,2
+Wahlbrände,Wahlbrände,LOC,0.0,0.0,de,2
 unvorsichtiges,unvorsichtiges,LOC,-0.15000000000000002,0.0,de,2
-etablierteste,etablierteste,LOC,0.0,0.0,de,2
-Mittelmeerinsel,Mittelmeerinsel,LOC,0.0,0.0,de,2
-Kreis Ostprignitz-Ruppin,Kreis Ostprignitz-Ruppin,LOC,0.0,0.0,de,2
-Heißer Sonntag,Heißer Sonntag,LOC,0.0,0.0,de,2
-Braunschweig,Braunschweig,LOC,-0.35,0.0,de,2
-Schüssen,Schüssen,LOC,-0.5,0.0,de,2
-Landkreis,Landkreis,LOC,-0.35,0.0,de,2
-Wien,Wien,LOC,0.0,0.0,de,2
-Abtei Fontfroide,Abtei Fontfroide,LOC,0.35,0.0,de,2
-Nationalpark,Nationalpark,LOC,1.0,0.0,de,2
-Hannover,Hannover,LOC,-0.5,0.0,de,2
-Australiens Nationalpark,Australiens Nationalpark,LOC,0.0,0.0,de,2
-Abgebrannte Olivenhaine,Abgebrannte Olivenhaine,LOC,-0.7,0.0,de,2
-Bezirk Leoben,Bezirk Leoben,LOC,0.0,0.0,de,2
-Corona,Corona,LOC,0.0,0.0,de,2
-griechischen Inseln,griechischen Inseln,LOC,-0.35,0.0,de,2
-Wiens,Wiens,LOC,0.0,0.0,de,2
-Unterholz,Unterholz,LOC,-0.35,0.0,de,2
-Formentera,Formentera,LOC,0.0,0.0,de,2
-Kreis,Kreis,LOC,0.0,0.0,de,2
-Königsee,Königsee,LOC,-0.35,0.0,de,2
-Lunden,Lunden,LOC,-0.35,0.0,de,2
-Ontario,Ontario,LOC,-0.35,0.0,de,2
-Copernicu,Copernicu,LOC,0.0,0.0,de,2
-Autobahn A9,Autobahn A9,LOC,0.0,0.0,de,2
-Jacobsthal-Bahnhof,Jacobsthal-Bahnhof,LOC,0.0,0.0,de,2
-Landkreise,Landkreise,LOC,0.0,0.0,de,2
-Zivilschutzes,Zivilschutzes,LOC,-0.5249999999999999,0.25,de,2
-Geraer Stadtwaldes,Geraer Stadtwaldes,LOC,-0.35,0.0,de,2
-Sonnenwalde,Sonnenwalde,LOC,-0.35,0.0,de,2
-Provinz Manitoba,Provinz Manitoba,LOC,0.0,0.0,de,2
-Westkanada,Westkanada,LOC,-1.0,0.0,de,2
-Zentral-,Zentral-,LOC,-1.0,0.0,de,2
-Zentralkanada,Zentralkanada,LOC,0.0,0.0,de,2
-Gußwerk,Gußwerk,LOC,0.0,0.0,de,2
-Gohrischh,Gohrischh,LOC,0.7,0.0,de,2
-Nordamerika,Nordamerika,LOC,-0.35,0.5,de,2
-Schweden,Schweden,LOC,-0.35,0.0,de,2
-französischen Mittelmeerküste,französischen Mittelmeerküste,LOC,-0.35,0.0,de,2
+Valencia,Valencia,LOC,-0.07500000000000001,0.5,de,2
+Düsseldorf,Düsseldorf,LOC,0.0,0.5,de,2
+Harzer,Harzer,LOC,0.0,0.0,de,2
+Osthessen,Osthessen,LOC,-0.35,0.0,de,2
+Waldbrand-Einsatz,Waldbrand-Einsatz,LOC,-0.06666666666666665,0.16666666666666666,de,2
+Spanier,Spanier,LOC,0.0,0.0,de,2
+Västervik,Västervik,LOC,-0.35,0.0,de,2
+Löschen,Löschen,LOC,-0.35,0.5,de,2
+Seia,Seia,LOC,0.0,0.0,de,2
+Petzolds,Petzolds,LOC,0.0,0.0,de,2
+Niedernhausen,Niedernhausen,LOC,-0.5,0.0,de,2
 Rauch,Rauch,LOC,0.0,0.0,de,2
-nan Bei,nan Bei,LOC,0.0,0.0,de,2
-Bundesrepublik,Bundesrepublik,LOC,0.0,0.0,de,2
+Nordamerika,Nordamerika,LOC,-0.35,0.5,de,2
+Klein-Auheim,Klein-Auheim,LOC,0.35,0.0,de,2
+Ontario,Ontario,LOC,-0.35,0.0,de,2
+Heimatschutzministerium,Heimatschutzministerium,LOC,-0.7,0.0,de,2
+Tulln,Tulln,LOC,0.35,0.0,de,2
+Südrussland,Südrussland,LOC,-0.5,0.0,de,2
+Coquihalla-Autobahn,Coquihalla-Autobahn,LOC,0.0,0.0,de,2
+Schwarzmeerregion Krasnodar,Schwarzmeerregion Krasnodar,LOC,0.0,1.0,de,2
+Copernicu,Copernicu,LOC,0.0,0.0,de,2
+Flugplatz Mainz-Finthen,Flugplatz Mainz-Finthen,LOC,1.0,0.0,de,2
+Friedrichsthal,Friedrichsthal,LOC,-0.35,0.0,de,2
 Hallein,Hallein,LOC,0.35,0.0,de,2
-Peloponnes,Peloponnes,LOC,0.0,0.0,de,2
+Coyotes,Coyotes,LOC,-0.5,0.0,de,2
+Havelland,Havelland,LOC,0.0,0.0,de,2
+Porto,Porto,LOC,0.0,0.0,de,2
+Königsee,Königsee,LOC,-0.35,0.0,de,2
+Iberischer Halbinsel,Iberischer Halbinsel,LOC,0.0,0.0,de,2
+Grenzübergreifend,Grenzübergreifend,LOC,0.7,0.0,de,2
+Kreise,Kreise,LOC,0.0,0.0,de,2
+Wetter,Wetter,LOC,0.0,0.0,de,2
+Los Angeles-,Los Angeles-,LOC,0.0,0.0,de,2
+Landeck,Landeck,LOC,-0.15000000000000002,0.0,de,2
+Zentralkanada,Zentralkanada,LOC,0.0,0.0,de,2
+Nauders,Nauders,LOC,-0.15000000000000002,0.0,de,2
+Zentral-,Zentral-,LOC,-1.0,0.0,de,2
+Westkanada,Westkanada,LOC,-1.0,0.0,de,2
+Provinz Manitoba,Provinz Manitoba,LOC,0.0,0.0,de,2
+Amazonasregenwald,Amazonasregenwald,LOC,0.0,0.0,de,2
+Gußwerk,Gußwerk,LOC,0.0,0.0,de,2
+Abgebrannte Olivenhaine,Abgebrannte Olivenhaine,LOC,-0.7,0.0,de,2
+Wasserpolizei,Wasserpolizei,LOC,0.0,0.0,de,2
+Landratsamtes Meißen,Landratsamtes Meißen,LOC,0.0,0.0,de,2
+Altmark,Altmark,LOC,0.0,0.5,de,2
+Gohrischh,Gohrischh,LOC,0.7,0.0,de,2
 Reinhardswald,Reinhardswald,LOC,0.0,0.0,de,2
+Geraer Stadtwaldes,Geraer Stadtwaldes,LOC,-0.35,0.0,de,2
+Jacobsthal-Bahnhof,Jacobsthal-Bahnhof,LOC,0.0,0.0,de,2
 Evakuier,Evakuier,LOC,0.0,0.0,de,2
-Côte d’Azur,Côte d’Azur,LOC,0.35,0.0,de,2
+Straße,Straße,LOC,0.0,0.0,de,2
 Herzberg,Herzberg,LOC,-0.35,0.0,de,2
 Landkreises s,Landkreises s,LOC,0.0,0.0,de,2
-Kreise,Kreise,LOC,0.0,0.0,de,2
-Havelland,Havelland,LOC,0.0,0.0,de,2
+Côte d’Azur,Côte d’Azur,LOC,0.35,0.0,de,2
 Massen-Niederlausitz,Massen-Niederlausitz,LOC,0.0,0.0,de,2
-Möhneseeturm,Möhneseeturm,LOC,-0.35,0.0,de,2
-Münchener Rück,Münchener Rück,LOC,0.0,0.0,de,2
-Großraum Los Angeles Panik,Großraum Los Angeles Panik,LOC,-0.175,0.25,de,2
-Porto,Porto,LOC,0.0,0.0,de,2
-Spanier,Spanier,LOC,0.0,0.0,de,2
-Oberbergischen,Oberbergischen,LOC,-0.35,0.0,de,2
-Alpen,Alpen,LOC,0.0,0.0,de,2
-Löschen,Löschen,LOC,-0.35,0.5,de,2
-Coyotes,Coyotes,LOC,-0.5,0.0,de,2
-Petzolds,Petzolds,LOC,0.0,0.0,de,2
-Kreisbrandmeisters,Kreisbrandmeisters,LOC,0.0,0.0,de,2
-Landkreis Ostprignitz-Ruppin,Landkreis Ostprignitz-Ruppin,LOC,0.0,0.0,de,2
-Waldbrand-Einsatz,Waldbrand-Einsatz,LOC,-0.06666666666666665,0.16666666666666666,de,2
-Overath,Overath,LOC,0.0,0.0,de,2
-Offenbach,Offenbach,LOC,0.25,0.25,de,2
-Rhein,Rhein,LOC,-0.175,0.75,de,2
-Waldbrandeinsatz,Waldbrandeinsatz,LOC,0.0,0.0,de,2
-Heimatschutzministerium,Heimatschutzministerium,LOC,-0.7,0.0,de,2
-Ladis,Ladis,LOC,0.35,0.0,de,2
-Hollywoods,Hollywoods,LOC,0.0,0.16666666666666666,de,2
-Landkreis Südliche Weinstraße,Landkreis Südliche Weinstraße,LOC,-0.35,0.0,de,2
-Flammen,Flammen,LOC,0.0,0.0,de,2
-Ludwigsburg,Ludwigsburg,LOC,0.35,0.0,de,2
-Sportanlage Jahnstraße,Sportanlage Jahnstraße,LOC,0.0,0.0,de,2
-Marokko,Marokko,LOC,0.5625,0.0,de,2
-Zillhöhe,Zillhöhe,LOC,0.0,0.0,de,2
-Bleiburg,Bleiburg,LOC,0.0,0.0,de,2
-Kömmel,Kömmel,LOC,0.0,0.0,de,2
-Vorarlberg,Vorarlberg,LOC,0.0,0.0,de,2
-Main-Kinzig,Main-Kinzig,LOC,0.0,0.0,de,2
-Inselreiches,Inselreiches,LOC,0.0,0.0,de,2
-Hitzewarnungen,Hitzewarnungen,LOC,-0.35,0.0,de,2
-Dorf Orellan,Dorf Orellan,LOC,1.0,0.0,de,2
-Burgberg-Seilbahn,Burgberg-Seilbahn,LOC,-0.7,0.0,de,2
-Bad Harzburg -,Bad Harzburg -,LOC,0.0,0.0,de,2
-Millstatt,Millstatt,LOC,0.0,0.0,de,2
+Sonnenwalde,Sonnenwalde,LOC,-0.35,0.0,de,2
+Böhmischen Schweiz,Böhmischen Schweiz,LOC,-0.3333333333333333,0.3333333333333333,de,2
+Flughafen Olbia,Flughafen Olbia,LOC,0.35,0.0,de,2
+Mittelmeerinsel,Mittelmeerinsel,LOC,0.0,0.0,de,2
+Kreis,Kreis,LOC,0.0,0.0,de,2
+Braunschweig,Braunschweig,LOC,-0.35,0.0,de,2
+Bundesrepublik,Bundesrepublik,LOC,0.0,0.0,de,2
+Extremwetter,Extremwetter,LOC,-0.7,0.0,de,2
 Waldbrand im Taunus,Waldbrand im Taunus,LOC,-0.5,0.0,de,2
-Westfalen,Westfalen,LOC,0.35,0.0,de,2
-A45,A45,LOC,0.35,0.0,de,2
-Amazonasregenwald,Amazonasregenwald,LOC,0.0,0.0,de,2
-Niedernhausen,Niedernhausen,LOC,-0.5,0.0,de,2
-Mühlviertel,Mühlviertel,LOC,-0.5,0.0,de,2
-Klagenfurt,Klagenfurt,LOC,0.0,0.0,de,2
-Kurtalstraße,Kurtalstraße,LOC,0.0,0.0,de,2
-Västervik,Västervik,LOC,-0.35,0.0,de,2
-Samstag Waldbrände,Samstag Waldbrände,LOC,-0.35,0.0,de,2
-Palisades-Feuer,Palisades-Feuer,LOC,0.0,0.0,de,2
-Eaton-Feuer,Eaton-Feuer,LOC,0.0,0.0,de,2
-niederbrennt,niederbrennt,LOC,0.0,0.0,de,2
-Patagoniens,Patagoniens,LOC,0.0,0.0,de,2
-Wahlbrände,Wahlbrände,LOC,0.0,0.0,de,2
-Valencia,Valencia,LOC,-0.07500000000000001,0.5,de,2
-Coquihalla-Autobahn,Coquihalla-Autobahn,LOC,0.0,0.0,de,2
-Vegetationsbränden,Vegetationsbränden,LOC,-0.5,0.0,de,2
-San Franciscos,San Franciscos,LOC,0.0,0.0,de,2
-Oberspreewald,Oberspreewald,LOC,0.0,0.0,de,2
-Elbe-Elster,Elbe-Elster,LOC,0.0,0.0,de,2
-Südrussland,Südrussland,LOC,-0.5,0.0,de,2
-Krisenlagen,Krisenlagen,LOC,0.0,0.0,de,2
-Verängstigte,Verängstigte,LOC,-0.95,0.0,de,2
-Google-Konzern,Google-Konzern,LOC,0.0,0.0,de,2
-B…,B…,LOC,0.35,0.0,de,2
-Bodensee,Bodensee,LOC,0.3333333333333333,0.0,de,2
-Kiel,Kiel,LOC,0.35,0.0,de,2
-Düsseldorf,Düsseldorf,LOC,0.0,0.5,de,2
-"Feuer-""Tsunami","Feuer-""Tsunami",LOC,0.0,0.0,de,2
-Provinz Nord Gyeongsang,Provinz Nord Gyeongsang,LOC,0.0,0.0,de,2
-Uiseong,Uiseong,LOC,0.35,0.0,de,2
-Waldbr…,Waldbr…,LOC,0.0,0.0,de,2
-Klimaschaden,Klimaschaden,LOC,0.7,0.0,de,2
-Bludenz,Bludenz,LOC,0.7,0.0,de,2
-Thüringer,Thüringer,LOC,-0.35,0.0,de,2
-Grunewald,Grunewald,LOC,-0.5,0.0,de,2
-K…,K…,LOC,0.0,0.5,de,2
-Imst,Imst,LOC,-0.35,0.0,de,2
-Kataloniens,Kataloniens,LOC,-0.35,0.0,de,2
-Feuerwetter,Feuerwetter,LOC,0.0,0.0,de,2
-Waldbrand-Inferno,Waldbrand-Inferno,LOC,-0.925,0.0,de,2
-Österreich</li><li,Österreich</li><li,LOC,1.0,0.0,de,2
-Asien,Asien,LOC,0.0,1.0,de,2
-Atlantikküste,Atlantikküste,LOC,-1.0,0.0,de,2
-Feuern,Feuern,LOC,-0.7749999999999999,0.0,de,2
-Brockenbahn,Brockenbahn,LOC,0.0,0.0,de,2
-Seia,Seia,LOC,0.0,0.0,de,2
-Tulln,Tulln,LOC,0.35,0.0,de,2
-Madrileños,Madrileños,LOC,0.0,0.0,de,2
-Lungau,Lungau,LOC,0.0,0.5,de,2
-Megakonzert,Megakonzert,LOC,0.7,0.0,de,2
-Sant Antoni,Sant Antoni,LOC,0.0,0.0,de,2
-Tropical Islands,Tropical Islands,LOC,0.0,0.0,de,2
-Osthessen,Osthessen,LOC,-0.35,0.0,de,2
-Harzer,Harzer,LOC,0.0,0.0,de,2
-Klein-Auheim,Klein-Auheim,LOC,0.35,0.0,de,2
-Sant Rafel,Sant Rafel,LOC,0.0,0.0,de,2
-Platja d’en Bossa,Platja d’en Bossa,LOC,0.5,0.0,de,2
-Waldbände bei Jerusalem,Waldbände bei Jerusalem,LOC,0.0,0.0,de,2
-B199.,B199.,LOC,0.0,0.0,de,2
-Walldorf,Walldorf,LOC,0.7,0.0,de,2
-Iberischer Halbinsel,Iberischer Halbinsel,LOC,0.0,0.0,de,2
-US-Bundesstaats Kalifornien,US-Bundesstaats Kalifornien,LOC,0.35,0.16666666666666666,de,2
-Metropolregion Los Angeles,Metropolregion Los Angeles,LOC,0.0,0.0,de,2
-Pazifik,Pazifik,LOC,0.35,0.0,de,2
-Staat New York,Staat New York,LOC,0.0,0.0,de,2
-Ferienortes Tarifa,Ferienortes Tarifa,LOC,0.7,0.0,de,2
-Waldbrand am Großen Feldberg +++ Rollator-Fahrer,Waldbrand am Großen Feldberg +++ Rollator-Fahrer,LOC,-0.5833333333333333,0.41666666666666663,de,2
-Waldbrand-Alarm in Südbrandenburg,Waldbrand-Alarm in Südbrandenburg,LOC,-0.35,0.0,de,2
-Evakuierungsbefehle,Evakuierungsbefehle,LOC,0.0,0.0,de,2
-New York City,New York City,LOC,0.0,1.0,de,2
-Franken,Franken,LOC,-0.35,0.0,de,2
-Sant Joan,Sant Joan,LOC,0.0,0.0,de,2
-Mühlkreis,Mühlkreis,LOC,0.0,0.0,de,2
-Brandschutzschneisen,Brandschutzschneisen,LOC,0.0,0.0,de,2
-Waldbrandsensoren,Waldbrandsensoren,LOC,0.0,0.0,de,2
-Preschen,Preschen,LOC,0.0,0.0,de,2
+nan Bei,nan Bei,LOC,0.0,0.0,de,2
+Bad Liebenwerda,Bad Liebenwerda,LOC,0.0,0.0,de,2
+Saalfeld-Rudolstadt,Saalfeld-Rudolstadt,LOC,0.35,0.0,de,2
+Warnapp Nina,Warnapp Nina,LOC,0.0,0.0,de,2
+Kretas,Kretas,LOC,0.575,0.0,de,2
+Thüringe,Thüringe,LOC,0.0,0.0,de,2
+Thüringer Waldbrand,Thüringer Waldbrand,LOC,0.7,0.0,de,2
+Landkreise,Landkreise,LOC,0.0,0.0,de,2
+Nordbayerns,Nordbayerns,LOC,0.7,0.0,de,2
+Leichtsinnigen,Leichtsinnigen,LOC,-1.0,0.0,de,2
+Jacobsthal,Jacobsthal,LOC,-0.5,0.0,de,2
+Waldbrandschutzbeauftragte,Waldbrandschutzbeauftragte,LOC,0.0,0.0,de,2
+Gemeinde Zeithain,Gemeinde Zeithain,LOC,0.0,0.0,de,2
+österreischischen Grenze,österreischischen Grenze,LOC,0.0,0.0,de,2
+Krimml,Krimml,LOC,-0.7,0.0,de,2
+Zerbster,Zerbster,LOC,0.0,0.0,de,2
+Jütrichau,Jütrichau,LOC,0.0,0.0,de,2
+Armee-Areal,Armee-Areal,LOC,-0.7,0.0,de,2
+Landkreis Erlangen-Höchstadt,Landkreis Erlangen-Höchstadt,LOC,0.0,0.0,de,2
+Großbritannien,Großbritannien,LOC,-0.35,0.5,de,2
+Corona,Corona,LOC,0.0,0.0,de,2
+Wiens,Wiens,LOC,0.0,0.0,de,2
 Carcassonne,Carcassonne,LOC,0.0,0.5,de,2
 Retailleu,Retailleu,LOC,0.0,1.0,de,2
 Verbrannt,Verbrannt,LOC,0.0,0.0,de,2
 Los Angeles County,Los Angeles County,LOC,0.0,0.0,de,2
-Zehntausende,Zehntausende,LOC,-0.35,0.0,de,2
-Alpenraum,Alpenraum,LOC,0.0,0.0,de,2
-Feuerwehrschläuchen,Feuerwehrschläuchen,LOC,-0.15000000000000002,0.0,de,2
-Alpenrand,Alpenrand,LOC,0.0,0.0,de,2
+Evakuierungsbefehle,Evakuierungsbefehle,LOC,0.0,0.0,de,2
+Platja d’en Bossa,Platja d’en Bossa,LOC,0.5,0.0,de,2
+US-Bundesstaats Kalifornien,US-Bundesstaats Kalifornien,LOC,0.35,0.16666666666666666,de,2
+Leipzig,Leipzig,LOC,0.0,0.0,de,2
+Schmidt,Schmidt,LOC,0.0,0.0,de,2
+Großbrand bei Medebach,Großbrand bei Medebach,LOC,0.0,0.0,de,2
+Heißer Sonntag,Heißer Sonntag,LOC,0.0,0.0,de,2
+Kreis Ostprignitz-Ruppin,Kreis Ostprignitz-Ruppin,LOC,0.0,0.0,de,2
+Ferienortes Tarifa,Ferienortes Tarifa,LOC,0.7,0.0,de,2
+Madrileños,Madrileños,LOC,0.0,0.0,de,2
+Adria-Küste,Adria-Küste,LOC,0.0,0.0,de,2
+Hitzewarnungen,Hitzewarnungen,LOC,-0.35,0.0,de,2
+Dorf Orellan,Dorf Orellan,LOC,1.0,0.0,de,2
+griechischen Inseln,griechischen Inseln,LOC,-0.35,0.0,de,2
+Bezirk Santa Barbara,Bezirk Santa Barbara,LOC,0.0,0.0,de,2
+Gifford Fire,Gifford Fire,LOC,0.0,0.0,de,2
+Istanbul,Istanbul,LOC,0.16666666666666666,0.5,de,2
+Wassernotstand,Wassernotstand,LOC,-0.425,0.5,de,2
+Landkreis,Landkreis,LOC,-0.35,0.0,de,2
+Bremsfunken,Bremsfunken,LOC,-0.425,0.5,de,2
+Auswärtiges Amt,Auswärtiges Amt,LOC,-0.5416666666666666,0.0,de,2
+etablierteste,etablierteste,LOC,0.0,0.0,de,2
+Formentera,Formentera,LOC,0.0,0.0,de,2
+Schüssen,Schüssen,LOC,-0.5,0.0,de,2
+Abtei Fontfroide,Abtei Fontfroide,LOC,0.35,0.0,de,2
+S,S,LOC,0.0,0.16666666666666666,de,2
+Peloponnes,Peloponnes,LOC,0.0,0.0,de,2
+französischen Mittelmeerküste,französischen Mittelmeerküste,LOC,-0.35,0.0,de,2
+Schweden,Schweden,LOC,-0.35,0.0,de,2
+Bezirk Leoben,Bezirk Leoben,LOC,0.0,0.0,de,2
+Zivilschutzes,Zivilschutzes,LOC,-0.5249999999999999,0.25,de,2
+Lunden,Lunden,LOC,-0.35,0.0,de,2
+Unterholz,Unterholz,LOC,-0.35,0.0,de,2
+Autobahn A9,Autobahn A9,LOC,0.0,0.0,de,2
+Marusici,Marusici,LOC,0.0,0.5,de,2
+Metropolregion Los Angeles,Metropolregion Los Angeles,LOC,0.0,0.0,de,2
+Provinz Nord Gyeongsang,Provinz Nord Gyeongsang,LOC,0.0,0.0,de,2
+Inselreiches,Inselreiches,LOC,0.0,0.0,de,2
+Uiseong,Uiseong,LOC,0.35,0.0,de,2
+A3,A3,LOC,0.016666666666666663,0.16666666666666666,de,2
+Waldbrand am Großen Feldberg +++ Rollator-Fahrer,Waldbrand am Großen Feldberg +++ Rollator-Fahrer,LOC,-0.5833333333333333,0.41666666666666663,de,2
+Pot,Pot,LOC,0.0,0.0,de,2
+Teltow-Fläming,Teltow-Fläming,LOC,-0.35,0.5,de,2
+Stadt Wernigerode,Stadt Wernigerode,LOC,0.5,0.0,de,2
+US-Bundestaat,US-Bundestaat,LOC,0.35,0.16666666666666666,de,2
+der Schweiz,der Schweiz,LOC,0.0,0.0,de,2
+Pazifik,Pazifik,LOC,0.35,0.0,de,2
+Ladis,Ladis,LOC,0.35,0.0,de,2
+Feuern,Feuern,LOC,-0.7749999999999999,0.0,de,2
+Klimaschaden,Klimaschaden,LOC,0.7,0.0,de,2
+Bludenz,Bludenz,LOC,0.7,0.0,de,2
+Grunewald,Grunewald,LOC,-0.5,0.0,de,2
+K…,K…,LOC,0.0,0.5,de,2
+Chargers-Coach,Chargers-Coach,LOC,0.0,0.0,de,2
 US-Präsident,US-Präsident,LOC,0.5,0.0,de,2
+Feuerwehrschläuchen,Feuerwehrschläuchen,LOC,-0.15000000000000002,0.0,de,2
+Lungau,Lungau,LOC,0.0,0.5,de,2
+Waldbrand-Alarm in Südbrandenburg,Waldbrand-Alarm in Südbrandenburg,LOC,-0.35,0.0,de,2
+Mühlkreis,Mühlkreis,LOC,0.0,0.0,de,2
+niederbrennt,niederbrennt,LOC,0.0,0.0,de,2
+Elbe-Elster,Elbe-Elster,LOC,0.0,0.0,de,2
+Oberspreewald,Oberspreewald,LOC,0.0,0.0,de,2
+Waldbrandeinsatz,Waldbrandeinsatz,LOC,0.0,0.0,de,2
+Alpenraum,Alpenraum,LOC,0.0,0.0,de,2
 Brandherde,Brandherde,LOC,-0.5,0.0,de,2
 Villa Aurora,Villa Aurora,LOC,-1.0,0.0,de,2
-Pot,Pot,LOC,0.0,0.0,de,2
-A3,A3,LOC,0.016666666666666663,0.16666666666666666,de,2
-Teltow-Fläming,Teltow-Fläming,LOC,-0.35,0.5,de,2
-Friedrichsthal,Friedrichsthal,LOC,-0.35,0.0,de,2
-der Schweiz,der Schweiz,LOC,0.0,0.0,de,2
-Los Angeles-,Los Angeles-,LOC,0.0,0.0,de,2
-Landkreis Barnim,Landkreis Barnim,LOC,0.7,0.0,de,2
-Schmidt,Schmidt,LOC,0.0,0.0,de,2
-Schönower,Schönower,LOC,-1.0,0.0,de,2
-Großbrand bei Medebach,Großbrand bei Medebach,LOC,0.0,0.0,de,2
-Bränden,Bränden,LOC,0.0,0.0,de,2
-Landeck,Landeck,LOC,-0.15000000000000002,0.0,de,2
-Nauders,Nauders,LOC,-0.15000000000000002,0.0,de,2
-Kastelbell,Kastelbell,LOC,0.35,0.0,de,2
-Los Angel,Los Angel,LOC,-0.5,0.0,de,2
-Kaliforniern,Kaliforniern,LOC,0.0,0.0,de,2
-Afrika,Afrika,LOC,0.0,1.0,de,2
-Feuer-Katastrophe,Feuer-Katastrophe,LOC,0.0,0.0,de,2
-Flugplatz Mainz-Finthen,Flugplatz Mainz-Finthen,LOC,1.0,0.0,de,2
-Saarpfalz-Kreis,Saarpfalz-Kreis,LOC,0.7,0.0,de,2
-Tennengau,Tennengau,LOC,0.0,0.0,de,2
 Pinzgau,Pinzgau,LOC,0.0,0.5,de,2
-Grenzübergreifend,Grenzübergreifend,LOC,0.7,0.0,de,2
-Wetter,Wetter,LOC,0.0,0.0,de,2
-Schwarzmeerregion Krasnodar,Schwarzmeerregion Krasnodar,LOC,0.0,1.0,de,2
-US-Bundestaat,US-Bundestaat,LOC,0.35,0.16666666666666666,de,2
-Stadt Wernigerode,Stadt Wernigerode,LOC,0.5,0.0,de,2
-Chargers-Coach,Chargers-Coach,LOC,0.0,0.0,de,2
-Leipzig,Leipzig,LOC,0.0,0.0,de,2
-Bear-Gulch-Feuer,Bear-Gulch-Feuer,LOC,0.0,0.0,de,1
-Katastrophengebiete,Katastrophengebiete,LOC,0.0,0.0,de,1
-Spezialflugzeuge,Spezialflugzeuge,LOC,0.0,0.0,de,1
-Rebuilding,Rebuilding,LOC,0.0,0.0,de,1
-Les Pennes-Mirabeau,Les Pennes-Mirabeau,LOC,0.0,0.0,de,1
-Hervás,Hervás,LOC,0.0,1.0,de,1
-Landesforst,Landesforst,LOC,-1.0,0.0,de,1
-Lwiw,Lwiw,LOC,0.0,0.0,de,1
-Fr…,Fr…,LOC,0.0,0.0,de,1
-US-Bundesstaat Washington,US-Bundesstaat Washington,LOC,0.0,0.0,de,1
-Waldbrand bed…,Waldbrand bed…,LOC,0.0,0.0,de,1
-Hafe…,Hafe…,LOC,0.0,0.0,de,1
-Kreis Sonneberg,Kreis Sonneberg,LOC,0.0,0.0,de,1
-Flughafen von Frankreich,Flughafen von Frankreich,LOC,0.0,0.0,de,1
-Waldbrandsituation,Waldbrandsituation,LOC,0.0,0.0,de,1
-Sonneberger,Sonneberger,LOC,0.0,0.0,de,1
-Di…,Di…,LOC,0.0,0.0,de,1
-Puertollano,Puertollano,LOC,0.0,0.0,de,1
-Edmundsklamm,Edmundsklamm,LOC,0.0,0.0,de,1
-Land…,Land…,LOC,0.0,0.0,de,1
-Bezirk Murau,Bezirk Murau,LOC,0.0,0.0,de,1
-Krakaudorf,Krakaudorf,LOC,0.0,0.0,de,1
-Marseilles,Marseilles,LOC,0.0,0.0,de,1
-Murau,Murau,LOC,0.7,0.0,de,1
-Corredera-Platz,Corredera-Platz,LOC,0.0,0.0,de,1
-La Baña,La Baña,LOC,0.0,0.0,de,1
-Zeithain u…,Zeithain u…,LOC,0.0,0.3333333333333333,de,1
-Putins Palast,Putins Palast,LOC,0.0,0.0,de,1
-Großbrand auf der,Großbrand auf der,LOC,0.0,0.0,de,1
-Côte,Côte,LOC,0.7,0.0,de,1
-Beliebte Urlaubsregionen,Beliebte Urlaubsregionen,LOC,0.85,0.0,de,1
-Flächenbrandes,Flächenbrandes,LOC,0.0,0.0,de,1
-Naturerlebniszentrum,Naturerlebniszentrum,LOC,0.0,0.0,de,1
-Deutschlands Wäldern,Deutschlands Wäldern,LOC,0.0,0.0,de,1
-Feuer im Wald,Feuer im Wald,LOC,0.0,0.0,de,1
-vorausgeschick,vorausgeschick,LOC,0.0,0.0,de,1
-Fließ,Fließ,LOC,-1.0,0.0,de,1
-Landratsamt Meißen n…,Landratsamt Meißen n…,LOC,0.0,0.0,de,1
-Fußwegs,Fußwegs,LOC,0.7,0.0,de,1
-Warnungen,Warnungen,LOC,0.0,0.0,de,1
-Grippeinfektionszahlen,Grippeinfektionszahlen,LOC,0.7,0.0,de,1
-Krimmler Wasserfällen,Krimmler Wasserfällen,LOC,-1.0,0.0,de,1
-Verbandsgemeinde Lieb… [+534 chars,Verbandsgemeinde Lieb… [+534 chars,LOC,0.0,0.0,de,1
-Verbandsgemeinde Lieb…,Verbandsgemeinde Lieb…,LOC,0.0,0.0,de,1
-Maschin,Maschin,LOC,0.0,0.0,de,1
-Kooperati,Kooperati,LOC,0.0,0.0,de,1
-Feuerdreieck,Feuerdreieck,LOC,0.0,0.0,de,1
-Meißen mi…,Meißen mi…,LOC,0.0,0.0,de,1
-AppleTV+,AppleTV+,LOC,0.0,0.0,de,1
-Raimu,Raimu,LOC,0.0,0.0,de,1
-Waldbr… [+1327 chars,Waldbr… [+1327 chars,LOC,0.0,0.0,de,1
-Paradise,Paradise,LOC,0.0,0.0,de,1
-Aufgestanden,Aufgestanden,LOC,0.0,0.0,de,1
-Rai…,Rai…,LOC,0.0,0.0,de,1
-Landeszentrum Wald …,Landeszentrum Wald …,LOC,0.0,0.0,de,1
-nu…,nu…,LOC,0.0,0.0,de,1
-Bundespolizei,Bundespolizei,LOC,0.0,0.0,de,1
-Saalfelder Höh,Saalfelder Höh,LOC,0.0,0.0,de,1
-Brandgebiet,Brandgebiet,LOC,-0.7,0.0,de,1
-Brandgebietes,Brandgebietes,LOC,0.0,0.0,de,1
-Harzer Löschflugzeug,Harzer Löschflugzeug,LOC,0.0,0.0,de,1
-Onlinenetzwerken,Onlinenetzwerken,LOC,0.0,0.0,de,1
-Sopron,Sopron,LOC,0.0,0.0,de,1
-Soproner Gebirge,Soproner Gebirge,LOC,0.0,0.0,de,1
-Flughafen Marseille,Flughafen Marseille,LOC,0.0,0.0,de,1
-Oberl…,Oberl…,LOC,-0.7,0.0,de,1
-Heckenbrand,Heckenbrand,LOC,0.0,0.0,de,1
-Landratsamts Saalfeld-Rudolstadt,Landratsamts Saalfeld-Rudolstadt,LOC,0.0,0.0,de,1
-Leon,Leon,LOC,0.0,0.0,de,1
-Großer Waldbrand,Großer Waldbrand,LOC,0.7,0.0,de,1
-Ad-hoc-Programm,Ad-hoc-Programm,LOC,0.0,1.0,de,1
-Landratsamts Saalfeld,Landratsamts Saalfeld,LOC,0.0,0.0,de,1
-Lag…,Lag…,LOC,0.0,0.0,de,1
-nan Auf der,nan Auf der,LOC,0.0,0.0,de,1
-Zentrum Portugals,Zentrum Portugals,LOC,0.0,0.0,de,1
-Tagesspiegel Checkpoint,Tagesspiegel Checkpoint,LOC,0.0,0.0,de,1
-Jahr sch,Jahr sch,LOC,0.0,0.0,de,1
-Schwedin,Schwedin,LOC,-1.0,0.0,de,1
-Erdbeben,Erdbeben,LOC,-1.0,0.0,de,1
-McKinl…,McKinl…,LOC,0.0,0.0,de,1
-McKinley…,McKinley…,LOC,0.0,0.0,de,1
-Mc…,Mc…,LOC,0.0,0.0,de,1
-Geraer,Geraer,LOC,0.0,0.0,de,1
-ver…,ver…,LOC,0.0,0.5,de,1
-Neujahrsnacht,Neujahrsnacht,LOC,0.0,0.0,de,1
-F…,F…,LOC,0.7,0.0,de,1
-Drau&szlig;en,Drau&szlig;en,LOC,-1.0,0.0,de,1
-Landratsamtes Saalfeld-Rudols,Landratsamtes Saalfeld-Rudols,LOC,0.0,0.0,de,1
-Torgau,Torgau,LOC,0.7,0.0,de,1
-Hausbrand,Hausbrand,LOC,0.7,0.0,de,1
-US-Regierung,US-Regierung,LOC,0.0,0.0,de,1
-Waldbrandschutzwegen,Waldbrandschutzwegen,LOC,-0.7,0.0,de,1
-EU-Erdbeobachtungsprogramm Copernicus,EU-Erdbeobachtungsprogramm Copernicus,LOC,0.0,0.0,de,1
-Copernicus-Angaben,Copernicus-Angaben,LOC,0.0,0.0,de,1
-Landratsamtes Saalf,Landratsamtes Saalf,LOC,0.0,0.0,de,1
-Gesundheitsministerium mi…,Gesundheitsministerium mi…,LOC,0.0,0.0,de,1
-Rekordwaldbrände,Rekordwaldbrände,LOC,0.0,0.0,de,1
-Sonderdienstes Wald-,Sonderdienstes Wald-,LOC,0.0,0.0,de,1
-Ferienortes Tarifa fü…,Ferienortes Tarifa fü…,LOC,0.7,0.0,de,1
-Idstein,Idstein,LOC,0.0,0.0,de,1
-Haus seiner Familie +++ Fußgängerin,Haus seiner Familie +++ Fußgängerin,LOC,0.0,0.0,de,1
-Nidderau,Nidderau,LOC,0.0,0.0,de,1
-niedergebrann…,niedergebrann…,LOC,-0.7,0.0,de,1
-Trancoso,Trancoso,LOC,0.0,0.0,de,1
-Wetterdienst Météo France,Wetterdienst Météo France,LOC,0.7,0.0,de,1
-Wetterdienst Hitzewarnungen,Wetterdienst Hitzewarnungen,LOC,0.0,0.0,de,1
-Irak,Irak,LOC,0.0,0.0,de,1
-Paradies am Abgrund,Paradies am Abgrund,LOC,0.0,0.0,de,1
-Vulkan Vesuv,Vulkan Vesuv,LOC,-1.0,0.0,de,1
-Heide,Heide,LOC,1.0,0.0,de,1
-Arouca,Arouca,LOC,0.2333333333333333,0.0,de,1
-Vesuv-Nationalpark,Vesuv-Nationalpark,LOC,0.0,0.0,de,1
-Neapel,Neapel,LOC,-0.7,0.0,de,1
-Behördenanga,Behördenanga,LOC,0.2333333333333333,0.0,de,1
-Vulkans,Vulkans,LOC,-0.7,0.0,de,1
-Regionalbehörden,Regionalbehörden,LOC,0.0,0.0,de,1
-apokalyptisc,apokalyptisc,LOC,-1.0,0.0,de,1
-Toskana,Toskana,LOC,0.0,0.0,de,1
-Stadt Eskişehir,Stadt Eskişehir,LOC,0.0,0.0,de,1
-Mon…,Mon…,LOC,0.0,0.0,de,1
-Feuerwehr-Einsatz,Feuerwehr-Einsatz,LOC,0.0,0.0,de,1
-Sant Josep,Sant Josep,LOC,0.0,0.0,de,1
-Marokkos,Marokkos,LOC,0.0,0.0,de,1
-Sizilien,Sizilien,LOC,0.0,1.0,de,1
-Lesbos,Lesbos,LOC,0.0,1.0,de,1
-Waldband,Waldband,LOC,0.0,0.0,de,1
-Voundeni,Voundeni,LOC,0.7,0.0,de,1
-Butzbach,Butzbach,LOC,-1.0,0.0,de,1
-Zakynthos,Zakynthos,LOC,0.7,0.0,de,1
-zweitgrö…,zweitgrö…,LOC,0.0,0.0,de,1
-Souni,Souni,LOC,0.0,0.0,de,1
-Touristeninseln,Touristeninseln,LOC,0.7,0.0,de,1
-Ghanaerin,Ghanaerin,LOC,0.0,0.0,de,1
-Vassilis Vathrakoyannis,Vassilis Vathrakoyannis,LOC,-0.23333333333333328,0.0,de,1
-Mainfranken,Mainfranken,LOC,0.0,0.0,de,1
-Wanderwege,Wanderwege,LOC,0.0,0.0,de,1
-Lissabon,Lissabon,LOC,0.3333333333333333,0.0,de,1
-Halb-Frankreich,Halb-Frankreich,LOC,0.0,0.0,de,1
-Zentrums d…,Zentrums d…,LOC,0.0,0.0,de,1
-Sorgen,Sorgen,LOC,0.7,0.0,de,1
-Schuldigen,Schuldigen,LOC,0.0,0.0,de,1
-Sant Jordi…,Sant Jordi…,LOC,0.5,0.0,de,1
-Can Xomeu,Can Xomeu,LOC,0.5,0.0,de,1
-Caminomorisco,Caminomorisco,LOC,0.7,0.0,de,1
-Riesiger Waldbrand,Riesiger Waldbrand,LOC,0.0,0.0,de,1
-un…,un…,LOC,0.0,0.0,de,1
-Départements,Départements,LOC,0.0,0.0,de,1
-Löschrucksäcken,Löschrucksäcken,LOC,0.0,0.0,de,1
-Andalusien,Andalusien,LOC,0.7,0.0,de,1
-Neufundland,Neufundland,LOC,-0.7,0.0,de,1
-D…,D…,LOC,0.0,0.0,de,1
-Urlaubsparadiese,Urlaubsparadiese,LOC,0.0,0.0,de,1
-Flammemeer,Flammemeer,LOC,0.0,0.0,de,1
-Los Padres Natio,Los Padres Natio,LOC,0.0,0.0,de,1
-Südspaniens,Südspaniens,LOC,0.0,0.0,de,1
-Verkohlte Landschaft,Verkohlte Landschaft,LOC,0.0,0.0,de,1
-Irland,Irland,LOC,0.0,0.0,de,1
-Waldumbau,Waldumbau,LOC,0.0,0.0,de,1
-Rathen,Rathen,LOC,0.0,0.0,de,1
-Großbrand im Wald,Großbrand im Wald,LOC,0.0,0.0,de,1
-Russland,Russland,LOC,0.0,0.0,de,1
-Feuerwehrleuten,Feuerwehrleuten,LOC,0.3333333333333333,0.0,de,1
-europäischen Ländern,europäischen Ländern,LOC,0.0,0.0,de,1
-Gazastreifen,Gazastreifen,LOC,0.0,0.0,de,1
-Zeit wi…,Zeit wi…,LOC,0.0,0.0,de,1
-Canyon Fire h…,Canyon Fire h…,LOC,0.0,0.0,de,1
-Odenwaldkreis,Odenwaldkreis,LOC,0.0,0.0,de,1
-Bildschirmen,Bildschirmen,LOC,0.0,0.0,de,1
-Odenwaldkreises,Odenwaldkreises,LOC,0.0,0.0,de,1
-Keratea,Keratea,LOC,0.0,0.0,de,1
-Großer Brand,Großer Brand,LOC,0.7,0.0,de,1
-E…,E…,LOC,0.0,0.0,de,1
-Shisha-Raucher,Shisha-Raucher,LOC,0.0,0.0,de,1
-Shutterstock.com,Shutterstock.com,LOC,0.0,0.0,de,1
-Haus gefu…,Haus gefu…,LOC,-0.4333333333333333,0.0,de,1
-Waldbrand-Ausnahmejahr,Waldbrand-Ausnahmejahr,LOC,1.0,0.0,de,1
-Kaliforniens Highway 1,Kaliforniens Highway 1,LOC,0.85,0.0,de,1
-Dresdner,Dresdner,LOC,0.0,0.0,de,1
-Atem häl…,Atem häl…,LOC,0.0,0.0,de,1
-Nideggen-Schmidt,Nideggen-Schmidt,LOC,0.0,0.0,de,1
-Landkreis Aschaffenburg,Landkreis Aschaffenburg,LOC,0.0,0.0,de,1
-Grand Canyon Nationalpark,Grand Canyon Nationalpark,LOC,0.0,0.0,de,1
-Phoenix,Phoenix,LOC,0.0,0.0,de,1
+Tropical Islands,Tropical Islands,LOC,0.0,0.0,de,2
+Großraum Los Angeles Panik,Großraum Los Angeles Panik,LOC,-0.175,0.25,de,2
+Kastelbell,Kastelbell,LOC,0.35,0.0,de,2
+Waldbände bei Jerusalem,Waldbände bei Jerusalem,LOC,0.0,0.0,de,2
+B199.,B199.,LOC,0.0,0.0,de,2
+Waldbrandsensoren,Waldbrandsensoren,LOC,0.0,0.0,de,2
+Zehntausende,Zehntausende,LOC,-0.35,0.0,de,2
+Bränden,Bränden,LOC,0.0,0.0,de,2
+Kiel,Kiel,LOC,0.35,0.0,de,2
+Verängstigte,Verängstigte,LOC,-0.95,0.0,de,2
+B…,B…,LOC,0.35,0.0,de,2
+Overath,Overath,LOC,0.0,0.0,de,2
+Mühlviertel,Mühlviertel,LOC,-0.5,0.0,de,2
+Landkreis Ostprignitz-Ruppin,Landkreis Ostprignitz-Ruppin,LOC,0.0,0.0,de,2
+Kreisbrandmeisters,Kreisbrandmeisters,LOC,0.0,0.0,de,2
+Alpen,Alpen,LOC,0.0,0.0,de,2
+Burgberg-Seilbahn,Burgberg-Seilbahn,LOC,-0.7,0.0,de,2
+Bad Harzburg -,Bad Harzburg -,LOC,0.0,0.0,de,2
+Brockenbahn,Brockenbahn,LOC,0.0,0.0,de,2
+Waldbrand-Inferno,Waldbrand-Inferno,LOC,-0.925,0.0,de,2
+Millstatt,Millstatt,LOC,0.0,0.0,de,2
+Feuerwetter,Feuerwetter,LOC,0.0,0.0,de,2
+Westfalen,Westfalen,LOC,0.35,0.0,de,2
+Oberbergischen,Oberbergischen,LOC,-0.35,0.0,de,2
+Waldbr…,Waldbr…,LOC,0.0,0.0,de,2
+Klagenfurt,Klagenfurt,LOC,0.0,0.0,de,2
+Zillhöhe,Zillhöhe,LOC,0.0,0.0,de,2
+Sportanlage Jahnstraße,Sportanlage Jahnstraße,LOC,0.0,0.0,de,2
+Vorarlberg,Vorarlberg,LOC,0.0,0.0,de,2
+Offenbach,Offenbach,LOC,0.25,0.25,de,2
+Kömmel,Kömmel,LOC,0.0,0.0,de,2
+Patagoniens,Patagoniens,LOC,0.0,0.0,de,2
+Krisenlagen,Krisenlagen,LOC,0.0,0.0,de,2
+Kurtalstraße,Kurtalstraße,LOC,0.0,0.0,de,2
+Saarpfalz-Kreis,Saarpfalz-Kreis,LOC,0.7,0.0,de,2
+Flammen,Flammen,LOC,0.0,0.0,de,2
+Tennengau,Tennengau,LOC,0.0,0.0,de,2
+Los Angel,Los Angel,LOC,-0.5,0.0,de,2
+Landkreis Südliche Weinstraße,Landkreis Südliche Weinstraße,LOC,-0.35,0.0,de,2
+Kaliforniern,Kaliforniern,LOC,0.0,0.0,de,2
+Bleiburg,Bleiburg,LOC,0.0,0.0,de,2
+Feuer-Katastrophe,Feuer-Katastrophe,LOC,0.0,0.0,de,2
+Eaton-Feuer,Eaton-Feuer,LOC,0.0,0.0,de,2
+Hollywoods,Hollywoods,LOC,0.0,0.16666666666666666,de,2
+Megakonzert,Megakonzert,LOC,0.7,0.0,de,2
+Samstag Waldbrände,Samstag Waldbrände,LOC,-0.35,0.0,de,2
+Palisades-Feuer,Palisades-Feuer,LOC,0.0,0.0,de,2
+Rhein,Rhein,LOC,-0.175,0.75,de,2
+Alpenrand,Alpenrand,LOC,0.0,0.0,de,2
+Ludwigsburg,Ludwigsburg,LOC,0.35,0.0,de,2
+Landkreis Dahme-Spreewald,Landkreis Dahme-Spreewald,LOC,0.0,0.0,de,2
+Main-Kinzig-Kreis,Main-Kinzig-Kreis,LOC,0.0,0.0,de,2
+Staat New York,Staat New York,LOC,0.0,0.0,de,2
+Brandschutzschneisen,Brandschutzschneisen,LOC,0.0,0.0,de,2
+Waldbrand im,Waldbrand im,LOC,-1.0,0.0,de,2
+Wien,Wien,LOC,0.0,0.0,de,2
+Sant Antoni,Sant Antoni,LOC,0.0,0.0,de,2
+Google-Konzern,Google-Konzern,LOC,0.0,0.0,de,2
+Münchener Rück,Münchener Rück,LOC,0.0,0.0,de,2
+Atlantikküste,Atlantikküste,LOC,-1.0,0.0,de,2
+Nationalpark,Nationalpark,LOC,1.0,0.0,de,2
+New York City,New York City,LOC,0.0,1.0,de,2
+Österreich</li><li,Österreich</li><li,LOC,1.0,0.0,de,2
+Bergen-Enkheim,Bergen-Enkheim,LOC,0.0,0.0,de,2
+Nieder-Eschbach,Nieder-Eschbach,LOC,0.0,0.0,de,2
+Nettetal,Nettetal,LOC,-0.05000000000000001,0.16666666666666666,de,2
+Preschen,Preschen,LOC,0.0,0.0,de,2
+Australiens Nationalpark,Australiens Nationalpark,LOC,0.0,0.0,de,2
+Sant Rafel,Sant Rafel,LOC,0.0,0.0,de,2
+Imst,Imst,LOC,-0.35,0.0,de,2
+Verbrannte Natur,Verbrannte Natur,LOC,0.0,0.0,de,2
+Autobahn 13,Autobahn 13,LOC,0.0,0.0,de,2
+Burg Berwartstein,Burg Berwartstein,LOC,0.35,0.0,de,2
+Franken,Franken,LOC,-0.35,0.0,de,2
+Mark,Mark,LOC,0.0,0.0,de,2
+Baruth,Baruth,LOC,0.0,0.0,de,2
 Grand Canyon Nationalparks,Grand Canyon Nationalparks,LOC,0.0,0.0,de,1
-Hanau-Wolfgang,Hanau-Wolfgang,LOC,0.0,0.0,de,1
-Black Canyon,Black Canyon,LOC,0.0,0.0,de,1
-Jakobswegs,Jakobswegs,LOC,-1.0,0.0,de,1
-Nationalpa…,Nationalpa…,LOC,0.0,0.0,de,1
-Canyon Lodge,Canyon Lodge,LOC,-0.5,0.5,de,1
-Hektar Land,Hektar Land,LOC,-0.35,0.5,de,1
-Fontjoncouse,Fontjoncouse,LOC,0.0,0.0,de,1
-Südwestfrankreich,Südwestfrankreich,LOC,1.0,0.0,de,1
-Picos de Europa,Picos de Europa,LOC,-1.0,0.0,de,1
-Grand-Canyon-Nationalpark,Grand-Canyon-Nationalpark,LOC,0.0,0.0,de,1
-Jakosbweg,Jakosbweg,LOC,1.0,0.0,de,1
-Krisen,Krisen,LOC,0.0,1.0,de,1
-Nationalpark-Service,Nationalpark-Service,LOC,-0.7,0.0,de,1
-Hilfegesuch,Hilfegesuch,LOC,-1.0,0.0,de,1
-Alten Fasanerie,Alten Fasanerie,LOC,0.7,0.0,de,1
-Bad Dürkheim,Bad Dürkheim,LOC,0.0,0.0,de,1
-Hitze-Perioden,Hitze-Perioden,LOC,0.0,0.0,de,1
-Können,Können,LOC,0.0,0.0,de,1
-Weltwetterorganisa,Weltwetterorganisa,LOC,0.0,0.0,de,1
-Waldbr,Waldbr,LOC,0.0,0.0,de,1
-Provinz Bragança,Provinz Bragança,LOC,0.0,0.0,de,1
-Weißwasser,Weißwasser,LOC,0.0,0.0,de,1
-Mirandela,Mirandela,LOC,0.0,0.0,de,1
-Big Sur,Big Sur,LOC,0.7,0.0,de,1
-Na,Na,LOC,1.0,0.0,de,1
-Auswärtige Amt,Auswärtige Amt,LOC,-0.7,0.0,de,1
-Feuerfront,Feuerfront,LOC,0.0,0.0,de,1
-Brand am,Brand am,LOC,0.0,0.0,de,1
-Mallorcas,Mallorcas,LOC,0.0,0.0,de,1
+Dresdner,Dresdner,LOC,0.0,0.0,de,1
+Sant Jordi…,Sant Jordi…,LOC,0.5,0.0,de,1
+Riesiger Waldbrand,Riesiger Waldbrand,LOC,0.0,0.0,de,1
+Phoenix,Phoenix,LOC,0.0,0.0,de,1
+Can Xomeu,Can Xomeu,LOC,0.5,0.0,de,1
+Potsdam Heut,Potsdam Heut,LOC,0.0,0.0,de,1
+Waldbrand-Risiko,Waldbrand-Risiko,LOC,0.0,0.0,de,1
+un…,un…,LOC,0.0,0.0,de,1
 Nordra,Nordra,LOC,0.0,0.0,de,1
+Los Padres Natio,Los Padres Natio,LOC,0.0,0.0,de,1
+US-Bundesstaat ,US-Bundesstaat ,LOC,0.0,0.0,de,1
 B… Kopiere,B… Kopiere,LOC,-0.85,0.0,de,1
-draußen,draußen,LOC,-0.7,0.0,de,1
-Gudiña,Gudiña,LOC,-1.0,0.0,de,1
-Syriens,Syriens,LOC,-0.7,0.0,de,1
-Leverkusen,Leverkusen,LOC,0.0,0.0,de,1
-Balearen,Balearen,LOC,0.175,0.0,de,1
-Latakia,Latakia,LOC,0.0,0.0,de,1
-Brandenburger Landesregierung,Brandenburger Landesregierung,LOC,1.0,0.0,de,1
-extre…,extre…,LOC,0.0,0.0,de,1
-Halbinsel Gelibolu,Halbinsel Gelibolu,LOC,0.0,0.0,de,1
-zweitg…,zweitg…,LOC,0.0,0.0,de,1
-Schuld,Schuld,LOC,0.0,0.0,de,1
-Rauch am Himmel,Rauch am Himmel,LOC,-1.0,0.0,de,1
-Leere Autobahn,Leere Autobahn,LOC,-1.0,0.0,de,1
-Bezirk Mödling,Bezirk Mödling,LOC,0.0,0.0,de,1
-Laxenburg,Laxenburg,LOC,0.0,0.0,de,1
-Waldbrand-Hotspots,Waldbrand-Hotspots,LOC,-0.7,0.0,de,1
-Hektar Pinienwald,Hektar Pinienwald,LOC,0.0,0.0,de,1
-Schlimmeres,Schlimmeres,LOC,0.0,0.0,de,1
-State of Wildfires-Bericht,State of Wildfires-Bericht,LOC,0.0,0.0,de,1
-Historisches Hotel,Historisches Hotel,LOC,-0.7,0.0,de,1
-Artikelzusammenfassung,Artikelzusammenfassung,LOC,-0.15000000000000002,0.0,de,1
-Waldbrand-Kosten,Waldbrand-Kosten,LOC,0.7,0.0,de,1
-Pilge,Pilge,LOC,0.0,0.0,de,1
-Larouco,Larouco,LOC,0.0,0.0,de,1
-Kiefernwäldern,Kiefernwäldern,LOC,0.0,0.0,de,1
-Kastilien-León,Kastilien-León,LOC,0.0,0.0,de,1
-Utah,Utah,LOC,0.0,0.0,de,1
-Sachsens Wäldern,Sachsens Wäldern,LOC,-0.85,0.0,de,1
-Kastilien und León,Kastilien und León,LOC,0.0,0.0,de,1
-Zivilschutz- und Katastrophenschutzbehörde,Zivilschutz- und Katastrophenschutzbehörde,LOC,0.0,0.0,de,1
-Rekord-Fläche,Rekord-Fläche,LOC,0.0,0.0,de,1
-Südamerika,Südamerika,LOC,0.7,0.0,de,1
-Unt…,Unt…,LOC,1.0,0.0,de,1
-W,W,LOC,-1.0,0.0,de,1
-Feuervortex,Feuervortex,LOC,0.0,0.0,de,1
-Teilsperre,Teilsperre,LOC,0.0,0.0,de,1
-Mi…,Mi…,LOC,0.0,0.0,de,1
-Schnee,Schnee,LOC,0.0,0.0,de,1
-Pisak,Pisak,LOC,0.0,0.0,de,1
-Waffenruhe,Waffenruhe,LOC,0.0,0.0,de,1
-Feuer-Alarm,Feuer-Alarm,LOC,0.0,0.0,de,1
-Ha…,Ha…,LOC,0.0,0.0,de,1
-Wiesbaden,Wiesbaden,LOC,0.0,0.0,de,1
-Mainz,Mainz,LOC,0.0,0.0,de,1
-Landeszentrums Wald,Landeszentrums Wald,LOC,0.0,0.0,de,1
-Breitenberg,Breitenberg,LOC,0.0,0.0,de,1
-Hohenems,Hohenems,LOC,0.0,0.0,de,1
-Stadt Sancheong,Stadt Sancheong,LOC,0.0,0.0,de,1
-Arnsberg/,Arnsberg/,LOC,0.0,0.0,de,1
-Arns…,Arns…,LOC,0.0,0.0,de,1
-Hahoe,Hahoe,LOC,-0.85,0.0,de,1
-Sü… Kopiere,Sü… Kopiere,LOC,-0.85,0.0,de,1
-Ostasiens,Ostasiens,LOC,-0.15000000000000002,0.0,de,1
-Verheerend,Verheerend,LOC,-1.0,0.0,de,1
-FOCUS-online-Redakteur,FOCUS-online-Redakteur,LOC,-0.15000000000000002,0.0,de,1
-Nachbarschaftshilfe,Nachbarschaftshilfe,LOC,0.0,0.0,de,1
-Tempel,Tempel,LOC,0.0,0.0,de,1
-Katastrophenschu,Katastrophenschu,LOC,-1.0,0.0,de,1
-Andong,Andong,LOC,0.0,0.0,de,1
-Eberswalde,Eberswalde,LOC,0.0,0.0,de,1
-Osterzündler,Osterzündler,LOC,0.0,0.0,de,1
-Ex-Feuerwehrmann,Ex-Feuerwehrmann,LOC,0.0,0.0,de,1
-Gounsa-Tempel,Gounsa-Tempel,LOC,0.0,0.0,de,1
-Bezirk Uiseong,Bezirk Uiseong,LOC,0.0,0.0,de,1
-Einsetzender Regen,Einsetzender Regen,LOC,0.7,0.0,de,1
-Naturpark Lüneburger Heide,Naturpark Lüneburger Heide,LOC,0.0,0.0,de,1
-Lüneburg,Lüneburg,LOC,-0.7,0.0,de,1
-Waldbrandzentrale,Waldbrandzentrale,LOC,-0.7,0.0,de,1
-Missouri,Missouri,LOC,0.0,0.0,de,1
-Vorläufiges,Vorläufiges,LOC,0.0,0.0,de,1
-Bergisch-Gladbach,Bergisch-Gladbach,LOC,0.0,0.0,de,1
-Rax-Schneeberggebiet,Rax-Schneeberggebiet,LOC,0.0,0.0,de,1
+State Farm,State Farm,LOC,0.0,0.0,de,1
+D…,D…,LOC,0.0,0.0,de,1
+Neufundland,Neufundland,LOC,-0.7,0.0,de,1
+New York,New York,LOC,0.0,0.0,de,1
+Terroralarm,Terroralarm,LOC,-0.7,0.0,de,1
+Zentrums d…,Zentrums d…,LOC,0.0,0.0,de,1
+El Bolson,El Bolson,LOC,0.7,0.0,de,1
+Grand-Canyon-Nationalpark,Grand-Canyon-Nationalpark,LOC,0.0,0.0,de,1
+Bezirk Neun,Bezirk Neun,LOC,0.0,0.0,de,1
+Schuldigen,Schuldigen,LOC,0.0,0.0,de,1
+Nationalpa…,Nationalpa…,LOC,0.0,0.0,de,1
+Evakuierungsvorgaben,Evakuierungsvorgaben,LOC,0.0,0.0,de,1
+Black Canyon,Black Canyon,LOC,0.0,0.0,de,1
+Grand Canyon Nationalpark,Grand Canyon Nationalpark,LOC,0.0,0.0,de,1
+Braunau,Braunau,LOC,0.0,0.0,de,1
+Sorgen,Sorgen,LOC,0.7,0.0,de,1
+Grampians-Nationalpark,Grampians-Nationalpark,LOC,0.0,0.0,de,1
+Können,Können,LOC,0.0,0.0,de,1
 Rax-Sc,Rax-Sc,LOC,0.0,0.0,de,1
 Rax-Gebiet,Rax-Gebiet,LOC,-1.0,0.0,de,1
+Großbrand im Wald,Großbrand im Wald,LOC,0.0,0.0,de,1
 Burgenlandes,Burgenlandes,LOC,0.7,0.0,de,1
+Toskana,Toskana,LOC,0.0,0.0,de,1
+Löschrucksäcken,Löschrucksäcken,LOC,0.0,0.0,de,1
+Grampians,Grampians,LOC,0.0,0.0,de,1
+Verkohlte Landschaft,Verkohlte Landschaft,LOC,0.0,0.0,de,1
+Halb-Frankreich,Halb-Frankreich,LOC,0.0,0.0,de,1
+Wanderwege,Wanderwege,LOC,0.0,0.0,de,1
 Kemeten,Kemeten,LOC,-0.15000000000000002,0.0,de,1
+Vulkans,Vulkans,LOC,-0.7,0.0,de,1
+Neapel,Neapel,LOC,-0.7,0.0,de,1
 Rosaliengebirge,Rosaliengebirge,LOC,0.7,0.0,de,1
-Klimaherausforderungen,Klimaherausforderungen,LOC,0.0,0.0,de,1
-Klimahera,Klimahera,LOC,0.0,0.0,de,1
-Payerbach,Payerbach,LOC,1.0,0.0,de,1
-Frühlingsbeginns,Frühlingsbeginns,LOC,0.7,0.0,de,1
-Lloyds,Lloyds,LOC,-1.0,0.0,de,1
-Bundesstaat,Bundesstaat,LOC,0.0,0.0,de,1
-Bodenvegetation,Bodenvegetation,LOC,0.0,0.0,de,1
-Grein,Grein,LOC,0.0,0.0,de,1
-Bezirk Perg,Bezirk Perg,LOC,0.0,0.0,de,1
-Sankt Pankraz,Sankt Pankraz,LOC,0.0,0.0,de,1
-Bezirk Kirchdorf,Bezirk Kirchdorf,LOC,0.0,0.0,de,1
-Rax-Schneeb…,Rax-Schneeb…,LOC,0.0,0.0,de,1
-Alarmber,Alarmber,LOC,0.0,0.0,de,1
-Bezirk Imst,Bezirk Imst,LOC,0.0,0.0,de,1
-Niedersc,Niedersc,LOC,0.0,1.0,de,1
-Stürmen,Stürmen,LOC,-1.0,0.0,de,1
-Wetterservice,Wetterservice,LOC,-0.7,0.0,de,1
-Evendorf,Evendorf,LOC,0.0,0.0,de,1
-Egestorf,Egestorf,LOC,0.0,0.0,de,1
+Land…,Land…,LOC,0.0,0.0,de,1
+Russland,Russland,LOC,0.0,0.0,de,1
+Brockennbahn,Brockennbahn,LOC,0.7,0.0,de,1
+Weißwasser,Weißwasser,LOC,0.0,0.0,de,1
+Brand am,Brand am,LOC,0.0,0.0,de,1
+Irland,Irland,LOC,0.0,0.0,de,1
+Feuer-Fahnder,Feuer-Fahnder,LOC,0.7,0.0,de,1
+Waldumbau,Waldumbau,LOC,0.0,0.0,de,1
+Shutterstock.com,Shutterstock.com,LOC,0.0,0.0,de,1
 Rax-Schneeberg,Rax-Schneeberg,LOC,-0.7,0.0,de,1
-Lützelbach,Lützelbach,LOC,0.0,0.0,de,1
-Leithagebirge,Leithagebirge,LOC,0.0,0.0,de,1
-Eisenstadt,Eisenstadt,LOC,0.7,0.0,de,1
-Amstetten,Amstetten,LOC,0.0,0.0,de,1
-Waidhofen an der Ybbs,Waidhofen an der Ybbs,LOC,0.0,0.0,de,1
-Scheibbs,Scheibbs,LOC,0.0,0.0,de,1
-Melk,Melk,LOC,0.0,0.0,de,1
-Land Salzburg,Land Salzburg,LOC,0.0,1.0,de,1
-Sta…,Sta…,LOC,0.0,0.0,de,1
-Sengscheid,Sengscheid,LOC,0.0,0.0,de,1
-Grumbach,Grumbach,LOC,0.0,0.0,de,1
-Vogelsbergkreis,Vogelsbergkreis,LOC,0.7,0.0,de,1
-Wallennrod,Wallennrod,LOC,0.4666666666666666,0.3333333333333333,de,1
-Vogelsbergkreis brann,Vogelsbergkreis brann,LOC,0.0,0.0,de,1
-Ludwigslust,Ludwigslust,LOC,0.0,0.0,de,1
-mv,mv,LOC,0.0,0.0,de,1
-Geländes,Geländes,LOC,0.0,0.0,de,1
-warnen,warnen,LOC,-0.7,0.0,de,1
-warn…,warn…,LOC,0.0,0.0,de,1
-Frühlingshafte,Frühlingshafte,LOC,0.0,1.0,de,1
-traditionel…,traditionel…,LOC,0.0,0.0,de,1
-Oberwallis Schnee,Oberwallis Schnee,LOC,0.0,0.0,de,1
-Matterhorn Gotthard Bahn,Matterhorn Gotthard Bahn,LOC,0.0,0.0,de,1
-Viege,Viege,LOC,0.0,0.0,de,1
-Zermatt,Zermatt,LOC,0.0,0.0,de,1
-Ocean Cou,Ocean Cou,LOC,0.0,0.0,de,1
-Ruden,Ruden,LOC,0.0,0.0,de,1
-Unterkärnten,Unterkärnten,LOC,0.0,0.0,de,1
-Liechtenstein,Liechtenstein,LOC,0.0,0.0,de,1
-Wörthersee,Wörthersee,LOC,0.0,0.0,de,1
-(47) zum,(47) zum,LOC,0.0,0.0,de,1
-Serien-Brandstifter,Serien-Brandstifter,LOC,0.0,0.0,de,1
-Promi-Metropole,Promi-Metropole,LOC,0.0,0.0,de,1
-umgräbt,umgräbt,LOC,-1.0,0.0,de,1
-Brand am Brocken,Brand am Brocken,LOC,0.0,0.0,de,1
-Bodenfeuer,Bodenfeuer,LOC,0.0,0.0,de,1
-lsw,lsw,LOC,0.0,0.0,de,1
-Landkreis Ludwigsburg,Landkreis Ludwigsburg,LOC,0.0,0.0,de,1
-Sonntag,Sonntag,LOC,-0.7,0.0,de,1
-Proble…,Proble…,LOC,0.0,0.0,de,1
-Wörthersee-Ostbucht,Wörthersee-Ostbucht,LOC,0.0,0.0,de,1
-Hotel Wörthersee,Hotel Wörthersee,LOC,0.0,0.0,de,1
-vi…,vi…,LOC,0.0,0.0,de,1
-Bitcoin-Besitzer,Bitcoin-Besitzer,LOC,0.2333333333333333,0.6666666666666666,de,1
-Regierungspräsidium Darm…,Regierungspräsidium Darm…,LOC,0.0,0.0,de,1
-Darmstadt,Darmstadt,LOC,0.0,0.0,de,1
-Heiligenblut,Heiligenblut,LOC,0.0,0.0,de,1
-Gössering,Gössering,LOC,0.0,0.0,de,1
-Vinschgauer,Vinschgauer,LOC,0.7,0.0,de,1
-Burg…,Burg…,LOC,0.0,0.0,de,1
-Galiciens,Galiciens,LOC,-1.0,0.0,de,1
-Garmisch-Partenkirchen,Garmisch-Partenkirchen,LOC,0.2333333333333333,0.0,de,1
-Kempten,Kempten,LOC,0.2333333333333333,0.0,de,1
-Montoni-Berg,Montoni-Berg,LOC,0.7,0.0,de,1
 Tiroler,Tiroler,LOC,0.0,0.0,de,1
-Potsdam Heut,Potsdam Heut,LOC,0.0,0.0,de,1
-Waldbrandzeit,Waldbrandzeit,LOC,0.0,0.0,de,1
-Suchteams,Suchteams,LOC,-0.7,0.0,de,1
-Tausenden,Tausenden,LOC,1.0,0.0,de,1
-Flammenhölle,Flammenhölle,LOC,0.0,0.0,de,1
-Küste,Küste,LOC,0.0,0.0,de,1
-P,P,LOC,0.0,1.0,de,1
-Hollywood Hills ge…,Hollywood Hills ge…,LOC,1.0,0.0,de,1
-Halle Berry,Halle Berry,LOC,0.0,0.0,de,1
-Millionens,Millionens,LOC,0.0,0.0,de,1
-Los Angeles s…,Los Angeles s…,LOC,0.0,0.0,de,1
-L.A.-Inferno - Wir,L.A.-Inferno - Wir,LOC,0.0,0.0,de,1
-Wochenendprognose,Wochenendprognose,LOC,-1.0,0.0,de,1
-Supermarkt,Supermarkt,LOC,0.0,0.0,de,1
-Pizzeria,Pizzeria,LOC,0.0,0.0,de,1
-Spielplatz,Spielplatz,LOC,0.0,0.0,de,1
-Los Angeles,Los Angeles,LOC,0.0,0.0,de,1
-Gebäudeversicherer,Gebäudeversicherer,LOC,-1.0,0.0,de,1
-Wachst,Wachst,LOC,0.0,0.0,de,1
-Lokalheld,Lokalheld,LOC,0.7,0.0,de,1
-Großraum Los Angeles Waldbrände,Großraum Los Angeles Waldbrände,LOC,1.0,0.0,de,1
-Verschwörungsmythen,Verschwörungsmythen,LOC,-0.7,0.0,de,1
-Kommentare</li><li,Kommentare</li><li,LOC,0.0,1.0,de,1
-Teilen</li><li,Teilen</li><li,LOC,0.0,1.0,de,1
-Twitter</li><li,Twitter</li><li,LOC,0.0,1.0,de,1
-Drucken</li><li,Drucken</li><li,LOC,0.0,1.0,de,1
-Feedback</li><li,Feedback</li><li,LOC,0.0,1.0,de,1
-Himalaya,Himalaya,LOC,0.0,0.0,de,1
-Nasa,Nasa,LOC,0.7,0.0,de,1
-JPL,JPL,LOC,-1.0,0.0,de,1
-Los Angeles Coun,Los Angeles Coun,LOC,0.0,0.0,de,1
-Promine,Promine,LOC,-0.7,0.0,de,1
-Pacific Coast Highway,Pacific Coast Highway,LOC,0.0,0.0,de,1
-US-Küstenstadt,US-Küstenstadt,LOC,0.0,0.0,de,1
-Brüssel,Brüssel,LOC,0.0,0.0,de,1
-Wetterex…,Wetterex…,LOC,0.0,0.0,de,1
-Landes-Forstbetrieb,Landes-Forstbetrieb,LOC,0.0,0.0,de,1
-Extremregen,Extremregen,LOC,0.7,0.0,de,1
-Sinnlos-Sensoren,Sinnlos-Sensoren,LOC,-1.0,0.0,de,1
-Wozu,Wozu,LOC,0.35,0.0,de,1
-M…,M…,LOC,0.7,0.0,de,1
-trockene Starkwinde,trockene Starkwinde,LOC,0.7,0.0,de,1
-reuters,reuters,LOC,0.0,0.0,de,1
-Grönland,Grönland,LOC,0.0,0.0,de,1
-Social-Media-User,Social-Media-User,LOC,0.0,0.0,de,1
-Künstlerresidenz Villa Aurora,Künstlerresidenz Villa Aurora,LOC,0.0,0.0,de,1
-Lion Feuchtwanger,Lion Feuchtwanger,LOC,0.0,0.0,de,1
-Altdena,Altdena,LOC,0.0,0.0,de,1
-Nobel-Vororts Pacific Palisades,Nobel-Vororts Pacific Palisades,LOC,-1.0,0.0,de,1
-Waldbrandgegend,Waldbrandgegend,LOC,0.3333333333333333,0.0,de,1
-San Fernando,San Fernando,LOC,0.0,1.0,de,1
-Beverly Hills,Beverly Hills,LOC,-1.0,0.0,de,1
-Santa Monica,Santa Monica,LOC,-1.0,0.0,de,1
-Millionen-Anwesen,Millionen-Anwesen,LOC,-0.9,0.0,de,1
-Hollywood-Metropole,Hollywood-Metropole,LOC,0.0,0.3333333333333333,de,1
-Flu…,Flu…,LOC,0.0,1.0,de,1
-Rocky Mountains,Rocky Mountains,LOC,0.0,0.0,de,1
-Waldfeuer,Waldfeuer,LOC,0.7,0.0,de,1
-Waldbrand-Risiko,Waldbrand-Risiko,LOC,0.0,0.0,de,1
-Habitat for H,Habitat for H,LOC,0.7,0.0,de,1
-Forstministeriums,Forstministeriums,LOC,0.0,0.0,de,1
-Donnerstag,Donnerstag,LOC,0.0,0.0,de,1
-Bezirk Schärding,Bezirk Schärding,LOC,0.0,0.0,de,1
-V…,V…,LOC,0.0,0.0,de,1
-Berghängen,Berghängen,LOC,0.0,0.0,de,1
+E…,E…,LOC,0.0,0.0,de,1
+Nationalpark-Service,Nationalpark-Service,LOC,-0.7,0.0,de,1
+Großer Brand,Großer Brand,LOC,0.7,0.0,de,1
+Bergisch-Gladbach,Bergisch-Gladbach,LOC,0.0,0.0,de,1
+Keratea,Keratea,LOC,0.0,0.0,de,1
+Rax-Schneeberggebiet,Rax-Schneeberggebiet,LOC,0.0,0.0,de,1
+Harzes,Harzes,LOC,0.7,0.0,de,1
+Canyon Fire h…,Canyon Fire h…,LOC,0.0,0.0,de,1
+europäischen Ländern,europäischen Ländern,LOC,0.0,0.0,de,1
+Südspaniens,Südspaniens,LOC,0.0,0.0,de,1
+Quai Zurich Campus,Quai Zurich Campus,LOC,0.0,0.0,de,1
+Kiefernwäldern,Kiefernwäldern,LOC,0.0,0.0,de,1
+Freien,Freien,LOC,0.35,0.5,de,1
+Hektar Pinienwald,Hektar Pinienwald,LOC,0.0,0.0,de,1
 Nordtirol,Nordtirol,LOC,0.0,0.0,de,1
+Landesforstanstalt a…,Landesforstanstalt a…,LOC,-0.7,0.0,de,1
+zweitg…,zweitg…,LOC,0.0,0.0,de,1
+Berghängen,Berghängen,LOC,0.0,0.0,de,1
+V…,V…,LOC,0.0,0.0,de,1
+niedergebrann…,niedergebrann…,LOC,-0.7,0.0,de,1
+Bezirk Schärding,Bezirk Schärding,LOC,0.0,0.0,de,1
+Südwestfrankreich,Südwestfrankreich,LOC,1.0,0.0,de,1
+Donnerstag,Donnerstag,LOC,0.0,0.0,de,1
+extre…,extre…,LOC,0.0,0.0,de,1
+Forstministeriums,Forstministeriums,LOC,0.0,0.0,de,1
+Evakuierungsrouten,Evakuierungsrouten,LOC,-0.7,0.0,de,1
+Brandenburger Landesregierung,Brandenburger Landesregierung,LOC,1.0,0.0,de,1
+Vesuv-Nationalpark,Vesuv-Nationalpark,LOC,0.0,0.0,de,1
+Ja…,Ja…,LOC,0.0,0.0,de,1
+Schlimmeres,Schlimmeres,LOC,0.0,0.0,de,1
 Baden,Baden,LOC,0.0,0.0,de,1
 Mödling,Mödling,LOC,0.0,0.0,de,1
-Waldbrandverordnungen,Waldbrandverordnungen,LOC,0.0,0.0,de,1
-Sonniges,Sonniges,LOC,0.7,0.0,de,1
-Waldbrand-Gefahrenindex,Waldbrand-Gefahrenindex,LOC,0.0,0.0,de,1
-Weilers St. Martin,Weilers St. Martin,LOC,0.0,0.0,de,1
-befür…,befür…,LOC,0.0,0.0,de,1
+Sant Josep,Sant Josep,LOC,0.0,0.0,de,1
 Waldbrandschutz-Verordnungen,Waldbrandschutz-Verordnungen,LOC,0.0,0.0,de,1
-Braunau,Braunau,LOC,0.0,0.0,de,1
+Lesbos,Lesbos,LOC,0.0,1.0,de,1
+zweitgrö…,zweitgrö…,LOC,0.0,0.0,de,1
+Souni,Souni,LOC,0.0,0.0,de,1
 Schärding,Schärding,LOC,0.0,0.0,de,1
+Sizilien,Sizilien,LOC,0.0,1.0,de,1
 Vöcklabruck,Vöcklabruck,LOC,0.0,0.0,de,1
+befür…,befür…,LOC,0.0,0.0,de,1
+Weilers St. Martin,Weilers St. Martin,LOC,0.0,0.0,de,1
 Freistadt,Freistadt,LOC,0.0,0.0,de,1
 Ried,Ried,LOC,0.0,0.0,de,1
-Landesforstanstalt a…,Landesforstanstalt a…,LOC,-0.7,0.0,de,1
-Freien,Freien,LOC,0.35,0.5,de,1
-amerika,amerika,LOC,0.0,1.0,de,1
-US-Bundesstaat ,US-Bundesstaat ,LOC,0.0,0.0,de,1
-New York,New York,LOC,0.0,0.0,de,1
-Bezirk Neun,Bezirk Neun,LOC,0.0,0.0,de,1
-Evakuierungsrouten,Evakuierungsrouten,LOC,-0.7,0.0,de,1
-Ja…,Ja…,LOC,0.0,0.0,de,1
+Waldbrand-Gefahrenindex,Waldbrand-Gefahrenindex,LOC,0.0,0.0,de,1
+apokalyptisc,apokalyptisc,LOC,-1.0,0.0,de,1
+Sonniges,Sonniges,LOC,0.7,0.0,de,1
+Waldbrandverordnungen,Waldbrandverordnungen,LOC,0.0,0.0,de,1
 Tokio,Tokio,LOC,-0.13999999999999999,0.8,de,1
-Terroralarm,Terroralarm,LOC,-0.7,0.0,de,1
-Kaffee,Kaffee,LOC,0.0,0.0,de,1
-Extrem-Dürre,Extrem-Dürre,LOC,0.0,0.0,de,1
-südamerikanischen Land,südamerikanischen Land,LOC,0.35,0.5,de,1
-Jahrhundert-Feuer,Jahrhundert-Feuer,LOC,1.0,0.0,de,1
-Usti nad,Usti nad,LOC,0.0,0.0,de,1
-Grampians,Grampians,LOC,0.0,0.0,de,1
-Grampians-Nationalpark,Grampians-Nationalpark,LOC,0.0,0.0,de,1
-Brockennbahn,Brockennbahn,LOC,0.7,0.0,de,1
-Harzes,Harzes,LOC,0.7,0.0,de,1
-Evakuierungsvorgaben,Evakuierungsvorgaben,LOC,0.0,0.0,de,1
-El Bolson,El Bolson,LOC,0.7,0.0,de,1
-State Farm,State Farm,LOC,0.0,0.0,de,1
 Iwate,Iwate,LOC,0.0,0.0,de,1
-Feuer-Fahnder,Feuer-Fahnder,LOC,0.7,0.0,de,1
-Lösch-Roboter,Lösch-Roboter,LOC,0.7,0.0,de,1
-Zurich,Zurich,LOC,0.0,0.0,de,1
-Quai Zurich Campus,Quai Zurich Campus,LOC,0.0,0.0,de,1
-Bordkran,Bordkran,LOC,1.0,0.0,de,1
-Ungarn,Ungarn,LOC,0.0,0.0,de,1
-Slowakei,Slowakei,LOC,0.0,0.0,de,1
-Neuegg,Neuegg,LOC,0.0,0.0,de,1
-Warum Munich Re,Warum Munich Re,LOC,0.0,0.0,de,1
-11KM-Podcast,11KM-Podcast,LOC,0.0,0.0,de,1
 Region Iwate,Region Iwate,LOC,-0.35,0.5,de,1
-Kaliforn,Kaliforn,LOC,-1.0,0.0,de,1
+Neuegg,Neuegg,LOC,0.0,0.0,de,1
+Rathen,Rathen,LOC,0.0,0.0,de,1
+Feuervortex,Feuervortex,LOC,0.0,0.0,de,1
+Slowakei,Slowakei,LOC,0.0,0.0,de,1
+Ungarn,Ungarn,LOC,0.0,0.0,de,1
+Utah,Utah,LOC,0.0,0.0,de,1
+Caminomorisco,Caminomorisco,LOC,0.7,0.0,de,1
+Départements,Départements,LOC,0.0,0.0,de,1
+Andalusien,Andalusien,LOC,0.7,0.0,de,1
+Bordkran,Bordkran,LOC,1.0,0.0,de,1
+Stadt Eskişehir,Stadt Eskişehir,LOC,0.0,0.0,de,1
+Urlaubsparadiese,Urlaubsparadiese,LOC,0.0,0.0,de,1
+Flammemeer,Flammemeer,LOC,0.0,0.0,de,1
+Zurich,Zurich,LOC,0.0,0.0,de,1
+Lösch-Roboter,Lösch-Roboter,LOC,0.7,0.0,de,1
+Beliebte Urlaubsregionen,Beliebte Urlaubsregionen,LOC,0.85,0.0,de,1
+Shisha-Raucher,Shisha-Raucher,LOC,0.0,0.0,de,1
+Teilsperre,Teilsperre,LOC,0.0,0.0,de,1
+Latakia,Latakia,LOC,0.0,0.0,de,1
+Warum Munich Re,Warum Munich Re,LOC,0.0,0.0,de,1
+Heide,Heide,LOC,1.0,0.0,de,1
+Arouca,Arouca,LOC,0.2333333333333333,0.0,de,1
+Syriens,Syriens,LOC,-0.7,0.0,de,1
+Behördenanga,Behördenanga,LOC,0.2333333333333333,0.0,de,1
+Historisches Hotel,Historisches Hotel,LOC,-0.7,0.0,de,1
+Lissabon,Lissabon,LOC,0.3333333333333333,0.0,de,1
+Artikelzusammenfassung,Artikelzusammenfassung,LOC,-0.15000000000000002,0.0,de,1
+Feuerwehrleuten,Feuerwehrleuten,LOC,0.3333333333333333,0.0,de,1
+11KM-Podcast,11KM-Podcast,LOC,0.0,0.0,de,1
+Zeit wi…,Zeit wi…,LOC,0.0,0.0,de,1
+amerika,amerika,LOC,0.0,1.0,de,1
+Odenwaldkreis,Odenwaldkreis,LOC,0.0,0.0,de,1
+Bildschirmen,Bildschirmen,LOC,0.0,0.0,de,1
+Waldbrand-Kosten,Waldbrand-Kosten,LOC,0.7,0.0,de,1
+Odenwaldkreises,Odenwaldkreises,LOC,0.0,0.0,de,1
+Luxemburg,Luxemburg,LOC,0.0,0.0,de,1
+Idstein,Idstein,LOC,0.0,0.0,de,1
+Vulkan Vesuv,Vulkan Vesuv,LOC,-1.0,0.0,de,1
+Zentrum Portugals,Zentrum Portugals,LOC,0.0,0.0,de,1
+Lwiw,Lwiw,LOC,0.0,0.0,de,1
+Nobel-Vororts Pacific Palisades,Nobel-Vororts Pacific Palisades,LOC,-1.0,0.0,de,1
+Altdena,Altdena,LOC,0.0,0.0,de,1
+Lion Feuchtwanger,Lion Feuchtwanger,LOC,0.0,0.0,de,1
+Künstlerresidenz Villa Aurora,Künstlerresidenz Villa Aurora,LOC,0.0,0.0,de,1
+Grönland,Grönland,LOC,0.0,0.0,de,1
+Leon,Leon,LOC,0.0,0.0,de,1
+Promine,Promine,LOC,-0.7,0.0,de,1
+nan Auf der,nan Auf der,LOC,0.0,0.0,de,1
+Jahr sch,Jahr sch,LOC,0.0,0.0,de,1
+US-Regierung,US-Regierung,LOC,0.0,0.0,de,1
+Schwedin,Schwedin,LOC,-1.0,0.0,de,1
+reuters,reuters,LOC,0.0,0.0,de,1
+Erdbeben,Erdbeben,LOC,-1.0,0.0,de,1
+McKinl…,McKinl…,LOC,0.0,0.0,de,1
+trockene Starkwinde,trockene Starkwinde,LOC,0.7,0.0,de,1
+McKinley…,McKinley…,LOC,0.0,0.0,de,1
+Mc…,Mc…,LOC,0.0,0.0,de,1
+Drau&szlig;en,Drau&szlig;en,LOC,-1.0,0.0,de,1
+M…,M…,LOC,0.7,0.0,de,1
+Putins Palast,Putins Palast,LOC,0.0,0.0,de,1
+Bear-Gulch-Feuer,Bear-Gulch-Feuer,LOC,0.0,0.0,de,1
+US-Bundesstaat Washington,US-Bundesstaat Washington,LOC,0.0,0.0,de,1
+Waldbrandgegend,Waldbrandgegend,LOC,0.3333333333333333,0.0,de,1
+Alten Fasanerie,Alten Fasanerie,LOC,0.7,0.0,de,1
+Los Angeles Coun,Los Angeles Coun,LOC,0.0,0.0,de,1
+Social-Media-User,Social-Media-User,LOC,0.0,0.0,de,1
+Sonderdienstes Wald-,Sonderdienstes Wald-,LOC,0.0,0.0,de,1
+Murau,Murau,LOC,0.7,0.0,de,1
+Krakaudorf,Krakaudorf,LOC,0.0,0.0,de,1
+Bezirk Murau,Bezirk Murau,LOC,0.0,0.0,de,1
+Corredera-Platz,Corredera-Platz,LOC,0.0,0.0,de,1
+Hervás,Hervás,LOC,0.0,1.0,de,1
+Flu…,Flu…,LOC,0.0,1.0,de,1
+Sonneberger,Sonneberger,LOC,0.0,0.0,de,1
+Kreis Sonneberg,Kreis Sonneberg,LOC,0.0,0.0,de,1
+Hollywood-Metropole,Hollywood-Metropole,LOC,0.0,0.3333333333333333,de,1
+Katastrophengebiete,Katastrophengebiete,LOC,0.0,0.0,de,1
+Millionen-Anwesen,Millionen-Anwesen,LOC,-0.9,0.0,de,1
+La Baña,La Baña,LOC,0.0,0.0,de,1
+Santa Monica,Santa Monica,LOC,-1.0,0.0,de,1
+Beverly Hills,Beverly Hills,LOC,-1.0,0.0,de,1
+San Fernando,San Fernando,LOC,0.0,1.0,de,1
+Hausbrand,Hausbrand,LOC,0.7,0.0,de,1
+Waldbrandschutzwegen,Waldbrandschutzwegen,LOC,-0.7,0.0,de,1
+Waldbr,Waldbr,LOC,0.0,0.0,de,1
+Waldband,Waldband,LOC,0.0,0.0,de,1
+Neujahrsnacht,Neujahrsnacht,LOC,0.0,0.0,de,1
+Ad-hoc-Programm,Ad-hoc-Programm,LOC,0.0,1.0,de,1
+Brüssel,Brüssel,LOC,0.0,0.0,de,1
+Rebuilding,Rebuilding,LOC,0.0,0.0,de,1
+Weltwetterorganisa,Weltwetterorganisa,LOC,0.0,0.0,de,1
+Krisen,Krisen,LOC,0.0,1.0,de,1
+Südamerika,Südamerika,LOC,0.7,0.0,de,1
+State of Wildfires-Bericht,State of Wildfires-Bericht,LOC,0.0,0.0,de,1
+Balearen,Balearen,LOC,0.175,0.0,de,1
+US-Küstenstadt,US-Küstenstadt,LOC,0.0,0.0,de,1
+EU-Erdbeobachtungsprogramm Copernicus,EU-Erdbeobachtungsprogramm Copernicus,LOC,0.0,0.0,de,1
+Pacific Coast Highway,Pacific Coast Highway,LOC,0.0,0.0,de,1
+Paradies am Abgrund,Paradies am Abgrund,LOC,0.0,0.0,de,1
+Kaliforniens Highway 1,Kaliforniens Highway 1,LOC,0.85,0.0,de,1
+Na,Na,LOC,1.0,0.0,de,1
+Big Sur,Big Sur,LOC,0.7,0.0,de,1
+Hannover Rück,Hannover Rück,LOC,0.0,0.0,de,1
+Hitze-Perioden,Hitze-Perioden,LOC,0.0,0.0,de,1
+Heckenbrand,Heckenbrand,LOC,0.0,0.0,de,1
+Oberl…,Oberl…,LOC,-0.7,0.0,de,1
+Gesundheitsministerium mi…,Gesundheitsministerium mi…,LOC,0.0,0.0,de,1
+Grippeinfektionszahlen,Grippeinfektionszahlen,LOC,0.7,0.0,de,1
+Wetterex…,Wetterex…,LOC,0.0,0.0,de,1
+Landes-Forstbetrieb,Landes-Forstbetrieb,LOC,0.0,0.0,de,1
+Copernicus-Angaben,Copernicus-Angaben,LOC,0.0,0.0,de,1
+Soproner Gebirge,Soproner Gebirge,LOC,0.0,0.0,de,1
+Naturerlebniszentrum,Naturerlebniszentrum,LOC,0.0,0.0,de,1
+Sopron,Sopron,LOC,0.0,0.0,de,1
+Deutschlands Wäldern,Deutschlands Wäldern,LOC,0.0,0.0,de,1
+vorausgeschick,vorausgeschick,LOC,0.0,0.0,de,1
+Fließ,Fließ,LOC,-1.0,0.0,de,1
+Wozu,Wozu,LOC,0.35,0.0,de,1
+Fußwegs,Fußwegs,LOC,0.7,0.0,de,1
+Warnungen,Warnungen,LOC,0.0,0.0,de,1
+Sinnlos-Sensoren,Sinnlos-Sensoren,LOC,-1.0,0.0,de,1
+Extremregen,Extremregen,LOC,0.7,0.0,de,1
+Kooperati,Kooperati,LOC,0.0,0.0,de,1
+Feuerdreieck,Feuerdreieck,LOC,0.0,0.0,de,1
+AppleTV+,AppleTV+,LOC,0.0,0.0,de,1
+Paradise,Paradise,LOC,0.0,0.0,de,1
+Aufgestanden,Aufgestanden,LOC,0.0,0.0,de,1
+Landeszentrum Wald …,Landeszentrum Wald …,LOC,0.0,0.0,de,1
+Harzer Löschflugzeug,Harzer Löschflugzeug,LOC,0.0,0.0,de,1
+Bad Dürkheim,Bad Dürkheim,LOC,0.0,0.0,de,1
+Provinz Bragança,Provinz Bragança,LOC,0.0,0.0,de,1
+Usti nad,Usti nad,LOC,0.0,0.0,de,1
+Wachst,Wachst,LOC,0.0,0.0,de,1
+Mainfranken,Mainfranken,LOC,0.0,0.0,de,1
+Vassilis Vathrakoyannis,Vassilis Vathrakoyannis,LOC,-0.23333333333333328,0.0,de,1
+Ghanaerin,Ghanaerin,LOC,0.0,0.0,de,1
+Verschwörungsmythen,Verschwörungsmythen,LOC,-0.7,0.0,de,1
+Touristeninseln,Touristeninseln,LOC,0.7,0.0,de,1
+Zakynthos,Zakynthos,LOC,0.7,0.0,de,1
+Voundeni,Voundeni,LOC,0.7,0.0,de,1
+Großraum Los Angeles Waldbrände,Großraum Los Angeles Waldbrände,LOC,1.0,0.0,de,1
+Lokalheld,Lokalheld,LOC,0.7,0.0,de,1
+Marokkos,Marokkos,LOC,0.0,0.0,de,1
+Leere Autobahn,Leere Autobahn,LOC,-1.0,0.0,de,1
+Gebäudeversicherer,Gebäudeversicherer,LOC,-1.0,0.0,de,1
+Feuerwehr-Einsatz,Feuerwehr-Einsatz,LOC,0.0,0.0,de,1
+Mon…,Mon…,LOC,0.0,0.0,de,1
+Haus gefu…,Haus gefu…,LOC,-0.4333333333333333,0.0,de,1
+Los Angeles,Los Angeles,LOC,0.0,0.0,de,1
+Waldbrand-Ausnahmejahr,Waldbrand-Ausnahmejahr,LOC,1.0,0.0,de,1
+draußen,draußen,LOC,-0.7,0.0,de,1
+Waldbrand-Hotspots,Waldbrand-Hotspots,LOC,-0.7,0.0,de,1
+Laxenburg,Laxenburg,LOC,0.0,0.0,de,1
+Butzbach,Butzbach,LOC,-1.0,0.0,de,1
+Kommentare</li><li,Kommentare</li><li,LOC,0.0,1.0,de,1
+Regionalbehörden,Regionalbehörden,LOC,0.0,0.0,de,1
+Haus seiner Familie +++ Fußgängerin,Haus seiner Familie +++ Fußgängerin,LOC,0.0,0.0,de,1
+Jahrhundert-Feuer,Jahrhundert-Feuer,LOC,1.0,0.0,de,1
+südamerikanischen Land,südamerikanischen Land,LOC,0.35,0.5,de,1
+Extrem-Dürre,Extrem-Dürre,LOC,0.0,0.0,de,1
+Irak,Irak,LOC,0.0,0.0,de,1
+Kaffee,Kaffee,LOC,0.0,0.0,de,1
+Ferienortes Tarifa fü…,Ferienortes Tarifa fü…,LOC,0.7,0.0,de,1
+Habitat for H,Habitat for H,LOC,0.7,0.0,de,1
+Waldfeuer,Waldfeuer,LOC,0.7,0.0,de,1
+Suchteams,Suchteams,LOC,-0.7,0.0,de,1
+Wetterdienst Hitzewarnungen,Wetterdienst Hitzewarnungen,LOC,0.0,0.0,de,1
+Wetterdienst Météo France,Wetterdienst Météo France,LOC,0.7,0.0,de,1
+Trancoso,Trancoso,LOC,0.0,0.0,de,1
+Rocky Mountains,Rocky Mountains,LOC,0.0,0.0,de,1
+Himalaya,Himalaya,LOC,0.0,0.0,de,1
+Feedback</li><li,Feedback</li><li,LOC,0.0,1.0,de,1
+Drucken</li><li,Drucken</li><li,LOC,0.0,1.0,de,1
+Twitter</li><li,Twitter</li><li,LOC,0.0,1.0,de,1
+Teilen</li><li,Teilen</li><li,LOC,0.0,1.0,de,1
+Nidderau,Nidderau,LOC,0.0,0.0,de,1
+Bezirk Mödling,Bezirk Mödling,LOC,0.0,0.0,de,1
+Rauch am Himmel,Rauch am Himmel,LOC,-1.0,0.0,de,1
+Mirandela,Mirandela,LOC,0.0,0.0,de,1
+Landkreis Aschaffenburg,Landkreis Aschaffenburg,LOC,0.0,0.0,de,1
+Rekordwaldbrände,Rekordwaldbrände,LOC,0.0,0.0,de,1
+Fontjoncouse,Fontjoncouse,LOC,0.0,0.0,de,1
+Hollywood Hills ge…,Hollywood Hills ge…,LOC,1.0,0.0,de,1
+P,P,LOC,0.0,1.0,de,1
+Küste,Küste,LOC,0.0,0.0,de,1
+Hektar Land,Hektar Land,LOC,-0.35,0.5,de,1
+Canyon Lodge,Canyon Lodge,LOC,-0.5,0.5,de,1
+Hanau-Wolfgang,Hanau-Wolfgang,LOC,0.0,0.0,de,1
+Flammenhölle,Flammenhölle,LOC,0.0,0.0,de,1
+Nideggen-Schmidt,Nideggen-Schmidt,LOC,0.0,0.0,de,1
+Gudiña,Gudiña,LOC,-1.0,0.0,de,1
+Atem häl…,Atem häl…,LOC,0.0,0.0,de,1
+Jakosbweg,Jakosbweg,LOC,1.0,0.0,de,1
+Tausenden,Tausenden,LOC,1.0,0.0,de,1
+Nasa,Nasa,LOC,0.7,0.0,de,1
+Hilfegesuch,Hilfegesuch,LOC,-1.0,0.0,de,1
+Mallorcas,Mallorcas,LOC,0.0,0.0,de,1
+Feuerfront,Feuerfront,LOC,0.0,0.0,de,1
+JPL,JPL,LOC,-1.0,0.0,de,1
+Auswärtige Amt,Auswärtige Amt,LOC,-0.7,0.0,de,1
+Picos de Europa,Picos de Europa,LOC,-1.0,0.0,de,1
+Jakobswegs,Jakobswegs,LOC,-1.0,0.0,de,1
+Schuld,Schuld,LOC,0.0,0.0,de,1
+Pilge,Pilge,LOC,0.0,0.0,de,1
+Halbinsel Gelibolu,Halbinsel Gelibolu,LOC,0.0,0.0,de,1
+Spielplatz,Spielplatz,LOC,0.0,0.0,de,1
+Pizzeria,Pizzeria,LOC,0.0,0.0,de,1
+Supermarkt,Supermarkt,LOC,0.0,0.0,de,1
+Leverkusen,Leverkusen,LOC,0.0,0.0,de,1
+Wochenendprognose,Wochenendprognose,LOC,-1.0,0.0,de,1
+L.A.-Inferno - Wir,L.A.-Inferno - Wir,LOC,0.0,0.0,de,1
+Los Angeles s…,Los Angeles s…,LOC,0.0,0.0,de,1
+Mi…,Mi…,LOC,0.0,0.0,de,1
+Millionens,Millionens,LOC,0.0,0.0,de,1
+W,W,LOC,-1.0,0.0,de,1
+Unt…,Unt…,LOC,1.0,0.0,de,1
+Rekord-Fläche,Rekord-Fläche,LOC,0.0,0.0,de,1
+Halle Berry,Halle Berry,LOC,0.0,0.0,de,1
+Zivilschutz- und Katastrophenschutzbehörde,Zivilschutz- und Katastrophenschutzbehörde,LOC,0.0,0.0,de,1
+Kastilien und León,Kastilien und León,LOC,0.0,0.0,de,1
+Sachsens Wäldern,Sachsens Wäldern,LOC,-0.85,0.0,de,1
+Kastilien-León,Kastilien-León,LOC,0.0,0.0,de,1
+Larouco,Larouco,LOC,0.0,0.0,de,1
+Großbrand auf der,Großbrand auf der,LOC,0.0,0.0,de,1
+Landratsamts Saalfeld,Landratsamts Saalfeld,LOC,0.0,0.0,de,1
+Edmundsklamm,Edmundsklamm,LOC,0.0,0.0,de,1
+Wetterlage,Wetterlage,LOC,0.0,0.0,de,1
+Ocean Cou,Ocean Cou,LOC,0.0,0.0,de,1
+Zermatt,Zermatt,LOC,0.0,0.0,de,1
+Königsberg bei Goslar,Königsberg bei Goslar,LOC,0.0,0.0,de,1
+Flurbränden,Flurbränden,LOC,0.0,0.0,de,1
+Rauchbelastung,Rauchbelastung,LOC,-1.0,0.0,de,1
+Viege,Viege,LOC,0.0,0.0,de,1
+Matterhorn Gotthard Bahn,Matterhorn Gotthard Bahn,LOC,0.0,0.0,de,1
+Ändernde Windrichtung,Ändernde Windrichtung,LOC,-1.0,0.0,de,1
+Waldbrand-Saison,Waldbrand-Saison,LOC,0.0,0.0,de,1
+Waldbrand-Löscharbeiten,Waldbrand-Löscharbeiten,LOC,0.0,0.0,de,1
 Trenton,Trenton,LOC,0.0,0.0,de,1
+Gosl,Gosl,LOC,0.0,0.0,de,1
+Oberwallis Schnee,Oberwallis Schnee,LOC,0.0,0.0,de,1
+traditionel…,traditionel…,LOC,0.0,0.0,de,1
+Waldbrand bei Wendelstein,Waldbrand bei Wendelstein,LOC,0.0,0.0,de,1
+Nürn,Nürn,LOC,0.0,0.0,de,1
+Frühlingshafte,Frühlingshafte,LOC,0.0,1.0,de,1
+Hirschwang an der Rax,Hirschwang an der Rax,LOC,0.0,0.0,de,1
+Nürnb,Nürnb,LOC,0.0,0.0,de,1
+warn…,warn…,LOC,0.0,0.0,de,1
+Kaliforn,Kaliforn,LOC,-1.0,0.0,de,1
 Dahme-Spreewald,Dahme-Spreewald,LOC,-0.7,0.0,de,1
-Unwetterpotenzial,Unwetterpotenzial,LOC,0.0,1.0,de,1
+vi…,vi…,LOC,0.0,0.0,de,1
+Victoria vo…,Victoria vo…,LOC,0.0,0.0,de,1
+B199,B199,LOC,0.0,0.0,de,1
+Autob,Autob,LOC,0.0,0.0,de,1
+Ostniedersachsen,Ostniedersachsen,LOC,0.85,0.0,de,1
+Landkreis Lüneburg,Landkreis Lüneburg,LOC,0.85,0.0,de,1
+Kroatische Adria-Küste,Kroatische Adria-Küste,LOC,0.0,0.0,de,1
+Flammen-Inferno,Flammen-Inferno,LOC,0.7,0.0,de,1
+Anklam,Anklam,LOC,0.0,0.0,de,1
+Ansbach,Ansbach,LOC,0.0,0.0,de,1
+Bayreuth,Bayreuth,LOC,0.0,0.0,de,1
+An…,An…,LOC,0.0,0.0,de,1
+Landesumweltministeriums,Landesumweltministeriums,LOC,0.0,0.0,de,1
+Swiss Re,Swiss Re,LOC,0.0,0.0,de,1
+Großen Feldberg,Großen Feldberg,LOC,0.0,0.0,de,1
+Waldbrand am Großen Feldberg +++ Liveblog,Waldbrand am Großen Feldberg +++ Liveblog,LOC,0.7,0.0,de,1
+kroatischer Küste,kroatischer Küste,LOC,0.0,0.0,de,1
+kroatischen Küste,kroatischen Küste,LOC,0.0,0.0,de,1
+Görlitz,Görlitz,LOC,0.0,0.0,de,1
+Bautzen,Bautzen,LOC,0.0,0.0,de,1
+Übersic,Übersic,LOC,0.0,0.0,de,1
+Flughafens BER,Flughafens BER,LOC,0.0,0.0,de,1
+Bezirk Wiener Neustadt,Bezirk Wiener Neustadt,LOC,0.0,0.0,de,1
+Mittwochfrüh,Mittwochfrüh,LOC,0.0,0.0,de,1
+warnen,warnen,LOC,-0.7,0.0,de,1
+Freistaates,Freistaates,LOC,0.7,0.0,de,1
+Amstetten,Amstetten,LOC,0.0,0.0,de,1
+Seferihisar,Seferihisar,LOC,0.0,0.0,de,1
+Eisenstadt,Eisenstadt,LOC,0.7,0.0,de,1
+Rauchwolken,Rauchwolken,LOC,0.0,0.0,de,1
 Dutzenden,Dutzenden,LOC,0.0,1.0,de,1
 Algarve,Algarve,LOC,0.7,0.0,de,1
+Leithagebirge,Leithagebirge,LOC,0.0,0.0,de,1
+Ruden,Ruden,LOC,0.0,0.0,de,1
 Meeresspiegels,Meeresspiegels,LOC,0.07500000000000001,0.0,de,1
-Freistaates,Freistaates,LOC,0.7,0.0,de,1
 Einschätz,Einschätz,LOC,0.7,0.0,de,1
+gefährlic,gefährlic,LOC,0.0,0.0,de,1
 Extrem-Hitze,Extrem-Hitze,LOC,0.0,0.0,de,1
+Unterkärnten,Unterkärnten,LOC,0.0,0.0,de,1
 Huelva,Huelva,LOC,-0.7,0.0,de,1
 Stadt zmir,Stadt zmir,LOC,0.7,0.0,de,1
 Ägäisküste,Ägäisküste,LOC,0.7,0.0,de,1
 Kolkwitz,Kolkwitz,LOC,0.0,0.0,de,1
 Wiedemar,Wiedemar,LOC,0.0,0.0,de,1
+Liechtenstein,Liechtenstein,LOC,0.0,0.0,de,1
 Baiersdorf,Baiersdorf,LOC,0.0,0.0,de,1
-Röttenbach,Röttenbach,LOC,0.0,0.0,de,1
-Bezirk Izmir,Bezirk Izmir,LOC,0.0,0.0,de,1
-Elster,Elster,LOC,-0.7,0.0,de,1
-Flächenlandes wüte…,Flächenlandes wüte…,LOC,-0.7,0.0,de,1
-Bodetal,Bodetal,LOC,0.0,0.0,de,1
-Nacht,Nacht,LOC,0.0,0.0,de,1
-Sprengplatzes,Sprengplatzes,LOC,-0.7,0.0,de,1
-Brandenburg +++ Spanien,Brandenburg +++ Spanien,LOC,0.0,0.0,de,1
-Cosco,Cosco,LOC,0.0,0.0,de,1
-Landkreis Elbe-Elster,Landkreis Elbe-Elster,LOC,0.0,0.0,de,1
-BILD-Interview,BILD-Interview,LOC,0.0,0.0,de,1
-Twitter,Twitter,LOC,0.0,0.0,de,1
-Brand im Reinhardswald,Brand im Reinhardswald,LOC,0.0,0.0,de,1
-Rauchwolken,Rauchwolken,LOC,0.0,0.0,de,1
-Seferihisar,Seferihisar,LOC,0.0,0.0,de,1
 Waldbrandeinsatzes,Waldbrandeinsatzes,LOC,-1.0,0.0,de,1
-Hirschwang an der Rax,Hirschwang an der Rax,LOC,0.0,0.0,de,1
-Flughafens BER,Flughafens BER,LOC,0.0,0.0,de,1
-Königsberg bei Goslar,Königsberg bei Goslar,LOC,0.0,0.0,de,1
-Flurbränden,Flurbränden,LOC,0.0,0.0,de,1
-Rauchbelastung,Rauchbelastung,LOC,-1.0,0.0,de,1
-Ändernde Windrichtung,Ändernde Windrichtung,LOC,-1.0,0.0,de,1
-Waldbrand-Saison,Waldbrand-Saison,LOC,0.0,0.0,de,1
-Wetterlage,Wetterlage,LOC,0.0,0.0,de,1
-Waldbrand-Löscharbeiten,Waldbrand-Löscharbeiten,LOC,0.0,0.0,de,1
-Gosl,Gosl,LOC,0.0,0.0,de,1
-Waldbrand bei Wendelstein,Waldbrand bei Wendelstein,LOC,0.0,0.0,de,1
-Nürn,Nürn,LOC,0.0,0.0,de,1
-Nürnb,Nürnb,LOC,0.0,0.0,de,1
-Präfektur und de…,Präfektur und de…,LOC,0.0,0.0,de,1
-Bezirk Wiener Neustadt,Bezirk Wiener Neustadt,LOC,0.0,0.0,de,1
-Mittwochfrüh,Mittwochfrüh,LOC,0.0,0.0,de,1
-gefährlic,gefährlic,LOC,0.0,0.0,de,1
+Waidhofen an der Ybbs,Waidhofen an der Ybbs,LOC,0.0,0.0,de,1
+Scheibbs,Scheibbs,LOC,0.0,0.0,de,1
+Melk,Melk,LOC,0.0,0.0,de,1
 Deo,Deo,LOC,0.0,0.0,de,1
 Leoben,Leoben,LOC,0.0,0.0,de,1
+Geländes,Geländes,LOC,0.0,0.0,de,1
 Jäger,Jäger,LOC,0.0,0.0,de,1
+mv,mv,LOC,0.0,0.0,de,1
+Ludwigslust,Ludwigslust,LOC,0.0,0.0,de,1
 dreißig-neun Grad,dreißig-neun Grad,LOC,0.0,1.0,de,1
 Verdammte Sonne,Verdammte Sonne,LOC,0.0,0.0,de,1
 Thymari,Thymari,LOC,-0.85,0.0,de,1
+Vogelsbergkreis brann,Vogelsbergkreis brann,LOC,0.0,0.0,de,1
+Wallennrod,Wallennrod,LOC,0.4666666666666666,0.3333333333333333,de,1
 Land Tirol,Land Tirol,LOC,-0.7,0.0,de,1
 Herz-Jesu-Feuer,Herz-Jesu-Feuer,LOC,-0.7,0.0,de,1
-Extreme Hitzewelle,Extreme Hitzewelle,LOC,0.0,1.0,de,1
-Bundesweit,Bundesweit,LOC,-0.35,0.5,de,1
-Landesumweltministeriums,Landesumweltministeriums,LOC,0.0,0.0,de,1
-Heidehäuse…,Heidehäuse…,LOC,0.7,0.0,de,1
-Vie…,Vie…,LOC,-1.0,0.0,de,1
-Großflächiger Waldbrand,Großflächiger Waldbrand,LOC,0.0,0.0,de,1
-sächsisch-brandenburgischen Grenze,sächsisch-brandenburgischen Grenze,LOC,0.0,0.0,de,1
-kämpfen me…,kämpfen me…,LOC,0.0,0.0,de,1
-Katastrophenalar…,Katastrophenalar…,LOC,0.0,0.0,de,1
-Radebeul-Wahnsdorf,Radebeul-Wahnsdorf,LOC,0.0,0.0,de,1
-Dresden-Nord,Dresden-Nord,LOC,0.0,0.0,de,1
-Bundeslands,Bundeslands,LOC,-0.5,0.5,de,1
-Rande d…,Rande d…,LOC,0.0,0.0,de,1
+Vogelsbergkreis,Vogelsbergkreis,LOC,0.7,0.0,de,1
+Grumbach,Grumbach,LOC,0.0,0.0,de,1
+Sengscheid,Sengscheid,LOC,0.0,0.0,de,1
+Sta…,Sta…,LOC,0.0,0.0,de,1
+Land Salzburg,Land Salzburg,LOC,0.0,1.0,de,1
+Präfektur und de…,Präfektur und de…,LOC,0.0,0.0,de,1
+Evakuierungsanordnungen,Evakuierungsanordnungen,LOC,0.0,0.0,de,1
+Pisak,Pisak,LOC,0.0,0.0,de,1
+Iven,Iven,LOC,0.0,0.0,de,1
+Smogwarnungen,Smogwarnungen,LOC,-0.7,0.0,de,1
+Gießen,Gießen,LOC,0.0,0.0,de,1
+Prince Albert,Prince Albert,LOC,0.7,0.0,de,1
+Westküste,Westküste,LOC,1.0,0.0,de,1
+Walbränden,Walbränden,LOC,0.0,0.0,de,1
+Statistischen Bundesamts,Statistischen Bundesamts,LOC,0.0,0.0,de,1
+Erdrutsch,Erdrutsch,LOC,0.0,0.0,de,1
+Landes Hessen,Landes Hessen,LOC,0.0,0.0,de,1
+Flin Flon,Flin Flon,LOC,0.0,0.0,de,1
+Saskat,Saskat,LOC,0.0,0.0,de,1
+Fulda,Fulda,LOC,0.0,0.0,de,1
+Heidesee,Heidesee,LOC,0.0,0.0,de,1
+Wernigeröder,Wernigeröder,LOC,0.0,0.0,de,1
+Pasewalk,Pasewalk,LOC,0.0,0.0,de,1
+Belling,Belling,LOC,0.0,0.0,de,1
+Höchsttemperaturen,Höchsttemperaturen,LOC,0.0,0.0,de,1
+Gesundheitswarnungen,Gesundheitswarnungen,LOC,0.0,0.0,de,1
+Nordamerikas,Nordamerikas,LOC,-1.0,0.0,de,1
+alpinen Geländes,alpinen Geländes,LOC,-1.0,0.0,de,1
+Waldbrandeinsätzen,Waldbrandeinsätzen,LOC,-1.0,0.0,de,1
+Montréal,Montréal,LOC,-0.5666666666666667,0.3333333333333333,de,1
+12.05.202...,12.05.202...,LOC,0.7,0.0,de,1
+Scott…,Scott…,LOC,-0.7,0.0,de,1
+Altkönigs,Altkönigs,LOC,0.0,0.0,de,1
+Schierke im Harz,Schierke im Harz,LOC,0.0,0.0,de,1
+Burg,Burg,LOC,0.0,0.0,de,1
+Wachenheim/Weinstraße,Wachenheim/Weinstraße,LOC,0.0,0.0,de,1
+Forum,Forum,LOC,0.0,0.0,de,1
+Odenwald +++ Kronberg,Odenwald +++ Kronberg,LOC,0.0,0.0,de,1
+Landtag +++ Waldbrand,Landtag +++ Waldbrand,LOC,0.0,0.0,de,1
+Boiling Water,Boiling Water,LOC,-0.2333333333333333,0.0,de,1
+Kreisbrandinspektion Erlangen-Höchstadt,Kreisbrandinspektion Erlangen-Höchstadt,LOC,0.0,0.0,de,1
+Unterfranken,Unterfranken,LOC,0.0,0.0,de,1
+Dürre-Monitor,Dürre-Monitor,LOC,-1.0,0.0,de,1
+Feuertonne,Feuertonne,LOC,0.0,0.0,de,1
+Bundesstraße lahm,Bundesstraße lahm,LOC,-1.0,0.0,de,1
+Salzmest,Salzmest,LOC,0.0,0.0,de,1
+Kinder,Kinder,LOC,0.0,0.0,de,1
+Saarland,Saarland,LOC,0.0,0.0,de,1
+Landratsamt Erlangen-Höchst,Landratsamt Erlangen-Höchst,LOC,-1.0,0.0,de,1
+Mittwochvo,Mittwochvo,LOC,0.0,0.0,de,1
+Feueralarm im Harz!,Feueralarm im Harz!,LOC,0.0,0.0,de,1
+Kleinen Winterberg,Kleinen Winterberg,LOC,0.7,0.0,de,1
+Manito,Manito,LOC,0.0,0.0,de,1
+Segelflugplatzes,Segelflugplatzes,LOC,0.7,0.0,de,1
+Forsche,Forsche,LOC,0.0,0.0,de,1
+Waldbrand-Gefahr,Waldbrand-Gefahr,LOC,0.0,0.0,de,1
+Jerusalems,Jerusalems,LOC,0.35,0.5,de,1
+Löscharbei,Löscharbei,LOC,0.0,0.0,de,1
+Lac dAnnecy,Lac dAnnecy,LOC,0.7,0.0,de,1
+St. Egyden,St. Egyden,LOC,0.0,0.0,de,1
+Steinfeld,Steinfeld,LOC,0.0,0.0,de,1
+Neunkirchner,Neunkirchner,LOC,0.0,0.0,de,1
+Mega-Blackout,Mega-Blackout,LOC,1.0,0.0,de,1
+Stürme,Stürme,LOC,0.0,0.0,de,1
+Charkiw +++,Charkiw +++,LOC,0.0,0.0,de,1
+Mittelfr,Mittelfr,LOC,0.7,0.0,de,1
+Jerusalemer,Jerusalemer,LOC,0.0,0.0,de,1
+Süddeutschland,Süddeutschland,LOC,0.0,0.0,de,1
+ko…,ko…,LOC,0.0,0.0,de,1
+Löschflugzeugen,Löschflugzeugen,LOC,0.85,0.0,de,1
+Lösch-Mission,Lösch-Mission,LOC,0.0,0.0,de,1
+Medienbe,Medienbe,LOC,0.0,0.0,de,1
+Zeugen,Zeugen,LOC,0.0,0.0,de,1
+Warzen,Warzen,LOC,0.7,0.0,de,1
+Lübben,Lübben,LOC,0.0,0.0,de,1
+Beliebte Küstenorte,Beliebte Küstenorte,LOC,0.7,0.0,de,1
+sa…,sa…,LOC,0.0,0.0,de,1
+Sees,Sees,LOC,0.0,0.0,de,1
+Kreis Soest,Kreis Soest,LOC,-1.0,0.0,de,1
+Bezirk Isjum,Bezirk Isjum,LOC,0.0,0.0,de,1
+Neuhaus Kopiere,Neuhaus Kopiere,LOC,-0.7,0.0,de,1
+Alpenregion,Alpenregion,LOC,0.0,0.0,de,1
+Deutschen Wetterdienst,Deutschen Wetterdienst,LOC,0.0,0.0,de,1
+Griechen,Griechen,LOC,-1.0,0.0,de,1
+Waldbrandprävention,Waldbrandprävention,LOC,0.0,0.0,de,1
+Stadt Salzburg,Stadt Salzburg,LOC,0.7,0.0,de,1
+Gebirgsgauen,Gebirgsgauen,LOC,0.7,0.0,de,1
+Europäische Rechnungshof,Europäische Rechnungshof,LOC,0.0,1.0,de,1
+ERH,ERH,LOC,0.0,1.0,de,1
+EU-Hilfen,EU-Hilfen,LOC,0.0,1.0,de,1
+EU-Rechnungshof,EU-Rechnungshof,LOC,-0.7,0.0,de,1
+jlujuro,jlujuro,LOC,-1.0,0.0,de,1
+Universität Innsbruck,Universität Innsbruck,LOC,1.0,0.0,de,1
+Bekämp,Bekämp,LOC,0.0,0.0,de,1
+Berchtesgaden,Berchtesgaden,LOC,0.0,0.0,de,1
+Pot…,Pot…,LOC,0.0,0.0,de,1
+trotzde…,trotzde…,LOC,0.0,0.0,de,1
+Tennenlohe,Tennenlohe,LOC,0.0,0.0,de,1
+Oblast Charkiw,Oblast Charkiw,LOC,0.0,0.0,de,1
+Neuhaus,Neuhaus,LOC,0.0,0.0,de,1
+Röttenbach,Röttenbach,LOC,0.0,0.0,de,1
+Bezirk Izmir,Bezirk Izmir,LOC,0.0,0.0,de,1
+Puertollano,Puertollano,LOC,0.0,0.0,de,1
+nu…,nu…,LOC,0.0,0.0,de,1
+Schnee,Schnee,LOC,0.0,0.0,de,1
+Onlinenetzwerken,Onlinenetzwerken,LOC,0.0,0.0,de,1
+Breitenberg,Breitenberg,LOC,0.0,0.0,de,1
+Landeszentrums Wald,Landeszentrums Wald,LOC,0.0,0.0,de,1
+Mainz,Mainz,LOC,0.0,0.0,de,1
+Brandgebietes,Brandgebietes,LOC,0.0,0.0,de,1
+Brandgebiet,Brandgebiet,LOC,-0.7,0.0,de,1
+Saalfelder Höh,Saalfelder Höh,LOC,0.0,0.0,de,1
+Bundespolizei,Bundespolizei,LOC,0.0,0.0,de,1
+Wiesbaden,Wiesbaden,LOC,0.0,0.0,de,1
+Waffenruhe,Waffenruhe,LOC,0.0,0.0,de,1
+Rai…,Rai…,LOC,0.0,0.0,de,1
+Waldbr… [+1327 chars,Waldbr… [+1327 chars,LOC,0.0,0.0,de,1
+Raimu,Raimu,LOC,0.0,0.0,de,1
+Ha…,Ha…,LOC,0.0,0.0,de,1
+Meißen mi…,Meißen mi…,LOC,0.0,0.0,de,1
+Lüneburg,Lüneburg,LOC,-0.7,0.0,de,1
+Maschin,Maschin,LOC,0.0,0.0,de,1
+Waldbrandzentrale,Waldbrandzentrale,LOC,-0.7,0.0,de,1
+Verbandsgemeinde Lieb…,Verbandsgemeinde Lieb…,LOC,0.0,0.0,de,1
+Gazastreifen,Gazastreifen,LOC,0.0,0.0,de,1
+Waldbrandzeit,Waldbrandzeit,LOC,0.0,0.0,de,1
+Montoni-Berg,Montoni-Berg,LOC,0.7,0.0,de,1
+Mürzzuschlag,Mürzzuschlag,LOC,0.0,0.0,de,1
 Saalfeld Wald,Saalfeld Wald,LOC,0.0,0.0,de,1
 Madre-Feuer,Madre-Feuer,LOC,0.0,0.0,de,1
+Hahoe,Hahoe,LOC,-0.85,0.0,de,1
 Sommerwinde,Sommerwinde,LOC,0.0,0.0,de,1
+Arns…,Arns…,LOC,0.0,0.0,de,1
 Kreis San Luis Obispo,Kreis San Luis Obispo,LOC,0.0,0.0,de,1
 Wald-,Wald-,LOC,0.0,0.0,de,1
 Vegetationsbrand,Vegetationsbrand,LOC,0.0,0.0,de,1
 Landratsamtes Saa…,Landratsamtes Saa…,LOC,0.0,0.0,de,1
-Mürzzuschlag,Mürzzuschlag,LOC,0.0,0.0,de,1
+Arnsberg/,Arnsberg/,LOC,0.0,0.0,de,1
+Ruß,Ruß,LOC,0.0,0.0,de,1
 Donnerstagnach,Donnerstagnach,LOC,0.0,0.0,de,1
 Sachsen-Brand,Sachsen-Brand,LOC,0.7,0.0,de,1
+Stadt Sancheong,Stadt Sancheong,LOC,0.0,0.0,de,1
 Brandsaison,Brandsaison,LOC,0.0,0.0,de,1
 Griechenla,Griechenla,LOC,0.0,0.0,de,1
+Hohenems,Hohenems,LOC,0.0,0.0,de,1
 Brandburg,Brandburg,LOC,0.0,0.0,de,1
 Notfall-Fonds,Notfall-Fonds,LOC,0.0,0.0,de,1
 Ath,Ath,LOC,0.0,0.0,de,1
-Ruß,Ruß,LOC,0.0,0.0,de,1
-Zeithainer,Zeithainer,LOC,0.0,0.0,de,1
-Na…,Na…,LOC,0.0,0.0,de,1
-Hof,Hof,LOC,0.7,0.0,de,1
-Siche…,Siche…,LOC,0.0,0.0,de,1
+Verbandsgemeinde Lieb… [+534 chars,Verbandsgemeinde Lieb… [+534 chars,LOC,0.0,0.0,de,1
+Krimmler Wasserfällen,Krimmler Wasserfällen,LOC,-1.0,0.0,de,1
+Missouri,Missouri,LOC,0.0,0.0,de,1
+Les Pennes-Mirabeau,Les Pennes-Mirabeau,LOC,0.0,0.0,de,1
+Flughafen Marseille,Flughafen Marseille,LOC,0.0,0.0,de,1
+Flächenbrandes,Flächenbrandes,LOC,0.0,0.0,de,1
+Lloyds,Lloyds,LOC,-1.0,0.0,de,1
+Vorläufiges,Vorläufiges,LOC,0.0,0.0,de,1
+Frühlingsbeginns,Frühlingsbeginns,LOC,0.7,0.0,de,1
+Waldbrand bed…,Waldbrand bed…,LOC,0.0,0.0,de,1
+Payerbach,Payerbach,LOC,1.0,0.0,de,1
+Di…,Di…,LOC,0.0,0.0,de,1
+Flughafen von Frankreich,Flughafen von Frankreich,LOC,0.0,0.0,de,1
+Fr…,Fr…,LOC,0.0,0.0,de,1
+Bundesstaat,Bundesstaat,LOC,0.0,0.0,de,1
+Hafe…,Hafe…,LOC,0.0,0.0,de,1
+Klimahera,Klimahera,LOC,0.0,0.0,de,1
+Côte,Côte,LOC,0.7,0.0,de,1
+Waldbrandsituation,Waldbrandsituation,LOC,0.0,0.0,de,1
+Marseilles,Marseilles,LOC,0.0,0.0,de,1
+Klimaherausforderungen,Klimaherausforderungen,LOC,0.0,0.0,de,1
+Zeithain u…,Zeithain u…,LOC,0.0,0.3333333333333333,de,1
+Landesforst,Landesforst,LOC,-1.0,0.0,de,1
+Spezialflugzeuge,Spezialflugzeuge,LOC,0.0,0.0,de,1
+Bodenvegetation,Bodenvegetation,LOC,0.0,0.0,de,1
+Grein,Grein,LOC,0.0,0.0,de,1
+Landratsamts Saalfeld-Rudolstadt,Landratsamts Saalfeld-Rudolstadt,LOC,0.0,0.0,de,1
+Bezirk Perg,Bezirk Perg,LOC,0.0,0.0,de,1
+Wetterservice,Wetterservice,LOC,-0.7,0.0,de,1
+Stürmen,Stürmen,LOC,-1.0,0.0,de,1
+Landratsamt Meißen n…,Landratsamt Meißen n…,LOC,0.0,0.0,de,1
+Feuer im Wald,Feuer im Wald,LOC,0.0,0.0,de,1
+Landratsamtes Saalf,Landratsamtes Saalf,LOC,0.0,0.0,de,1
+Torgau,Torgau,LOC,0.7,0.0,de,1
+Niedersc,Niedersc,LOC,0.0,1.0,de,1
+Landratsamtes Saalfeld-Rudols,Landratsamtes Saalfeld-Rudols,LOC,0.0,0.0,de,1
+F…,F…,LOC,0.7,0.0,de,1
+ver…,ver…,LOC,0.0,0.5,de,1
+Geraer,Geraer,LOC,0.0,0.0,de,1
+Bezirk Imst,Bezirk Imst,LOC,0.0,0.0,de,1
+Alarmber,Alarmber,LOC,0.0,0.0,de,1
+Tagesspiegel Checkpoint,Tagesspiegel Checkpoint,LOC,0.0,0.0,de,1
+Lag…,Lag…,LOC,0.0,0.0,de,1
+Rax-Schneeb…,Rax-Schneeb…,LOC,0.0,0.0,de,1
+Bezirk Kirchdorf,Bezirk Kirchdorf,LOC,0.0,0.0,de,1
+Großer Waldbrand,Großer Waldbrand,LOC,0.7,0.0,de,1
+Sankt Pankraz,Sankt Pankraz,LOC,0.0,0.0,de,1
+Rande d…,Rande d…,LOC,0.0,0.0,de,1
+Sü… Kopiere,Sü… Kopiere,LOC,-0.85,0.0,de,1
+Bundeslands,Bundeslands,LOC,-0.5,0.5,de,1
+lsw,lsw,LOC,0.0,0.0,de,1
+Twitter,Twitter,LOC,0.0,0.0,de,1
+Brand im Reinhardswald,Brand im Reinhardswald,LOC,0.0,0.0,de,1
+Extreme Hitzewelle,Extreme Hitzewelle,LOC,0.0,1.0,de,1
+Unwetterpotenzial,Unwetterpotenzial,LOC,0.0,1.0,de,1
+Bundesweit,Bundesweit,LOC,-0.35,0.5,de,1
+Heidehäuse…,Heidehäuse…,LOC,0.7,0.0,de,1
 Hitze-Unwetter,Hitze-Unwetter,LOC,0.0,0.0,de,1
+Sonntag,Sonntag,LOC,-0.7,0.0,de,1
+Landkreis Ludwigsburg,Landkreis Ludwigsburg,LOC,0.0,0.0,de,1
 Nachbargebieten,Nachbargebieten,LOC,0.0,0.0,de,1
+umgräbt,umgräbt,LOC,-1.0,0.0,de,1
 Landkreises,Landkreises,LOC,0.0,0.0,de,1
+Bodenfeuer,Bodenfeuer,LOC,0.0,0.0,de,1
+Brand am Brocken,Brand am Brocken,LOC,0.0,0.0,de,1
 Ebermannsdorf,Ebermannsdorf,LOC,0.0,0.0,de,1
 Unwettern,Unwettern,LOC,0.7,0.0,de,1
 Gewitter,Gewitter,LOC,0.7,0.0,de,1
 Vorarlberger,Vorarlberger,LOC,-0.7,0.0,de,1
 Mecklenburg,Mecklenburg,LOC,0.0,0.0,de,1
 Gase,Gase,LOC,0.0,0.0,de,1
+BILD-Interview,BILD-Interview,LOC,0.0,0.0,de,1
+Proble…,Proble…,LOC,0.0,0.0,de,1
+Landkreis Elbe-Elster,Landkreis Elbe-Elster,LOC,0.0,0.0,de,1
+Cosco,Cosco,LOC,0.0,0.0,de,1
+Kempten,Kempten,LOC,0.2333333333333333,0.0,de,1
+Garmisch-Partenkirchen,Garmisch-Partenkirchen,LOC,0.2333333333333333,0.0,de,1
+Galiciens,Galiciens,LOC,-1.0,0.0,de,1
+Burg…,Burg…,LOC,0.0,0.0,de,1
+Vinschgauer,Vinschgauer,LOC,0.7,0.0,de,1
+Gössering,Gössering,LOC,0.0,0.0,de,1
+Elster,Elster,LOC,-0.7,0.0,de,1
+Flächenlandes wüte…,Flächenlandes wüte…,LOC,-0.7,0.0,de,1
+Heiligenblut,Heiligenblut,LOC,0.0,0.0,de,1
+Bodetal,Bodetal,LOC,0.0,0.0,de,1
+Darmstadt,Darmstadt,LOC,0.0,0.0,de,1
+Regierungspräsidium Darm…,Regierungspräsidium Darm…,LOC,0.0,0.0,de,1
+Bitcoin-Besitzer,Bitcoin-Besitzer,LOC,0.2333333333333333,0.6666666666666666,de,1
+Nacht,Nacht,LOC,0.0,0.0,de,1
+Hotel Wörthersee,Hotel Wörthersee,LOC,0.0,0.0,de,1
+Sprengplatzes,Sprengplatzes,LOC,-0.7,0.0,de,1
+Brandenburg +++ Spanien,Brandenburg +++ Spanien,LOC,0.0,0.0,de,1
+Wörthersee,Wörthersee,LOC,0.0,0.0,de,1
+Wörthersee-Ostbucht,Wörthersee-Ostbucht,LOC,0.0,0.0,de,1
 Bay,Bay,LOC,0.0,0.0,de,1
 Lehof,Lehof,LOC,0.0,0.0,de,1
-Sporthalle,Sporthalle,LOC,0.0,0.0,de,1
+Dresden-Nord,Dresden-Nord,LOC,0.0,0.0,de,1
 Oberfranken,Oberfranken,LOC,0.7,0.0,de,1
+Eberswalde,Eberswalde,LOC,0.0,0.0,de,1
+Andong,Andong,LOC,0.0,0.0,de,1
+Katastrophenschu,Katastrophenschu,LOC,-1.0,0.0,de,1
+Katastrophenalarm,Katastrophenalarm,LOC,0.0,0.0,de,1
+Kontrolle +++,Kontrolle +++,LOC,0.0,0.0,de,1
+Tempel,Tempel,LOC,0.0,0.0,de,1
+Nachbarschaftshilfe,Nachbarschaftshilfe,LOC,0.0,0.0,de,1
+FOCUS-online-Redakteur,FOCUS-online-Redakteur,LOC,-0.15000000000000002,0.0,de,1
+Verheerend,Verheerend,LOC,-1.0,0.0,de,1
+Hof,Hof,LOC,0.7,0.0,de,1
+Promi-Metropole,Promi-Metropole,LOC,0.0,0.0,de,1
+Ostasiens,Ostasiens,LOC,-0.15000000000000002,0.0,de,1
+Na…,Na…,LOC,0.0,0.0,de,1
+Zeithainer,Zeithainer,LOC,0.0,0.0,de,1
+Vie…,Vie…,LOC,-1.0,0.0,de,1
+Großflächiger Waldbrand,Großflächiger Waldbrand,LOC,0.0,0.0,de,1
+sächsisch-brandenburgischen Grenze,sächsisch-brandenburgischen Grenze,LOC,0.0,0.0,de,1
+kämpfen me…,kämpfen me…,LOC,0.0,0.0,de,1
+Katastrophenalar…,Katastrophenalar…,LOC,0.0,0.0,de,1
+Radebeul-Wahnsdorf,Radebeul-Wahnsdorf,LOC,0.0,0.0,de,1
+Osterzündler,Osterzündler,LOC,0.0,0.0,de,1
+St…,St…,LOC,0.0,0.0,de,1
+Ex-Feuerwehrmann,Ex-Feuerwehrmann,LOC,0.0,0.0,de,1
+Gounsa-Tempel,Gounsa-Tempel,LOC,0.0,0.0,de,1
+Siche…,Siche…,LOC,0.0,0.0,de,1
+Sporthalle,Sporthalle,LOC,0.0,0.0,de,1
+Serien-Brandstifter,Serien-Brandstifter,LOC,0.0,0.0,de,1
+(47) zum,(47) zum,LOC,0.0,0.0,de,1
+Lützelbach,Lützelbach,LOC,0.0,0.0,de,1
+Egestorf,Egestorf,LOC,0.0,0.0,de,1
 vo…,vo…,LOC,0.7,0.0,de,1
 Oberpfalz si…,Oberpfalz si…,LOC,0.0,0.0,de,1
 Ganzalm,Ganzalm,LOC,0.0,0.0,de,1
@@ -1290,121 +1402,10 @@ Bezirk Bruck-Mürzzuschlag,Bezirk Bruck-Mürzzuschlag,LOC,0.0,0.0,de,1
 Wildalpen,Wildalpen,LOC,0.0,0.0,de,1
 Liezen,Liezen,LOC,0.0,0.0,de,1
 Latschenfeld,Latschenfeld,LOC,0.0,0.0,de,1
+Feuer-Alarm,Feuer-Alarm,LOC,0.0,0.0,de,1
+Evendorf,Evendorf,LOC,0.0,0.0,de,1
+Naturpark Lüneburger Heide,Naturpark Lüneburger Heide,LOC,0.0,0.0,de,1
+Einsetzender Regen,Einsetzender Regen,LOC,0.7,0.0,de,1
+Bezirk Uiseong,Bezirk Uiseong,LOC,0.0,0.0,de,1
 Andernach,Andernach,LOC,0.0,0.0,de,1
-St…,St…,LOC,0.0,0.0,de,1
-Katastrophenalarm,Katastrophenalarm,LOC,0.0,0.0,de,1
-Kontrolle +++,Kontrolle +++,LOC,0.0,0.0,de,1
-Übersic,Übersic,LOC,0.0,0.0,de,1
-Bautzen,Bautzen,LOC,0.0,0.0,de,1
-Görlitz,Görlitz,LOC,0.0,0.0,de,1
-kroatischen Küste,kroatischen Küste,LOC,0.0,0.0,de,1
-Wernigeröder,Wernigeröder,LOC,0.0,0.0,de,1
-Fulda,Fulda,LOC,0.0,0.0,de,1
-Landes Hessen,Landes Hessen,LOC,0.0,0.0,de,1
-Gießen,Gießen,LOC,0.0,0.0,de,1
-12.05.202...,12.05.202...,LOC,0.7,0.0,de,1
-Altkönigs,Altkönigs,LOC,0.0,0.0,de,1
-Schierke im Harz,Schierke im Harz,LOC,0.0,0.0,de,1
-Kleinen Winterberg,Kleinen Winterberg,LOC,0.7,0.0,de,1
-Feueralarm im Harz!,Feueralarm im Harz!,LOC,0.0,0.0,de,1
-Mittwochvo,Mittwochvo,LOC,0.0,0.0,de,1
-Kinder,Kinder,LOC,0.0,0.0,de,1
-Salzmest,Salzmest,LOC,0.0,0.0,de,1
-Dürre-Monitor,Dürre-Monitor,LOC,-1.0,0.0,de,1
-Landtag +++ Waldbrand,Landtag +++ Waldbrand,LOC,0.0,0.0,de,1
-Odenwald +++ Kronberg,Odenwald +++ Kronberg,LOC,0.0,0.0,de,1
-Forum,Forum,LOC,0.0,0.0,de,1
-Burg,Burg,LOC,0.0,0.0,de,1
-Luxemburg,Luxemburg,LOC,0.0,0.0,de,1
-Wachenheim/Weinstraße,Wachenheim/Weinstraße,LOC,0.0,0.0,de,1
-Boiling Water,Boiling Water,LOC,-0.2333333333333333,0.0,de,1
-Kreisbrandinspektion Erlangen-Höchstadt,Kreisbrandinspektion Erlangen-Höchstadt,LOC,0.0,0.0,de,1
-Unterfranken,Unterfranken,LOC,0.0,0.0,de,1
-Feuertonne,Feuertonne,LOC,0.0,0.0,de,1
-Bundesstraße lahm,Bundesstraße lahm,LOC,-1.0,0.0,de,1
-Saarland,Saarland,LOC,0.0,0.0,de,1
-Höchsttemperaturen,Höchsttemperaturen,LOC,0.0,0.0,de,1
-Segelflugplatzes,Segelflugplatzes,LOC,0.7,0.0,de,1
-Heidesee,Heidesee,LOC,0.0,0.0,de,1
-Lübben,Lübben,LOC,0.0,0.0,de,1
-Waldbrand am Großen Feldberg +++ Liveblog,Waldbrand am Großen Feldberg +++ Liveblog,LOC,0.7,0.0,de,1
-Großen Feldberg,Großen Feldberg,LOC,0.0,0.0,de,1
-Swiss Re,Swiss Re,LOC,0.0,0.0,de,1
-Victoria vo…,Victoria vo…,LOC,0.0,0.0,de,1
-Bayreuth,Bayreuth,LOC,0.0,0.0,de,1
-Ansbach,Ansbach,LOC,0.0,0.0,de,1
-Anklam,Anklam,LOC,0.0,0.0,de,1
-B199,B199,LOC,0.0,0.0,de,1
-Iven,Iven,LOC,0.0,0.0,de,1
-Waldbrand-Gefahr,Waldbrand-Gefahr,LOC,0.0,0.0,de,1
-sa…,sa…,LOC,0.0,0.0,de,1
-Medienbe,Medienbe,LOC,0.0,0.0,de,1
-Waldbrandprävention,Waldbrandprävention,LOC,0.0,0.0,de,1
-Lösch-Mission,Lösch-Mission,LOC,0.0,0.0,de,1
-Löschflugzeugen,Löschflugzeugen,LOC,0.85,0.0,de,1
-ko…,ko…,LOC,0.0,0.0,de,1
-Jerusalemer,Jerusalemer,LOC,0.0,0.0,de,1
-Jerusalems,Jerusalems,LOC,0.35,0.5,de,1
-Charkiw +++,Charkiw +++,LOC,0.0,0.0,de,1
-Bezirk Isjum,Bezirk Isjum,LOC,0.0,0.0,de,1
-Oblast Charkiw,Oblast Charkiw,LOC,0.0,0.0,de,1
-Tennenlohe,Tennenlohe,LOC,0.0,0.0,de,1
-Berchtesgaden,Berchtesgaden,LOC,0.0,0.0,de,1
-Bekämp,Bekämp,LOC,0.0,0.0,de,1
-Landratsamt Erlangen-Höchst,Landratsamt Erlangen-Höchst,LOC,-1.0,0.0,de,1
-Manito,Manito,LOC,0.0,0.0,de,1
-Scott…,Scott…,LOC,-0.7,0.0,de,1
-Stürme,Stürme,LOC,0.0,0.0,de,1
-trotzde…,trotzde…,LOC,0.0,0.0,de,1
-Neuhaus,Neuhaus,LOC,0.0,0.0,de,1
-Neuhaus Kopiere,Neuhaus Kopiere,LOC,-0.7,0.0,de,1
-Kreis Soest,Kreis Soest,LOC,-1.0,0.0,de,1
-Sees,Sees,LOC,0.0,0.0,de,1
-Löscharbei,Löscharbei,LOC,0.0,0.0,de,1
-Lac dAnnecy,Lac dAnnecy,LOC,0.7,0.0,de,1
-St. Egyden,St. Egyden,LOC,0.0,0.0,de,1
-Steinfeld,Steinfeld,LOC,0.0,0.0,de,1
-Neunkirchner,Neunkirchner,LOC,0.0,0.0,de,1
-Mega-Blackout,Mega-Blackout,LOC,1.0,0.0,de,1
-Mittelfr,Mittelfr,LOC,0.7,0.0,de,1
-Universität Innsbruck,Universität Innsbruck,LOC,1.0,0.0,de,1
-Zeugen,Zeugen,LOC,0.0,0.0,de,1
-Warzen,Warzen,LOC,0.7,0.0,de,1
-Beliebte Küstenorte,Beliebte Küstenorte,LOC,0.7,0.0,de,1
-Evakuierungsanordnungen,Evakuierungsanordnungen,LOC,0.0,0.0,de,1
-Autob,Autob,LOC,0.0,0.0,de,1
-Ostniedersachsen,Ostniedersachsen,LOC,0.85,0.0,de,1
-Landkreis Lüneburg,Landkreis Lüneburg,LOC,0.85,0.0,de,1
-Kroatische Adria-Küste,Kroatische Adria-Küste,LOC,0.0,0.0,de,1
-Flammen-Inferno,Flammen-Inferno,LOC,0.7,0.0,de,1
-An…,An…,LOC,0.0,0.0,de,1
-kroatischer Küste,kroatischer Küste,LOC,0.0,0.0,de,1
-Pot…,Pot…,LOC,0.0,0.0,de,1
-jlujuro,jlujuro,LOC,-1.0,0.0,de,1
-Prince Albert,Prince Albert,LOC,0.7,0.0,de,1
-alpinen Geländes,alpinen Geländes,LOC,-1.0,0.0,de,1
-Westküste,Westküste,LOC,1.0,0.0,de,1
-Walbränden,Walbränden,LOC,0.0,0.0,de,1
-Statistischen Bundesamts,Statistischen Bundesamts,LOC,0.0,0.0,de,1
-Erdrutsch,Erdrutsch,LOC,0.0,0.0,de,1
-Flin Flon,Flin Flon,LOC,0.0,0.0,de,1
-Saskat,Saskat,LOC,0.0,0.0,de,1
-Smogwarnungen,Smogwarnungen,LOC,-0.7,0.0,de,1
-Pasewalk,Pasewalk,LOC,0.0,0.0,de,1
-Belling,Belling,LOC,0.0,0.0,de,1
-Gesundheitswarnungen,Gesundheitswarnungen,LOC,0.0,0.0,de,1
-Nordamerikas,Nordamerikas,LOC,-1.0,0.0,de,1
-Waldbrandeinsätzen,Waldbrandeinsätzen,LOC,-1.0,0.0,de,1
-EU-Rechnungshof,EU-Rechnungshof,LOC,-0.7,0.0,de,1
-Montréal,Montréal,LOC,-0.5666666666666667,0.3333333333333333,de,1
-Forsche,Forsche,LOC,0.0,0.0,de,1
-Süddeutschland,Süddeutschland,LOC,0.0,0.0,de,1
-Alpenregion,Alpenregion,LOC,0.0,0.0,de,1
-Deutschen Wetterdienst,Deutschen Wetterdienst,LOC,0.0,0.0,de,1
-Griechen,Griechen,LOC,-1.0,0.0,de,1
-Stadt Salzburg,Stadt Salzburg,LOC,0.7,0.0,de,1
-Gebirgsgauen,Gebirgsgauen,LOC,0.7,0.0,de,1
-Europäische Rechnungshof,Europäische Rechnungshof,LOC,0.0,1.0,de,1
-ERH,ERH,LOC,0.0,1.0,de,1
-EU-Hilfen,EU-Hilfen,LOC,0.0,1.0,de,1
 AP,AP,LOC,0.0,1.0,de,1
