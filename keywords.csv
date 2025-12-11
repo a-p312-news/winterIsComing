@@ -1,15 +1,15 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Waldbrände',de,Hazard,#4287f5,#3b4a63,3,0.05272774453029187
+'Waldbrände',de,Hazard,#4287f5,#3b4a63,3,0.0527277445302918
 'Waldbrand',de,Hazard,#4287f5,#638ed4,2,0.0448032056650004
 'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,1,0.0439633409029705
 'Waldbrand Feuerwehr',de,Mitigation,#9e3215,#802d16,1,0.0224047700031552
-'Waldbrand Todesopfer',de,Impacts,#a89216,#87830f,1,0.0221010622221113
 'Waldbrand Gebäude',de,Impacts,#a89216,#a89216,1,0.0217447149411371
 'Waldbrand Evakuierung',de,Mitigation,#9e3215,#9e3215,1,0.0208909907978777
 'Waldbrand Rauch',de,Impacts,#a89216,#bfba22,1,0.0202957967838586
 'Waldbrand Wetter',de,Causes,#679e2c,#61d01c,1,0.0196942701019484
 'Waldbrand Wind',de,Causes,#679e2c,#679e2c,1,0.0195896749038671
 'Waldbrand Hitze',de,Causes,#679e2c,#7db344,1,0.0188420014339047
+'Waldbrand Todesopfer',de,Impacts,#a89216,#87830f,1,0.018785902888794604
 'Waldbrand Tote',de,Impacts,#a89216,#87830f,1,0.0181257316463953
 'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.0172538317641821
 'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,1,0.0156160361975501
