@@ -1,110 +1,111 @@
 ,phrase,label,sentiment,subjectivity,language,count
 Pedro Sánchez,Pedro Sánchez,PER,-0.09999999999999999,0.0,de,9
-Jörg Kachelmann,Jörg Kachelmann,PER,-0.125,0.0,de,8
-Munich Re,Munich Re,PER,-0.26249999999999996,0.0,de,8
 Prinz Harry,Prinz Harry,PER,0.037500000000000006,0.0,de,8
+Munich Re,Munich Re,PER,-0.26249999999999996,0.0,de,8
+Jörg Kachelmann,Jörg Kachelmann,PER,-0.125,0.0,de,8
 Hannes Jaenicke,Hannes Jaenicke,PER,0.0,0.0,de,6
-Raimund Engel,Raimund Engel,PER,-0.27999999999999997,0.0,de,5
 Ralf Moeller,Ralf Moeller,PER,-0.33999999999999997,0.2,de,5
 Joe Biden,Joe Biden,PER,0.2,0.0,de,5
+Raimund Engel,Raimund Engel,PER,-0.27999999999999997,0.0,de,5
 Dave Grohl,Dave Grohl,PER,0.425,0.0,de,4
-Luisa Neubauer,Luisa Neubauer,PER,0.0,0.0,de,4
-Donald Trump,Donald Trump,PER,-0.175,0.0,de,4
+Josef Huber,Josef Huber,PER,0.25,0.0,de,4
 Christian Petzold,Christian Petzold,PER,-0.175,0.0,de,4
 Gifford Fire,Gifford Fire,PER,0.0,0.0,de,4
-Josef Huber,Josef Huber,PER,0.25,0.0,de,4
-Michael Kretschmer,Michael Kretschmer,PER,-0.2333333333333333,0.0,de,3
-Sebastian Weber,Sebastian Weber,PER,-0.5666666666666667,0.0,de,3
+Donald Trump,Donald Trump,PER,-0.175,0.0,de,4
+Luisa Neubauer,Luisa Neubauer,PER,0.0,0.0,de,4
 Nina Bußmann,Nina Bußmann,PER,-1.0,0.0,de,3
-Billie Eilish,Billie Eilish,PER,-0.2333333333333333,0.0,de,3
 Meryl Streep,Meryl Streep,PER,0.4666666666666666,0.0,de,3
+Billie Eilish,Billie Eilish,PER,-0.2333333333333333,0.0,de,3
 Eva Benetatou,Eva Benetatou,PER,-0.2333333333333333,0.0,de,3
+Sebastian Weber,Sebastian Weber,PER,-0.5666666666666667,0.0,de,3
 Ulrich Cimolino,Ulrich Cimolino,PER,0.0,0.0,de,3
-Tom Walek,Tom Walek,PER,1.0,0.0,de,2
-Sandra König,Sandra König,PER,1.0,0.0,de,2
-Peter Ondrich,Peter Ondrich,PER,0.0,0.0,de,2
-Pedro Sanchez,Pedro Sanchez,PER,0.0,0.0,de,2
-Gary Hall,Gary Hall,PER,-0.85,0.0,de,2
-Sören Pirk,Sören Pirk,PER,0.7,0.0,de,2
-Gustav Mahlers,Gustav Mahlers,PER,0.0,0.0,de,2
-Benjamin Netanjahu,Benjamin Netanjahu,PER,0.35,0.0,de,2
+Michael Kretschmer,Michael Kretschmer,PER,-0.2333333333333333,0.0,de,3
 Reiner Haseloff,Reiner Haseloff,PER,0.0,0.0,de,2
-Ibrahim Yumakli,Ibrahim Yumakli,PER,0.0,0.0,de,2
-Forstminister Ibrahim Yumakli,Forstminister Ibrahim Yumakli,PER,0.0,0.0,de,2
-Angefacht von Santa-Ana-Winden,Angefacht von Santa-Ana-Winden,PER,0.0,0.0,de,2
-Volker Türk,Volker Türk,PER,0.5375,0.0,de,2
-Petra Wagner,Petra Wagner,PER,0.0,0.0,de,2
-Philip Schega,Philip Schega,PER,0.0,0.0,de,2
 Auffrischende Winde,Auffrischende Winde,PER,0.0,0.0,de,2
-Joachim Wenning,Joachim Wenning,PER,0.0,0.0,de,2
+Peter Ondrich,Peter Ondrich,PER,0.0,0.0,de,2
+Philip Schega,Philip Schega,PER,0.0,0.0,de,2
+Petra Wagner,Petra Wagner,PER,0.0,0.0,de,2
+Sandra König,Sandra König,PER,1.0,0.0,de,2
+Tom Walek,Tom Walek,PER,1.0,0.0,de,2
+Volker Türk,Volker Türk,PER,0.5375,0.0,de,2
+Pedro Sanchez,Pedro Sanchez,PER,0.0,0.0,de,2
+Forstminister Ibrahim Yumakli,Forstminister Ibrahim Yumakli,PER,0.0,0.0,de,2
+Gustav Mahlers,Gustav Mahlers,PER,0.0,0.0,de,2
+Angefacht von Santa-Ana-Winden,Angefacht von Santa-Ana-Winden,PER,0.0,0.0,de,2
+Sören Pirk,Sören Pirk,PER,0.7,0.0,de,2
 Trockenes Wetter,Trockenes Wetter,PER,0.0,0.0,de,2
-Erdbeobachtungsdienst Copernicus,Erdbeobachtungsdienst Copernicus,PER,0.0,0.0,de,2
-Andrij Parubij,Andrij Parubij,PER,0.0,0.0,de,2
-Bruce Willis,Bruce Willis,PER,0.0,0.0,de,2
-Johann Goldammer,Johann Goldammer,PER,0.0,0.0,de,2
-Wechselnde Wetterphasen,Wechselnde Wetterphasen,PER,0.35,0.5,de,2
-Wladimir Putin,Wladimir Putin,PER,0.0,0.5,de,2
-David Byrne,David Byrne,PER,0.5,0.0,de,2
-Thea Gottschalk,Thea Gottschalk,PER,-0.35,0.0,de,2
+Benjamin Netanjahu,Benjamin Netanjahu,PER,0.35,0.0,de,2
+Ibrahim Yumakli,Ibrahim Yumakli,PER,0.0,0.0,de,2
+Gary Hall,Gary Hall,PER,-0.85,0.0,de,2
+Joachim Wenning,Joachim Wenning,PER,0.0,0.0,de,2
+Klimawandeldienst Copernicus,Klimawandeldienst Copernicus,PER,0.0,0.0,de,2
 Andreas Kroemer,Andreas Kroemer,PER,1.0,0.0,de,2
+Wladimir Putin,Wladimir Putin,PER,0.0,0.5,de,2
 Jan Südmersen,Jan Südmersen,PER,-0.35,0.0,de,2
-Josivaldo Lucas Galvão Silva,Josivaldo Lucas Galvão Silva,PER,0.0,0.0,de,2
+Thea Gottschalk,Thea Gottschalk,PER,-0.35,0.0,de,2
+Johann Goldammer,Johann Goldammer,PER,0.0,0.0,de,2
 Gina Ross,Gina Ross,PER,0.0,0.0,de,2
+Erdbeobachtungsdienst Copernicus,Erdbeobachtungsdienst Copernicus,PER,0.0,0.0,de,2
 Edgar McGregor,Edgar McGregor,PER,0.0,0.0,de,2
+David Byrne,David Byrne,PER,0.5,0.0,de,2
+Bruce Willis,Bruce Willis,PER,0.0,0.0,de,2
+Wechselnde Wetterphasen,Wechselnde Wetterphasen,PER,0.35,0.5,de,2
+Josivaldo Lucas Galvão Silva,Josivaldo Lucas Galvão Silva,PER,0.0,0.0,de,2
+Andrij Parubij,Andrij Parubij,PER,0.0,0.0,de,2
+Sebastian Kahnert,Sebastian Kahnert,PER,-0.7,0.0,de,1
+Megan Weinraub,Megan Weinraub,PER,0.0,0.0,de,1
 Horst Friedrich,Horst Friedrich,PER,0.0,0.0,de,1
 nan Den,nan Den,PER,0.0,0.0,de,1
 Silke Hahne,Silke Hahne,PER,0.0,0.0,de,1
-Max Walker-Silverman,Max Walker-Silverman,PER,-0.7,0.0,de,1
-Andreas Goldschmidt,Andreas Goldschmidt,PER,0.0,0.0,de,1
 Jonathan R,Jonathan R,PER,0.0,0.0,de,1
 Nikos Logginos,Nikos Logginos,PER,1.0,0.0,de,1
-nan Die Feuerwehr,nan Die Feuerwehr,PER,0.0,0.0,de,1
 nan Löschflugzeuge,nan Löschflugzeuge,PER,0.7,0.0,de,1
-Marcelo Rebelo,Marcelo Rebelo,PER,-0.7,0.0,de,1
+Max Walker-Silverman,Max Walker-Silverman,PER,-0.7,0.0,de,1
 Josh O’Connor,Josh O’Connor,PER,-0.7,0.0,de,1
-Thomas Keil,Thomas Keil,PER,-0.15000000000000002,0.0,de,1
-Sina Rauch,Sina Rauch,PER,0.0,0.0,de,1
-Katastrophenschutzminister Riad Saleh,Katastrophenschutzminister Riad Saleh,PER,0.0,0.0,de,1
 Christian Hermelingmeier,Christian Hermelingmeier,PER,0.0,0.0,de,1
-Michael Gunter Müller,Michael Gunter Müller,PER,0.0,0.0,de,1
-Megan Weinraub,Megan Weinraub,PER,0.0,0.0,de,1
+Thomas Keil,Thomas Keil,PER,-0.15000000000000002,0.0,de,1
+Andreas Bausewein,Andreas Bausewein,PER,-0.7,0.0,de,1
+Sina Rauch,Sina Rauch,PER,0.0,0.0,de,1
+nan Die Feuerwehr,nan Die Feuerwehr,PER,0.0,0.0,de,1
+Katastrophenschutzminister Riad Saleh,Katastrophenschutzminister Riad Saleh,PER,0.0,0.0,de,1
+Axel Springer Deutschla,Axel Springer Deutschla,PER,0.0,0.0,de,1
 Preston Martin,Preston Martin,PER,0.0,0.0,de,1
+Michael Gunter Müller,Michael Gunter Müller,PER,0.0,0.0,de,1
+Nacho Doce,Nacho Doce,PER,0.0,0.0,de,1
+Jesús Pacios,Jesús Pacios,PER,0.0,1.0,de,1
+Simón Rodríguez,Simón Rodríguez,PER,0.0,0.0,de,1
 Jens Spahn,Jens Spahn,PER,0.0,0.0,de,1
 Joe Chialo,Joe Chialo,PER,0.0,0.0,de,1
-Nacho Doce,Nacho Doce,PER,0.0,0.0,de,1
 Benoit Payan,Benoit Payan,PER,0.0,0.0,de,1
-Bruno Retailleau,Bruno Retailleau,PER,0.0,0.0,de,1
-Andreas Bausewein,Andreas Bausewein,PER,-0.7,0.0,de,1
-Sven Schulze,Sven Schulze,PER,0.0,0.0,de,1
-Katastrophenschutzministerin Eleanor Olszewski,Katastrophenschutzministerin Eleanor Olszewski,PER,-0.7,0.0,de,1
-nan Durch Waldbrände,nan Durch Waldbrände,PER,-0.35,0.5,de,1
-Jesús Pacios,Jesús Pacios,PER,0.0,1.0,de,1
-Axel Springer Deutschla,Axel Springer Deutschla,PER,0.0,0.0,de,1
 Kyriakos Mi,Kyriakos Mi,PER,0.0,0.0,de,1
-Virginia Barcones,Virginia Barcones,PER,0.7,0.0,de,1
-Todor Ovtcharov,Todor Ovtcharov,PER,0.0,0.0,de,1
-Schlimmste Waldbrand-Saison,Schlimmste Waldbrand-Saison,PER,0.0,0.0,de,1
-Gesundheitsinstitut Carlos III,Gesundheitsinstitut Carlos III,PER,-0.7,0.0,de,1
-Sengende Hitze,Sengende Hitze,PER,0.0,0.0,de,1
+Katastrophenschutzministerin Eleanor Olszewski,Katastrophenschutzministerin Eleanor Olszewski,PER,-0.7,0.0,de,1
 nan Durch,nan Durch,PER,0.0,0.0,de,1
-Shifting Baselines,Shifting Baselines,PER,0.0,0.0,de,1
-Andreas Hafermalz,Andreas Hafermalz,PER,0.0,0.0,de,1
-Alexej Nawalny,Alexej Nawalny,PER,0.0,0.0,de,1
-nan Europa,nan Europa,PER,0.0,0.0,de,1
-Marc Hoffmann,Marc Hoffmann,PER,0.0,0.0,de,1
-nan Wegen der schweren Wald,nan Wegen der schweren Wald,PER,0.0,0.0,de,1
-Kreml-Herrscher Wladimir Putin,Kreml-Herrscher Wladimir Putin,PER,0.0,0.0,de,1
-nan Spaniens,nan Spaniens,PER,0.0,0.0,de,1
-Hunderte Feuerwehrleute,Hunderte Feuerwehrleute,PER,0.7,0.0,de,1
 Klimakrisenminister Giannis Kefa,Klimakrisenminister Giannis Kefa,PER,-0.5,0.0,de,1
+Alexej Nawalny,Alexej Nawalny,PER,0.0,0.0,de,1
+Kreml-Herrscher Wladimir Putin,Kreml-Herrscher Wladimir Putin,PER,0.0,0.0,de,1
+nan Durch Waldbrände,nan Durch Waldbrände,PER,-0.35,0.5,de,1
+Marc Hoffmann,Marc Hoffmann,PER,0.0,0.0,de,1
+Shifting Baselines,Shifting Baselines,PER,0.0,0.0,de,1
+nan Wegen der schweren Wald,nan Wegen der schweren Wald,PER,0.0,0.0,de,1
+Sengende Hitze,Sengende Hitze,PER,0.0,0.0,de,1
+nan Spaniens,nan Spaniens,PER,0.0,0.0,de,1
+Gesundheitsinstitut Carlos III,Gesundheitsinstitut Carlos III,PER,-0.7,0.0,de,1
+Hunderte Feuerwehrleute,Hunderte Feuerwehrleute,PER,0.7,0.0,de,1
+Virginia Barcones,Virginia Barcones,PER,0.7,0.0,de,1
+Andreas Goldschmidt,Andreas Goldschmidt,PER,0.0,0.0,de,1
 Alois Zaussinger,Alois Zaussinger,PER,0.0,0.0,de,1
 Jose Angel Rodríguez,Jose Angel Rodríguez,PER,1.0,0.0,de,1
-Alexander Kranabetter,Alexander Kranabetter,PER,0.0,0.0,de,1
 Ernst Führich,Ernst Führich,PER,0.0,0.0,de,1
+Alexander Kranabetter,Alexander Kranabetter,PER,0.0,0.0,de,1
 Anrufer Rauch,Anrufer Rauch,PER,0.0,0.0,de,1
-Sebastian Kahnert,Sebastian Kahnert,PER,-0.7,0.0,de,1
+Marcelo Rebelo,Marcelo Rebelo,PER,-0.7,0.0,de,1
+nan Europa,nan Europa,PER,0.0,0.0,de,1
+Sven Schulze,Sven Schulze,PER,0.0,0.0,de,1
+Schlimmste Waldbrand-Saison,Schlimmste Waldbrand-Saison,PER,0.0,0.0,de,1
+Todor Ovtcharov,Todor Ovtcharov,PER,0.0,0.0,de,1
+Bruno Retailleau,Bruno Retailleau,PER,0.0,0.0,de,1
 Donald Trump Jr,Donald Trump Jr,PER,0.0,0.0,de,1
-Vasilios Vathrakogiannis,Vasilios Vathrakogiannis,PER,0.2333333333333333,0.0,de,1
+Andreas Hafermalz,Andreas Hafermalz,PER,0.0,0.0,de,1
 David Swanson,David Swanson,PER,0.7,0.0,de,1
 Cal Fire,Cal Fire,PER,0.0,0.0,de,1
 Taylor Swift,Taylor Swift,PER,0.7,0.0,de,1
@@ -122,7 +123,7 @@ Kiyoshi Fuchigami,Kiyoshi Fuchigami,PER,0.2333333333333333,0.0,de,1
 Klaus Haslinger,Klaus Haslinger,PER,1.0,0.0,de,1
 Ex-Parkwächter Jiří L,Ex-Parkwächter Jiří L,PER,0.0,0.0,de,1
 Erneut Feuerwetter,Erneut Feuerwetter,PER,0.7,0.0,de,1
-Michael Kre,Michael Kre,PER,0.0,0.0,de,1
+Vasilios Vathrakogiannis,Vasilios Vathrakogiannis,PER,0.2333333333333333,0.0,de,1
 Zachary Cole Smith,Zachary Cole Smith,PER,0.0,0.0,de,1
 Ex-THW-Präsident Alb,Ex-THW-Präsident Alb,PER,0.3333333333333333,0.0,de,1
 Steven Spielberg,Steven Spielberg,PER,-0.9,0.0,de,1
@@ -141,21 +142,21 @@ Sebastian Reining,Sebastian Reining,PER,0.0,0.0,de,1
 Trockenes Laub,Trockenes Laub,PER,-0.4666666666666666,0.3333333333333333,de,1
 Han Duck Soo,Han Duck Soo,PER,0.0,0.0,de,1
 Lim Sang Seop,Lim Sang Seop,PER,0.0,0.0,de,1
-UN-Menschenrechtskommissar Türk,UN-Menschenrechtskommissar Türk,PER,1.0,0.0,de,1
+Warnapp Nina,Warnapp Nina,PER,0.0,0.0,de,1
 Verheerende Waldbrandsaison,Verheerende Waldbrandsaison,PER,-1.0,0.0,de,1
 Thomas Karl von der,Thomas Karl von der,PER,0.0,0.0,de,1
 Bildquelle Ylvers,Bildquelle Ylvers,PER,0.0,0.0,de,1
-Post von Wagner,Post von Wagner,PER,-1.0,0.0,de,1
 Agnes Pannier-Runacher,Agnes Pannier-Runacher,PER,0.0,1.0,de,1
 Ververidis Vasilis,Ververidis Vasilis,PER,0.7,0.0,de,1
-Warnapp Nina,Warnapp Nina,PER,0.0,0.0,de,1
-Tobias G,Tobias G,PER,0.0,0.0,de,1
+UN-Menschenrechtskommissar Türk,UN-Menschenrechtskommissar Türk,PER,1.0,0.0,de,1
 Florian Kraxler,Florian Kraxler,PER,0.0,0.0,de,1
+Tobias G,Tobias G,PER,0.0,0.0,de,1
 Bodo Schackow,Bodo Schackow,PER,0.0,0.0,de,1
 Markus Beck,Markus Beck,PER,-0.10000000000000002,0.0,de,1
 Mario Voigt,Mario Voigt,PER,0.7,0.0,de,1
 Dietmar Woidke,Dietmar Woidke,PER,0.7,0.0,de,1
 Ralf Hänsel,Ralf Hänsel,PER,-0.7,0.0,de,1
+Michael Kre,Michael Kre,PER,0.0,0.0,de,1
 nan Laut,nan Laut,PER,0.0,0.0,de,1
 Moritz Pompl,Moritz Pompl,PER,0.0,0.0,de,1
 Wab Kinew,Wab Kinew,PER,-0.7,0.0,de,1
@@ -173,4 +174,4 @@ Andreas Platter,Andreas Platter,PER,-0.7,0.0,de,1
 Fortwirtschaftslandesrat Luis Walcher,Fortwirtschaftslandesrat Luis Walcher,PER,0.0,0.0,de,1
 Lucia Perez,Lucia Perez,PER,0.0,0.0,de,1
 Armin Schuster,Armin Schuster,PER,-0.7,0.0,de,1
-Simón Rodríguez,Simón Rodríguez,PER,0.0,0.0,de,1
+Post von Wagner,Post von Wagner,PER,-1.0,0.0,de,1
