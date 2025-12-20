@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,2,0.0854946799741231
 'Waldbrand Hitze',de,Causes,#679e2c,#7db344,1,0.0776184015359961
 'Waldbrände',de,Hazard,#4287f5,#3b4a63,3,0.0541918219128667
-'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,2,0.0478926475080428
-'Waldbrand',de,Hazard,#4287f5,#638ed4,2,0.035970969342962754
+'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,2,0.05145377222394164
+'Waldbrand',de,Hazard,#4287f5,#638ed4,2,0.0359709693429627
 'Waldbrand Todesopfer',de,Impacts,#a89216,#87830f,1,0.0187859028887946
 'Waldbrand Gebäude',de,Impacts,#a89216,#a89216,1,0.0186330226999665
 'Waldbrand Evakuierung',de,Mitigation,#9e3215,#9e3215,1,0.017757342178196
