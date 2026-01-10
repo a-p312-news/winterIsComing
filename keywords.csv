@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.0787723828450282
 'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,1,0.0707898734597069
 'Waldbrände',de,Hazard,#4287f5,#3b4a63,2,0.0649768297877172
-'Waldbrand',de,Hazard,#4287f5,#638ed4,2,0.04359895327271934
-'Waldbrand trocken',de,Causes,#679e2c,#61b00c,1,0.0427300733667753
+'Waldbrand',de,Hazard,#4287f5,#638ed4,2,0.0435989532727193
 'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,1,0.0369733287690972
+'Waldbrand trocken',de,Causes,#679e2c,#61b00c,1,0.036620592361759005
 'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,1,0.0339866741990251
 'Waldbrand Hitze',de,Causes,#679e2c,#7db344,1,0.0298966553123109
 'Waldbrand Gebäude',de,Impacts,#a89216,#a89216,1,0.0162881142949715
