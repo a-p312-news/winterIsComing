@@ -6,8 +6,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,1,0.0222465787299762
 'Waldbrand Hitze',de,Causes,#679e2c,#7db344,1,0.0216003334631445
 'Waldbrand trocken',de,Causes,#679e2c,#61b00c,1,0.0199222461902903
-'Waldbrand Häuser',de,Impacts,#a89216,#a89216,1,0.019820781560811865
-'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,1,0.0190165772510323
+'Waldbrand Häuser',de,Impacts,#a89216,#a89216,1,0.0198207815608118
+'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,1,0.016314105663377453
 'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.0161614568593328
 'Waldbrand Gebäude',de,Impacts,#a89216,#a89216,1,0.0142949421507257
 'Waldbrand Tote',de,Impacts,#a89216,#87830f,1,0.0136733988645205
