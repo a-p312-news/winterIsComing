@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Evakuierung',de,Mitigation,#9e3215,#9e3215,1,0.0092694436004068
 'Waldbrand Rauch',de,Impacts,#a89216,#bfba22,1,0.007387099236847
 'Waldbrand Wetter',de,Causes,#679e2c,#61d01c,1,0.0069454978685142
-'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.0068082252688854
+'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.0062370364785525895
 'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,1,0.0022574442266795
 'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,4.015641006210093e-05
 'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,2.042374699017568e-06
