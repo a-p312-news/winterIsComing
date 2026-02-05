@@ -19,5 +19,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.0068082252688854
 'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,1,0.0022574442266795
 'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,4.724283536717757e-05
-'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,2.0423746990175682e-06
-'Waldbrand heiss',de,Causes,#679e2c,#7db344,1,1.714774344270806e-09
+'Waldbrand Nationalgarde',de,Mitigation,#9e3215,#d64118,1,2.042374699017568e-06
+'Waldbrand heiss',de,Causes,#679e2c,#7db344,1,1.457558192630185e-09
