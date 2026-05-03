@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Waldbrand',de,Hazard,#4287f5,#638ed4,2,0.15315250828067994
-'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.1088929517055183
+'Waldbrand',de,Hazard,#4287f5,#638ed4,2,0.1531525082806799
 'Waldbrand Wind',de,Causes,#679e2c,#679e2c,2,0.1044696259897355
+'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.09285903894969055
 'Waldbrand Feuerwehr',de,Mitigation,#9e3215,#802d16,2,0.0733323538584426
 'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.0702361697612511
 'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,2,0.06417227871119
