@@ -11,10 +11,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,1,0.0346551442570014
 'Waldbrände',de,Hazard,#4287f5,#3b4a63,2,0.0327741808497616
 'Waldbrand Rauch',de,Impacts,#a89216,#bfba22,1,0.0203849364308595
-'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,2,0.00975852466225097
+'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,2,0.0097585246622509
 'Waldbrand Häuser',de,Impacts,#a89216,#a89216,1,0.0068739780450794
 'Waldbrand Hitze',de,Causes,#679e2c,#7db344,1,0.0055440506709922
-'Waldbrand Gebäude',de,Impacts,#a89216,#a89216,1,0.0047326459318283
+'Waldbrand Gebäude',de,Impacts,#a89216,#a89216,1,0.004322779042054054
 'Waldbrand Todesopfer',de,Impacts,#a89216,#87830f,1,0.0036988967211263
 'Waldbrand Tote',de,Impacts,#a89216,#87830f,1,0.0031669908903122
 'Waldbrand Evakuierung',de,Mitigation,#9e3215,#9e3215,1,0.0029715712394054
