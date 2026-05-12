@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,2,0.1049532773590569
 'Waldbrand Feuerwehr',de,Mitigation,#9e3215,#802d16,2,0.099102002597858
 'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.0609008642970634
-'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,1,0.0575235726216468
+'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,2,0.05354551672839978
 'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,2,0.0525891858002693
 'Waldbrand Rauch',de,Impacts,#a89216,#bfba22,2,0.0495505982389578
 'Waldbrand Häuser',de,Impacts,#a89216,#a89216,2,0.045844786910297
