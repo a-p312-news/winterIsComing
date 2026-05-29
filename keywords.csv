@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.0531158696525038
 'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,2,0.0491462104579993
 'Waldbrand Rauch',de,Impacts,#a89216,#bfba22,2,0.0415382363446362
-'Waldbrand Häuser',de,Impacts,#a89216,#a89216,1,0.0360560117926895
+'Waldbrand Häuser',de,Impacts,#a89216,#a89216,2,0.034397985023786076
 'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,1,0.0242979588666076
 'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.0198879797973098
 'Waldbrand Gebäude',de,Impacts,#a89216,#a89216,1,0.0055485160292013
