@@ -6,10 +6,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Feuerwehr',de,Mitigation,#9e3215,#802d16,2,0.0590268575211172
 'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,2,0.0503562551983284
 'Waldbrand Wind',de,Causes,#679e2c,#679e2c,2,0.0492482445220355
-'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,2,0.0467248488892994
 'Waldbrand Wetter',de,Causes,#679e2c,#61d01c,1,0.0454482911063345
 'Waldbrand Schaden',de,Impacts,#a89216,#c4b03b,1,0.0452985042046282
-'Waldbrand Rauch',de,Impacts,#a89216,#bfba22,1,0.04217422669931627
+'Waldbrand Rauch',de,Impacts,#a89216,#bfba22,1,0.0421742266993162
+'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,1,0.03971628655590449
 'Waldbrand Versicherung',de,Mitigation,#9e3215,#802d16,1,0.0359838174778651
 'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,1,0.0333543428720329
 'Waldbrand Häuser',de,Impacts,#a89216,#a89216,1,0.0292384372702181
