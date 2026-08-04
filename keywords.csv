@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Unterstützung',de,Mitigation,#9e3215,#b55035,2,0.1113006791328347
 'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.1102615331278231
 'Waldbrand Todesopfer',de,Impacts,#a89216,#87830f,2,0.0969674752944756
-'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,2,0.09352764111798446
+'Waldbrand Quadratkilometer',de,Hazard,#4287f5,#022f78,2,0.09493734648874827
 'Waldbrand trocken',de,Causes,#679e2c,#61b00c,1,0.0919549615815315
 'Waldbrände Klimawandel',de,Causes,#679e2c,#477515,2,0.0913337488807922
 'Waldbrand Hitze',de,Causes,#679e2c,#7db344,3,0.0904669386890757
