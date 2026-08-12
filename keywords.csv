@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Waldbrand Hektar',de,Hazard,#4287f5,#315fa8,3,0.2484772603600771
 'Waldbrände',de,Hazard,#4287f5,#3b4a63,3,0.2451997582508133
 'Waldbrand Rauch',de,Impacts,#a89216,#bfba22,3,0.2301406765189945
-'Waldbrand Häuser',de,Impacts,#a89216,#a89216,3,0.1761954424956029
+'Waldbrand Häuser',de,Impacts,#a89216,#a89216,3,0.18199222839398974
 'Waldbrand Gesundheit',de,Impacts,#a89216,#bfba22,1,0.1667304142984884
 'Waldbrand',de,Hazard,#4287f5,#638ed4,3,0.1604695791518572
 'Waldbrand Tote',de,Impacts,#a89216,#87830f,3,0.1548987041025137
